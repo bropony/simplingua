@@ -1,0 +1,112 @@
+services:
+  # MongoDB Database
+  mongodb:
+    image: mongo:8.0
+    container_name: simplingua-mongodb
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: password
+      MONGO_INITDB_DATABASE: simplingua
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+      - ./init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js:ro
+    networks:
+      - simplingua-network
+
+  # ChromaDB Vector Database
+  chromadb:
+    image: chromadb/chroma:0.6.0
+    container_name: simplingua-chromadb
+    restart: unless-stopped
+    environment:
+      - CHROMA_SERVER_AUTHN_CREDENTIALS_FILE=/chroma/server.htpasswd
+      - CHROMA_SERVER_AUTHN_PROVIDER=chromadb.auth.basic_authn.BasicAuthenticationServerProvider
+      - ANONYMIZED_TELEMETRY=False
+    ports:
+      - "8000:8000"
+    volumes:
+      - chromadb_data:/chroma/chroma
+      - ./chromadb/server.htpasswd:/chroma/server.htpasswd:ro
+    networks:
+      - simplingua-network
+
+  # RAG Server (Internal API)
+  rag-server:
+    build:
+      context: ./rag
+      dockerfile: Dockerfile
+    container_name: simplingua-rag
+    restart: unless-stopped
+    environment:
+      - PORT=5000
+      - HOST=0.0.0.0
+      - NODE_ENV=production
+      - MONGODB_URI=mongodb://admin:password@mongodb:27017/simplingua?authSource=admin
+      - CHROMA_HOST=chromadb
+      - CHROMA_PORT=8000
+      - INTERNAL_API_KEY=${RAG_INTERNAL_API_KEY}
+    ports:
+      - "127.0.0.1:5000:5000"  # Localhost only for security
+    depends_on:
+      - mongodb
+      - chromadb
+    networks:
+      - simplingua-network
+    volumes:
+      - ./rag/logs:/app/logs
+
+  # Brain Server (API Gateway)
+  brain-server:
+    build:
+      context: ./brain
+      dockerfile: Dockerfile
+    container_name: simplingua-brain
+    restart: unless-stopped
+    environment:
+      - PORT=3001
+      - NODE_ENV=production
+      - RAG_SERVER_URL=http://rag-server:5000
+      - JWT_SECRET=${JWT_SECRET}
+      - VOLTAGENT_API_KEY=${VOLTAGENT_API_KEY}
+      - DEEPSEEK_API_KEY=${DEEPSEEK_API_KEY}
+      - CORS_ORIGIN=http://localhost:3000
+    ports:
+      - "3001:3001"
+    depends_on:
+      - rag-server
+    networks:
+      - simplingua-network
+    volumes:
+      - ./brain/logs:/app/logs
+
+  # Frontend (Next.js)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: simplingua-frontend
+    restart: unless-stopped
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+      - BRAIN_SERVER_URL=http://brain-server:3001
+      - NEXT_TELEMETRY_DISABLED=1
+    ports:
+      - "3000:3000"
+    depends_on:
+      - brain-server
+    networks:
+      - simplingua-network
+
+volumes:
+  mongodb_data:
+    driver: local
+  chromadb_data:
+    driver: local
+
+networks:
+  simplingua-network:
+    driver: bridge
