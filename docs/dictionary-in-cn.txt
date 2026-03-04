@@ -1,0 +1,3355 @@
+δ2.6 (2024-4-27)
+
+Lexilibro de Simplingua
+in Han Lingua
+简语（中文）词典
+
+路易·罗莎编纂
+
+ 
+目    录
+
+凡例	4
+缩略词表	5
+A	6
+B	11
+C	15
+D	28
+E	32
+F	34
+G	42
+H	45
+I	47
+J	48
+L	49
+M	54
+N	62
+O	66
+P	68
+Q	80
+R	81
+S	84
+T	96
+U	103
+V	104
+W	110
+Z	110
+附录1：字母与发音	111
+附录2：词缀	114
+附录3：国家名词与国家形容词	119
+附录4：词汇演化规则	129
+
+
+ 
+凡例
+
+abete 段首单词：词项
+| valiose 能产词缀派生词
+- acto 同根异尾异性词
+^l| reage 自然前缀派生词
+^l# amicale 自然后缀派生词
+^l|# internacion 自然前缀&后缀派生词
+（若派生词有过度引申，或使用了简语规则外的拼写变化，亦使用#标注）
+[形] 词性
+{系} 动词类型
+(ácie) 重音提示
+<vi(a)+age> 复合个、词素提示
+⟨vilana, vilano⟩ 自然性别词尾提示
+~ no plus 范例词组/（句首字母大写的）例句
+
+ 
+缩略词表
+
+词性
+ 
+[名] 名词
+[动] 动词
+[形] 形容词
+[副] 副词
+[数] 数词
+[介] 介词
+[代] 代词
+[限] 限定词（含冠词）
+[连] 连词
+[呼] 招呼词、语气词
+[组] 以词组形式列为词项的
+ 
+
+动词类型
+{他} 他动词（及物动词），可以接有直接宾语，亦可省略宾语
+{自} 自动词（不及物动词），不允许接有直接宾语
+{无} 无主动词，不需要主语
+{系} 系动词，其“宾语”（即表语）是名词或形容词且不允许省略
+{情态} 情态动词，其“宾语”必须是动词词组
+
+ 
+A
+ 
+a  [介] ①向，到，去往，表示目的地或终点 ~ vade a scola 去学校；②（把...）给...，引导间接宾语 ~ dona un libro a Johan 给约翰一本书；③达到...（某个数值或某个时间） ~ Mario continue labora a sera. 马里奥持续工作到晚上；④对...（非谓语动词或动词相关名词的受事者） ~ le odio a crime 对罪行的憎恨
+abete  [名] 冷杉（生物）
+acacio (acácio)  [名] 金合欢，相思木（生物）
+acate  [名] 玛瑙
+ace  [动] {自} 是酸的；发酸；呈酸性 | acente  [形] ①酸味的；②酸性的  | acido  [名] ①酸味的东西；②酸性物质；③（化学）酸  | acesce  [动] ①酸化；②变酸；③专指变馊  | aciza  [动] 使变酸
+acento  [名] ①（语言学）语调；②（语言学）口音；③语气，腔调 ~ Mi no fave ti acento. 我不喜欢你的腔调。
+- acenta  [动] {他} 强调
+acie (ácie)  [名] 钢铁，不锈钢  [形] 钢铁的，不锈钢的  | acioide  [形] 如钢铁一般（坚韧）的 ~ acioide corpo 钢铁般的身躯 ~ acioide anima 钢铁般的精神
+acne  [名] 丘疹，疱疹，痤疮，粉刺
+aco  [名] ①针，针头；②指针（如钟表指针、唱针等）
+acre  [形] ①锋利，尖锐；②形容某人说话严厉、直接  | acriza  [动] 使锋利；磨尖，磨利，磨砺，磨（刀）
+acta  [动] {自} 表演，演剧；表现  ~ Li acta como un rege. 他出演一位国王。  | actiste ⟨actista, actisto⟩  [名] 演员  | active  [形] 积极的（活跃的）
+- acto  [名] ①戏剧的幕；②法令，条例 ~ Acto cir Bani Comerce 禁商法令
+# actitudo  [名] 姿态，对待某事的表现，态度 ~ Li actitudo a li mater es male. 他对他母亲的态度很不好。
+ade  [动] {他} 附加，添加，加上 ~ Li ade poco sale in le sopa. 她添了少许盐到汤里。
+adora  [动] ①{他} 崇拜，崇敬（通常对神）；②{他} 酷好，醉心于
+agave  [名] 龙舌兰；万年青（生物）
+age  [动] ①{自} 行动 ~ Que nos age por ce compatible nines! 让我们为了这些可怜的孩子们行动起来！；②{自} 表现 ~ age male in scribe 在书写方面表现糟糕（不擅长于书写）  | agenda  [名] 待办事项；议程  | agente  [名] ①行动者；②常指代理人，代理商，中介；③（语言学）施事者  | agile  [形] 敏捷的，迅捷的，机敏的，有机动性的
+| interage /in.te.'ra.dʒe/  [动] 互动，交流，交际
+| reage  [动][名] 反应
+agro  [名] 农田，田地，田野  | agriste ⟨agrista, agristo⟩  [名] 农民
+aida  [动][名] {他} 帮助，协助  | aidiste ⟨aidista, aidisto⟩  [名] 助手，助理
+aincajoin (aincájoin)  [形] 拗口，佶屈聱牙（该词由另一门语言Esperanto的词尾-ajn、-ojn以及连词kaj拼凑而成）
+aira  [名] ①空气，气体 ~ fresce aira 新鲜空气；②空中，代指天空
+airaporto <aira+porto>  [名] 机场，空港
+ala  [名] 翼，翅膀 ~ Alas de angelo calmiza. 天使的翅膀使人感到安宁。
+alauda  [名] 云雀，百灵鸟（生物）
+alba  [名] 清晨，黎明，拂晓 ~ Aves cepe canta in alba. 清晨百鸟开始歌唱。
+albe  [形] 白色的  [名] 白色
+alea (aléa)  [名] 骰子，色子
+# aleare  [形] 随机的
+alga  [名] 藻类（生物）
+ali  [限] 别的，其他的，另外的
+alien (álien)  [形] ①外国的；异域的；外星的 ~ alien lingua 外语；②陌生的
+alio (álio)  [名] ①葱属植物（生物）；②专指蒜、蒜头（生物）
+alique <ali+que>  [限] 某个，某些
+aliqui <ali+qui>  [代] 某件（些）事物，某个（些）人
+aloe (alóe)  [名] 芦荟（生物）
+alte  [形] 高  | altitudo  [名] 高度，海拔
+altescola <alte+scola>  [名] 高中
+aluminio (alumínio)  [名] 铝（元素）
+alveolo  [名] 牙槽，齿龈
+ama  [动] ①{他} 爱；②{他} 喜欢，喜爱  | amante ⟨amanta, amanto⟩  [名] 爱人，爱侣，情侣；女朋友；男朋友  | amable  [形] 可爱的
+- amo  [名] ①爱（较宽泛的概念）；②爱情  | amose  [形] 充满爱意的
+amaranto  [名] 三色苋，雁来红（生物）
+amare  [形] ①苦味，枯涩 ~ Fi! Ce malo es amare! 呸，这个苹果是苦的！；②形容令人感到痛苦的，辛酸的 ~ amare vita 辛酸的人生
+ambasa  [名] 使团，使馆 ~ cefe de ambasa 大使
+amber  [名] 琥珀
+amice  [名] 朋友  | amiceza  [名] 友情
+# amicale  [形] 友好的，友善的 ~ Li age amicale a mi. 她表现得对我很友好。
+amigdala  [名] 杏仁（生物）
+ample  [形] 广大，广泛，种类丰富（与vaste不同）  | amplitudo  [名] 广度，范围
+amua (ámua)  [动] {自} 嘟嘴，噘嘴
+analiza  [动] {他} 分析
+anana  [名] 菠萝，凤梨（生物）
+anate  [名] 鸭（生物）
+ancora  [副] 还，仍然
+anelo  [名] ①环，圈；②专指戒指
+anfibia (anfíbia)  [名] 两栖动物（生物）
+angelo  [名] 安琪儿，天使
+anglo  [名] ①角；②角度  ~ recte anglo 直角
+anguila  [名] 鳗鲡，鳗鱼，白鳝（生物）
+anima  [名] 灵魂，精神；生命力
+# animale  [名] 动物（生物）
+anio (ánio)  [名] 年；岁 ~ Ti habe quante anios? 你多少岁啦？ ~ Un mas con 20 anios ja veni. 来了一位20岁大的男性。
+anion (ánion)  [名] 羊膜
+anque  [限][副] ①也，亦；②甚至；③同样（构成平级）
+anque se  [连] 即使，尽管
+anser  [名] 大雁，鹅（生物）
+antage <ant(e)+age>  [名] 优越，优势
+ante  [介] 在…前面；在…以前  | antore  [名] 前人，祖先，先人
+# antes  [副] ①之前 ~ Antes mi sci ce res. 之前我就知道这件事了。；②（多久）以前 ~ du semanas antes 两周以前  [副][形] 在前方
+# antique  [形] 古老，久远，古代的
+antemidi <ante+midi>  [副] 午前，在上午  [名] 上午
+anxie (ánxie)  [形] 焦急的，焦急的，担忧的  | anxieza  [名] 焦虑，担忧
+ape  [名] 蜜蜂（生物）
+apendice  [名] 阑尾
+apio (ápio)  [名] 芹菜（生物）
+apri  [动] {他}{自} 打开  | aprite  [形] ①打开的；②开放的
+aprico  [名] 杏子（生物）
+apta  [动] {他} 适合，合适
+| adapta  [动] ①{他} 适应，适应于；②{他} 将…改编
+aqua  [名] 水  ~ ade aqua a le flore/le agro 给花儿浇水/灌溉农田
+aquabota <aqua+bota>  [名] 雨鞋，水鞋
+aquacade <aqua+cade>  [名] 瀑布
+aquadia (aquadía) <aqua+dia>  [名] 星期三
+aquagas (aquagás) <aqua+gas>  [名] 汽，水蒸汽
+aquila  [名] 雕，鹰（生物）
+ara  [动] {他} 耕，犁，锄  | aratore  [名] ①犁；②锄头
+arabe  [名] 南芥（生物）
+arabidopse  [名] 拟南芥（生物）
+arancie (aráncie)  [形] 橙色的  [名] 橙色
+arancio (aráncio)  [名] 柑，橙，橘（生物）
+arbo  [名] 树；乔木  | arbario (arbário)  [名] 森林，树林，林子  | arbeta  [名] 灌木
+arania (aránia)  [名] 蜘蛛（生物）
+arca  [名] ①弧，弧形；②拱，拱形物
+arco  [名] 弓
+arde  [动] {自} 白热，灼热，炽热  | ardente  [形] ①炽热的；②激烈的（通常形容战争或赛事）
+areca  [名] 棕榈，棕榈树（生物）
+argento  [名] 银（元素）  [形] ①银的，银制的；②银色的
+arma  [名] 武器  [动] {他} 武装，给...配备武器  | armate  [形] 武装的
+# armura  [名] 盔甲  # armario (armário)  [名] 橱，柜
+aroma  [名] 香料，调味料
+arte  [名] 技艺，艺术  | artiste ⟨artista, artisto⟩  [名] 艺术家
+arteria (artéria)  [名] ①动脉；②干线
+articlo  [名] 冠词
+ascia (áscia)  [名] 斧头
+asfalto  [名] 沥青，柏油
+asino  [名] 驴子（生物）
+asper  [形] 粗糙的
+asto  [名] 计谋，阴谋诡计  | astose  [形] 狡猾的，奸诈的
+atomo  [名] 微粒，原子
+aucte  [形] 有威望的，权威的  | auctore  [名] ①权威，权威人士；②当权者；③代指当局、政府
+aude  [动] {情态} 敢于  | audente  [形] 大胆的，放肆的，敢于冒险的  | audenza  [名] 勇敢，勇气  | audiza  [动] {他} 鼓励，给...加油打气
+audi  [动] {他} 听见
+audio (áudio)  [名] 音频；录音
+aula  [名] 大厅，大堂
+auricla  [名] 木耳，木耳目菌类（生物）
+auro  [名] ①金（元素）；②金子，黄金；③代指金钱  [形] ①金的，金制的；②金色的
+aurodia (aurodía) <auro+dia>  [名] 星期五
+auto  [形] 自动的，智能的
+autuno  [名] 秋天
+ave  [名] 鸟（生物）
+avena  [名] 燕麦（生物）
+avion (ávion)  [名] 飞机
+axe  [名] 轴，中心线
+azalea (azaléa)  [名] 杜鹃花（生物）
+
+B
+ 
+baca  [名] 浆果（生物）
+bacilo  [名] 杆菌（生物）
+bacteria (bactéria)  [名] 细菌（生物）
+baja  [名] 海湾
+bala  [动] {自} 保持平衡  | balante  [形] 平衡的
+# balanza  [名] 平衡，均衡
+balba  [动] {自} 口吃，结巴
+balcon  [名] 阳台
+balena  [名] 鲸鱼（生物）
+bambu  [名] 竹子（生物）
+banale  [形] 平庸，贫乏，无聊
+banana  [名] 蕉，香蕉，芭蕉（生物）
+banca  [名] 银行
+bancanota <banca+nota>  [名] 银行支票
+banco  [名] ①凳子，板凳；②长凳，公园长椅
+banda  [名] ①条纹；②带子，绷带，丝带，授带
+bandera  [名] 旗帜
+bani  [动] ①{他} 禁止；②{他} 放逐，流放
+bania (bánia)  [动] ①{自} 洗澡，沐浴；②{他} 给...洗澡，将...全身洗一遍
+baptiza  [动] {他} 给...洗礼
+bara  [动] {他} 障碍，阻碍，妨碍  [名] 障碍，阻碍
+| imbara  [动] {他} 使感到尴尬  | imbarate  [形] 感到尴尬的 ~ senti imbarate 感到尴尬
+barba  [名] 胡子
+bardana  [名] 牛蒡（生物）
+baron  [名] 特指男爵；泛指爵士、受封贵族  | baronario (baronário)  [名] 骑士阶级，贵族阶级
+base  [形] 低的，矮的
+- baso  [名] 底部
+# basico  [名] ①地基，基础；②基地
+#- basique  [形] 基础的，基本的
+# basemento  [名] 地窖，地下室
+# basura  [名] 垃圾，废物
+basto  [名] 棒，棍，杖
+bate  [动] ①{他} 击打，打击；②{自}（心脏）跳动 ~ Core bate. 心脏跳动。
+| combate  [动] {自} 搏斗，角斗，决斗 ~ combate con 与...搏斗  | combatante ⟨combatanta, combatanto⟩  [名] 斗士  | combative  [形] 好斗的，好战的
+| rebate  [动] ①{他} 反击；②{他} 反驳
+bateria (batéria)  [名] 电池
+bauhinia (bauhínia)  [名] 洋紫荆，羊蹄甲（生物）
+bebe  [名] 婴儿
+beco  [名] 鸟嘴，尖嘴，喙
+bele  [形] 美丽的，漂亮的，好看的（可用于任何外表好看的对象而不限于女性）  ~ Mi tio es poli masclo e poli bele. 我的叔叔很阳刚、很帅。
+belo  [名] 战争
+| rebela  [动] {自} 反抗，造反，反叛，叛乱，暴动
+belotecno <belo+tecno>  [名] 战术
+ben  [副] 好地，做得好
+benface <ben+face>  [动] {他} 有利于，使...受益  [名] ①益处，好处；②利益
+bendice <ben+dice>  [动] {他} 祝福，赐福，为...祈福  [名] 祝福，祝福语
+benincasa  [名] 冬瓜（生物）
+benque <ben+que>  [连] 虽然，尽管
+benveni <ben+veni>  [动] {他} 欢迎，迎接
+benvole <ben+vole>  [动] {自} 好心，发善心  [呼] 请（通常单独用于祈使句中）  | benvolente  [形] 好心的，仁慈的
+besa  [动] {他} 亲吻，与...接吻
+- beso  [名] 吻
+besta  [名] 兽类，大型动物（爬行动物或陆栖哺乳动物）（生物）
+beta  [名] 甜菜（生物）
+betula  [名] 桦树（生物）
+bibe  [动] {他} 喝，饮  | bibido  [名] 饮料
+biete  [名] 票，券，门票
+bile  [名] ①胆汁；②比喻脾气  | bilario (bilário)  [名] 胆，胆脏
+bio (bío)  [名] 生物（生物）
+biogas (biogás) <bio+gas>  [名] 沼气
+bira  [名] 啤酒，小麦酒
+biracasa <bira+casa>  [名] 酒吧，酒屋
+bison  [名] 美洲野牛，北美野牛
+bizare  [形] 奇怪，奇异，怪异
+blama  [动] {他} 责备，指责，谴责
+blanque  [形] 空白的（通常指页面）
+blasfeme  [动] {他} 亵渎，玷污
+blasto  [名] 芽，苗，蕾，嫩枝
+blata  [名] 蟑螂（生物）
+blinca  [动] ①{自} 闪烁  ~ Le stelas blinca. 星星在闪烁。；②{自}（眼睛）眨 ~ Li oclos blinca. 她眨着眼睛。
+bloca  [动] ①{他} 锁，锁上；②{他} 封锁  | blocatore  [名] 锁
+blonde  [形] 金黄色的，淡黄色的  [名] 金黄色，淡黄色
+blue (blúe)  [形] 蓝色的  [名] 蓝色
+boca  [名] 口，嘴巴
+bola  [名] 球
+# boleta  [名] 子弹，枪弹
+bolo  [名] 碗
+bomba  [名] 炸弹
+bon  [形] 好的，良好的，优秀的  | boneza  [名] 优点，长处
+| abona  [动] {他} 订阅，订制，预订
+bonsorte <bon+sorte>  [名] 好运，幸运
+borla  [名] 穗，缨，流苏
+bos  [名] 牛（生物）
+bota  [名] 靴子，高筒靴
+botela  [名] 瓶子
+botica  [名] 商店，商铺，店铺  | boticario (boticário)  [名] 百货公司，购物商场，商业广场
+boton  [名] 纽扣，扣子；按钮
+bracilacio (bracilácio) <braci(o)+lacio>  [名] 手镯，手环
+bracio (brácio)  [名] 胳膊，手臂
+# braciura  [名] 螃蟹（生物）
+| imbracia (imbrácia)  [动] {他} 拥抱，抱  - imbracio (imbrácio)  [名] 拥抱
+brasica  [名] 甘蓝，卷心菜，包菜，椰菜（生物）
+brea (bréa)  [名] 柏油，焦油
+breve  [形] ①短的；②简短的；③（时间上）短的，不久的 ~breve pois 不久之后，没多时  | breviza  [动] ①{他} 使变短，缩短；②{他} 使缩略
+brica  [名] 砖头
+brida  [名] 马勒，辔头
+brila  [动] ①{自} 发光，闪耀，明亮；②{他} 照亮，照明，给…打光  | brilante  [形] 明亮的，耀眼的
+brio (brío)  [名] 苔藓（生物）
+bronzo  [名] 青铜
+brosa  [动] {他} 刷，洗刷  | brosatore  [名] 刷子
+brute  [形] 暴力的，残暴的，凶狠的，凶猛的  | bruteza  [名] 暴力
+bubalo  [名] 水牛，水牛属生物（生物）
+bulbo  [名] 球茎，鳞茎
+burgare  [名] ①肉饼，汉堡；②专指汉堡包
+burgo  [名] ①堡，堡垒，要塞，小型城堡；②镇，小镇
+buro  [名] ①桌子，书桌，办公桌；②梳妆台
+bus  [名] 公共汽车
+butiro  [名] 黄油，牛油
+
+C
+ 
+cabalo  [名] 马（生物）
+cabina  [名] ①小屋；②舱，船舱，机舱；③内阁
+cabo  [名] 电缆，缆线
+cabobus (cabobús) <cabo+bus>  [名] ①电车；②缆车
+cacao (cacáo)  [名] 可可豆（生物）
+cacto  [名] 仙人掌（生物）
+cade  [动] ①{自} 落下，掉落；②{自} 跌倒；③{他} 丢，丢落  | anticade  [名] 降落伞
+(cade的自然派生词以cide、cise为词干)
+| concide  [名] 机遇，巧合，偶然
+| concise  [形] 简结，简练，简要
+| decide  [动][名] {他} 决定，决心
+| incide  [名] 事故，偶发事件
+| precise  [形] 精确，准确，确切
+cafe  [名] 咖啡
+cage  [名] ①笼，槛；②牢笼，囚房
+calce  [名] 脚后跟，足踵
+calme  [形] 安宁的，平静的，冷静的
+calo  [名] 趼子，茧子，胼胝
+calve  [形] 秃，秃顶，没头发
+camelia (camélia)  [名] 山茶花（生物）
+cameleon (cameléon)  [名] 变色龙，变色龙科动物（生物）
+camelo  [名] 骆驼（生物）
+camion (cámion)  [名] 卡车
+camisa  [名] 衬衣，衬衫
+campo  [名] ①田地，田野；②场地；③场（物理学上的磁场等）；④营地  | campania (campánia)  [名] 开阔地带，尤指战场
+| acampa  [动] 露营
+can  [名] 狗（生物）
+cana  [名] 芦苇（生物）
+canale  [名] ①运河；②沟渠，水道
+cancro  [名] 癌症
+cande  [动] {他} 微微发光；发光发热
+candela  [名] 烛，蜡烛
+canfora  [名] 樟脑
+canforarbo <canfor(a)+arbo>  [名] 樟树（生物）
+canon  [名] 炮，火炮，大炮
+canonpolve <canon+polve>  [名] 火药
+canta  [动] {他} 唱，歌唱  | cantatorio (cantatório)  [名] 卡拉OK，KTV，歌厅
+- canto  [名] 歌  | cantario (cantário)  [名] 专辑；歌单
+| concanta  [动] {他} 合唱
+| incanta  [动] {他} 施法，吟唱魔法，使用魔术或巫术
+cantacto <cant(a)+acto>  [名] 演唱；演唱会
+cantotexto <canto+texto>  [名] 歌词
+capa  [名] ①罩衫，披肩；②层，层次
+capo  [名] 头
+capra  [名] 山羊（生物）
+caprice  [形] 任性，无常
+capsico  [名] 辣椒（生物）
+capta  [动] {他} 捉住，捕捉，抓住；捕捞
+# captive  [形] 顽皮的，淘气的
+(capta的自然派生词以cepe为词干)
+| acepe  [动] ①{他} 接受；②{他} 接待
+| concepe  [名] 概念
+| decepe  [动] {他} 欺骗，误导，欺诈
+| excepe  [介] 除了（排除性）
+| percepe  [动][名] {他} 感知，知觉
+| recepe  [动] {他} 收到，得到
+caqui  [名] 柿子（生物）
+caracter  [名] 性质，特征；性格
+carancia (caráncia)  [名] 苦瓜，凉瓜（生物）
+carasio (carásio)  [名] 鲫鱼
+carbo  [名] 煤，炭，木炭
+carbofumo <carbo+fumo>  [名] 煤烟，油烟
+carbopena <carbo+pena>  [名] 铅笔，炭笔
+care  [形] ①昂贵的，珍贵的；②亲爱的
+caresa  [动] {他} 爱抚，抚摸
+carga  [动] ①{他} 装载；②{他} 将...装进...；③{他} 给...充电
+- cargo  [名] 载运的货物，负荷
+cari  [名] 咖喱
+carita  [名] 慈善，布施，救济
+carne  [名] （食用的）肉，肉食，麋
+| incarna  [动] {他} 化身，化身为
+caro  [名] 车，汽车，机动车
+carota  [名] 胡萝卜，红萝卜（生物）
+carpa  [名] 鲤鱼（生物）
+carpo  [名] 腕，手腕，脚腕
+carta  [名] ①卡片；②证件；③纸牌；④代指书信
+carton  [名] ①纸板，厚纸；②纸板箱，纸盒
+casa  [名] 房屋，房子，屋子；在复合词中常常表示“店” ~ libro-casa 书店  | casania (casánia)  [名] 大厦
+| casale  [形] 随意，随便，随和
+casabota <casa+bota>  [名] 拖鞋
+casalabora <casa+labora>  [动][名] （做）家务，家务活
+caso  [名] ①案件；②案例
+castania (castánia)  [名] 栗子（生物）
+caste  [形] 贞洁，（宗教或伦理上）纯洁
+castelo  [名] 城堡，堡垒
+castra  [动] {他} 阉割，去势
+casutela <cas(a)+ut(i)-ela>  [名] 家具，家私
+catalpa  [名] 楸树，梓树（生物）
+cataro  [名] 黏膜炎
+cate  [名] 猫（生物）
+categoria (categória)  [名] 范畴
+catena  [名] ①链子，锁链；②一连串
+causa  [名] 原因
+（causa的自然派生词以cusa为词干）
+| acusa  [动][名] ①指责，谴责；②控告，控诉，起诉
+cave  [动] {自} 小心，谨慎，慎重  | cavente  [形] 小心的，谨慎的，慎重的
+cavo  [名] 洞，孔，穴  | caveta  [名] 坑，腔，膛
+| concave  [形] 凹的
+cavojanua (cavojánua) <cavo+janua>  [名] ①天窗，舱口；②下水道口
+caza  [动] {他} 打猎，捕猎  | caziste ⟨cazista, cazisto⟩  [名] 猎人
+ce  [限] 这个，这些，那个，那些
+cede  [动] ①{他} 让，让出，让渡 ~ cede via 让路  ~ cede recto a le regnante 让渡权利给政府；②{自} 让步，退让；③{他} 撤回；④{他}（某地）出产 ~ Ce agro cede sorgo. 这片农田出产高粱。；⑤{自} 离开（而前去某处）；滚开
+| concede  [动] {自} 妥协
+| excede  [动] 超越，做得比…更好
+| procede  [动] {他} 办理，处理  [名] 进程，过程
+| sucede  [动] {自}{情态} 成功
+cedro  [名] 雪杉（生物）
+cefe  [形] 首要的，主要的  [名] 头儿（老板、船长、队长等）
+cefurbe <cef(e)+urbe>  [名] 首都，都城，京城
+ceiba  [名] 木棉（生物）  ~ ceiba flore 木棉花
+cela  [名] ①小房间，单间；②囚室；③蜂房
+celarca <cel(o)+arca>  [名] 彩虹
+celebra  [动] {他} 庆祝，过（节）
+celer  [形] 快的，迅速的，迅捷的  | celeritudo  [名] 速度  
+celo  [名] 天，天空
+celoflama <celo+flama>  [名] 烟花，焰火
+celopais (celopáis) <celo+pais>  [名] 天堂，天国
+cemento  [名] 水泥
+cende  [动] ①点燃；②开动，发动（电器等）  | cendetore  [名] 开关
+censa  [名] ①余烬，灰烬；②骨灰
+|# incenso  [名] 香柱，蚊香等
+center  [名] ①中心点，圆心，中点；②中心（机构）
+| concentra  [动] ①{自} 集中，集结，集合；②{他}{自} 浓缩
+centi  [数] 百分之一，一厘
+centimeter <centi+meter>  [名] 厘米
+cepa  [名] 洋葱，葱头（生物）
+cepe  [动] {他}{自} 开始
+cepo  [名] 残余物（包括树桩，残肢，存根等）
+ceque  [形] 瞎，盲  | cequore ⟨cequora, cequoro⟩  [名] 瞎子，盲人
+cequecrede <ceque+crede>  [动][名] {他} 迷信
+cera  [名] 蜡，蜂蜡，白蜡
+ceraso  [名] 樱桃（生物）  ~ ceraso flore 樱花
+cerbo  [名] 脑袋，大脑，头脑
+cerne  [动] {他} 筛，筛除  | cernetore  [名] 筛子
+| concerne  [动] {他} 关心，关注
+| discerne  [动] {他} 歧视
+| excerne  [动] {他} 排出，排泄
+certe  [形] 有把握，确实的，肯定的  [副] 当然，肯定  | certeza  [名] 把握，确定性
+| acerta  [动] {他} 确认，证实，查明
+cervo  [名] 鹿（生物）
+cesa  [动] ①{他}{自} 停止，中止  ~ sen cesa 不停地；②{他} 关闭（电器等）
+cesto  [名] 篮子，筐，篓
+cestobola <cesto+bola>  [名] ①篮球；②篮球运动  | cestoboliste ⟨cestobolista, cestobolisto⟩  [名] 篮球运动员
+ceter  [限] 其余的  [代] 其余
+champion (chámpion)  [名] 冠军（指人或队伍）  | championesce  [动] {自} 成为冠军，获得冠军奖杯  ~ Oni homin vole championesce. 每个人都想成为冠军。  | championeza  [名] 冠军，冠军地位；第一名；状元
+chapelo  [名] 帽子
+chapter  [名] 章，篇，回
+charma  [动] {他} 迷人，吸引  | charmante  [形] 迷人的，娇艳的，妩媚的
+chata  [动] {自} 聊天，闲聊
+chau  [呼] 拜，再见
+chocolate  [名] 巧克力
+ci  [代] ①那个东西，那件事；②指代天气；③指代时间
+ciano  [形] 青色的  [名] 青色（蓝色绿色之间的颜色）
+cianobacteria (cianobactéria)  [名] 蓝细菌；蓝藻（生物）
+cicada  [名] 蝉，知了（生物）
+cicatrice  [名] 伤痕，伤疤
+ciclo  [名] ①循环，圈；②周期
+| biciclo  [名] 单车，自行车
+ciconia (cicónia)  [名] 鹳（生物）
+cifer  [名] 数字；基本数字（即0~9）  [形] 电子的，数码的  ~ cifer joco 电子游戏
+cigaro  [名] 雪茄  | cigareta  [名] 纸烟，香烟
+cigno  [名] 天鹅（生物）
+cilio (cílio)  [名] 睫毛
+| supercilio (supercílio)  [名] 眉毛
+cima  [名] 顶，顶部
+cin, cinco  [数] 五
+# cinci  [数] 五分之一
+cinamo  [名] 桂皮，肉桂（生物）
+cinta  [动] {他} 包围  ~ Le tropa ja cinta le urbe. 大军包围了那座城市。
+# cintura  [名] 腰带
+| recinto  [名] 篱笆
+cipreso  [名] 柏树（生物）
+cir  [介] ①环绕；②在…周围，在…附近；③大约；④关于
+circla  [动] ①{自} 循环；②{自} 流动，流通
+cisto  [名] 岩蔷薇（生物）
+cita  [动] ①{他} 引用；②{他} 举出，列举
+| excita  [动] {他} 刺激，激发
+| incita  [动] {他} 煽动，鼓动，怂恿
+cito  [名] 细胞
+citro  [名] 枸橼，香橼（生物）
+citrulo  [名] 西瓜（生物）
+cive  [名] 公民，居民
+# civile  [形] 文明的  | civiliza  [动] {他} 教化，使…开化  | civileza  [名] ①文明的行为表现；②人类文明
+clade  [名] 灾难，灾祸
+clama  [动] {他} 喊叫，叫喊，大叫
+| exclama  [动][名] {他} 感叹
+| proclama  [动] {他} 鼓吹
+| reclama  [动] {他} 召回，回收
+clare  [形] ①清楚，清晰；②明亮，晴朗；③清澈
+| declara  [动] {他} 澄清
+clase  [名] ①阶级；②班级
+# clasique  [形] 古典，经典
+clausa  [名] ①单句，分句，从句；②命题；③条款
+clave  [名] ①钥匙；②键盘的键  | clavario (clavário)  [名] 键盘
+| inclave  [名] 飞地（被别的国家所隔开的本国领土）
+clavo  [名] 钉子
+clesa  [名] ①教会，宗教组织；②代指教堂
+clica  [动] {他} 点击
+# clicate  [名][形] 陈词滥调；已脱离原义的
+clicamus (clicamús) <clica+mus>  [名] 鼠标
+clie (clíe)  [动] 光顾  | cliente ⟨clienta, cliento⟩  [名] 顾客
+clima  [名] 天气  | climario (climário)  [名] 气候
+clina  [动] ①{自} 倾斜，弯曲；②{他}{自} 俯下
+| inclina  [动] {自} 鞠躬，行屈膝礼
+clinatoca <clina+toca>  [动] {他} 斜靠着
+clitore  [名] 阴蒂
+clitoria (clitória)  [名] 蝶豆（生物）
+clivo  [名] 斜面，坡
+cloca  [名] ①钟；②闹钟，闹铃  | cloceta  [名] 表，手表，怀表  | clocania (clocánia)  [名] 大钟，（钟楼的）钟
+clode  [形] ①残缺的；②残疾的，残废的  | clodore ⟨clodora, clodoro⟩  [名] 残疾人，残障人士
+clope  [形] 跛退的，瘸的  | clopore ⟨clopora, cloporo⟩  [名] 瘸子
+clube  [名] 俱乐部，联谊会
+clude  [动] {他}{自} 关闭，关上
+| conclude  [动] {他} 推断出，得出（结论）  [名] 结论
+| exclude  [动] {他} 排除，除外
+| include  [动] {他} 包含，包括，含有
+coaglo  [名] 凝乳，凝块；特指豆腐（soja coaglo的简称）
+cobio (cóbio)  [名] 鮈鱼，桃花鱼（生物）
+coca  [名] 可乐
+cocinela  [名] 瓢虫，瓢甲科昆虫（生物）
+coclea (cocléa)  [名] 勺子，匙羹，汤匙
+coco  [名] 椰子（生物）
+coda  [名] 尾巴，尾部
+codo  [名] 手肘，肘关节
+cola  [名] ①可乐果（生物）；②可乐饮料
+colcha  [名] 被子
+colo  [名] 颈，脖子
+# colare  [名] 衣领
+colocasia (colocásia)  [名] 芋头，香芋（生物）
+cololabe  [名] 秋刀鱼（生物）
+colombe  [名] 鸽子（生物）
+colpi  [动] {他} 命中，击中
+coluna  [名] ①柱子；②圆柱；③支柱，栋梁；④栏，纵列；⑤栏目，专栏
+colovelo <colo+velo>  [名] 围巾，围脖
+coma  [名] 逗号
+combi  [动] {他} 组合，结合，配合，化合
+| recombido  [名] 拼图
+come  [副] 如何，怎样，怎么
+comedia (comédia)  [名] 喜剧
+cometa  [名] 彗星，流星，陨石（可俗称为cadente stela）
+como  [介] ①如同，像；②作为  [连] 就像…的那样 ~ como oni homin sci 正如每个人所知道的那样
+compe  [名] ①镣铐，锁链，枷锁；②束缚
+con  [介] ①和…一起；②伴有，伴随
+conde  [动] ①{自} 躲，隐匿；②{他} 将...藏起来，藏匿
+cono  [名] ①锥形物；②特指圆锥
+conta  [动] ①{他} 数数，计算；②{自}（能）算数，算得上  | contatore  [名] 计算机，电脑  | contatoreta  [名] 计算器  | contalogia (contalógia)  [名] 数学
+- conto  [名] ①账，账目；②账号
+| aconta  [动] {他} 记帐，会计  | acontiste ⟨acontista, acontisto⟩  [名] 会计
+| disconto  [名] 减价，折扣 ~ dudec centis de disconto 八折
+conter  [介] 对着，向着
+continulin (continulín) <continu(e)+lin>  [名] 实线
+contra  [动] {他} 面对，面向，对着
+| discontra  [动] {他} 错过
+| incontra  [动] ①{他} 遭遇，遇见，遇到；②{自} 相会；③{他} 专指（与...）约会
+copa  [名] ①杯子；②秤盘
+coper  [名] 铜（元素）
+copia (cópia)  [动] ①{他} 复制；②{他} 复印  [名] ①拷贝；②复印件
+copla  [名] ①一双，一对；②专指伉俪
+coque  [动] {他} 煮，烧，烹调，烹饪；专指炒（烹饪手法）
+coquesala <coque+sala>  [名] 厨房
+corda  [名] 绳子，弦，索
+| acorda  [动] ①{自} 达成一致，（谈判）双方同意；②{他} 根据  - acordo  [名] 协议  | acordante  [介] 根据
+| concorda  [名] ①和音；②融洽，和谐，协调
+| recorda  [动] {他} 记得  - recordo  [名] （体育等的）记录  ~ rompe recordo 打破记录
+core  [名] 心，心脏
+corepece <core+pece>  [名] 芯片
+coriander  [名] 芫荽，香菜（生物）
+corno  [名] 兽角
+corpo  [名] ①身体；②法律意义上的实体（指机构、公司、组织等）；③（数学）域
+| incorpa  [动] {他} 将…并入，吞并，合并
+corta  [动] {他} 割，刈
+corte  [名] 庭院
+cortina  [名] 帏，帐，幕，幔，帘（门帘、窗帘等）
+corvo  [名] 鸦，乌鸦（生物）
+cosa  [名] 东西，事物
+cose  [动] {他} 缝
+cosine ⟨cosina, cosino⟩  [名] 堂姐，堂妹，表姐，表妹；堂哥，堂弟，表哥，表弟
+cosme  [名] 化妆品  ~ uti cosme 化妆 ~uti cosme a (sui) palpebras 给（自己的）眼睑上妆
+cosmo  [名] 宇宙
+costa  [名] 岸，海岸
+costola  [名] 肋部，肋骨
+coton  [名] 棉花（生物）
+coturna  [名] 鹌鹑（生物）
+coxa  [名] 大腿
+cranio (cránio)  [名] 头颅，头脑
+cras  [名][副] 明天
+crase  [形] ①厚的；②粗的
+crate  [名] 格子
+crato  [名] 权力；政体，由...统治的状况
+cravata  [名] 领带
+crea (créa)  [动] 创造，开创
+crede  [动] ①{他} 相信；②{他} 信仰  | credose  [形] 虔诚，虔敬
+# credito  [名] ①信用；②贷方
+crema  [名] 奶油
+crepa  [动] {自} 爆裂，破裂，裂开
+| decrepe  [形] ①破旧的，破败的；②比喻衰老的；③比喻不稳定、不可靠的
+creper  [名] ①傍晚，黄昏；②比喻晚年、老年
+cresce  [动] {自} 生长，成长
+| decresce  [动] {自} 减少，减小，缩小，降低
+| incresce  [动] {自} 增加，增长
+creta  [名] 白垩
+cretapena <creta+pena>  [名] 粉笔
+crime  [名] 罪行 ~ face crime 犯罪
+cripto  [名] 密码
+| decripta  [动] {他} 解密，解码
+| incripta  [动] ①{他} 编码；②{他} 给...加密
+crisantemo  [名] 菊花（生物）
+crise  [名] 危机，恐慌
+crista  [名] ①鸟冠，鸡冠；②脊，屋脊，山脊
+cristalo  [名] 晶体，结晶，水晶
+critica  [动][名] {他} 批评，批判，评论
+croce  [名] ①十字，交叉；②十字架；③带十字的标记、符号、物品；④路口
+crocodilo  [名] 鳄鱼（生物）
+croma  [名] 颜色，色泽  | cromose  [形] 多彩的，五颜六色的
+cromasoma <croma+soma>  [名] 染色体
+crona  [名] 冕，冠，王冠
+crosta  [名] ①壳，甲壳，外壳，果壳；②树皮；③硬皮
+crude  [形] 残忍的，残暴的
+cuba  [动] {自} 躺，卧
+| concuba  [动] {他}{自} 同睡，同床；侍寝  | concubanta  [名] 专指妾
+cubo  [名] ①立方，立方体；②菜丁，被切成丁的食物
+cuculo  [名] 杜鹃，布谷（生物）
+cucume  [名] 黄瓜（青瓜），甜瓜（生物）
+culice  [名] 蚊子（生物）
+culo  [名] 屁股，臀部
+| recula  [动] ①{自} 倒退，倒着走；②{自} 撤退
+culpa  [名] （道德上或情感上的）罪责，罪过
+culte  [动] ①{他} 耕种，栽培；②{他} 比喻培养
+# cultura  [名] 文化
+culter  [名] 小刀，刀子，匕首
+cuma  [动] {他}{自} 堆积，累积，积累
+- cumo  [名] 堆，一堆
+cuna  [名] 摇篮
+cuneo (cunéo)  [名] 楔子，楔形木钉，销钉
+cura  [动] {他} 照顾，关心，为...操劳  | curiste ⟨curista, curisto⟩  [名] 护理人员，护士
+| secure  [形] 安全的
+| asecura  [动][名] {他} 保险，担保，保障
+cure  [动] {自} 跑，跑步
+| excure  [动] {自} 远足，远行，出游
+| ocure  [动] {自} 发生  ~ Qui ocure?! 发生了什么？！
+| procure  [动] {自} 代行职责，代理  ~ procure por 为...代行工作
+| recure  [名] 资源
+curia (cúria)  [动] {他} 对...感到好奇
+- curio (cúrio)  [名] 好奇心，想知道的欲望  ~ Curio face cate mori. 好奇害死猫。  | curiose  [形] 感到好奇的，充满好奇的
+curvo  [名] 曲线
+cuscin  [名] 枕头，靠枕，坐垫
+cute  [名] 皮，皮肤
+
+D
+ 
+dactilo  [名] 海枣，椰枣（生物）
+dana  [动] {他} 判罪，宣判
+danza  [动] {自} 跳舞，舞蹈  [名] 一支舞，舞蹈  | danzario (danzário)  [名] 舞会
+data  [名] 日期，日子  | datario (datário)  [名] ①历法；②日历，月历
+dato  [名] （单项）数据  | datologia (datológia)  [名] 数据学；统计学
+datura  [名] 曼陀罗（生物）
+de  [介] ①属于...的；②被（引导被动态语法结构或名词性动词的施事者）
+debe  [动] {情态} 必须  [名] 义务，必须要做的事
+deble  [形] 弱小的，羸弱的
+dec, deca  [数] 十；（使用复数形式decas时）好几十，几十上百
+# deci  [数] 十分之一，一成
+dece  [动] {自} 得体，得当  | decente  [形] 得体的，斯文的
+deixi  [动] ①{他} 出示；②{他} 指示，（用手指等）指向；③{他} 指出
+delfino  [名] 海豚（生物）
+delonice  [名] 凤凰木
+dense  [形] ①密集的；②茂密的；③浓稠的
+dente  [名] 牙齿
+desira  [动] ①{他} 希求，渴望；②{他} 祝愿
+deta  [动] ①{他} 欠（债）；②{他} 亏欠
+- deto  [名] 债务
+dexter  [形] 右边的，靠右的  [名] 右，右边
+dia (día)  [名] ①一日，一天；②白昼，白天  | diario (diário)  [名] 日记 |hodia  [副][名] 今天  | hidia  [副][名] 昨天
+diabete  [名] 糖尿病
+diablo  [名] 魔鬼
+dianto  [名] 石竹（生物）
+diapaper <dia+paper>  [名] 报纸（泛称）；专指日报
+diatempo <dia+tempo>  [名] 白昼，白天
+dice  [动] {他} 说  [名] 话，话语
+# dicta  [动] ①{他} 口述，口授，使人听写...；②{他} 授意，指使
+| condice  [动] {他} 调节，调整
+|# condicion (condícion)  [名] 条件
+| dedice  [动] ①{他} 题献，献词；②{他} 献身，致力于
+| indice  [动] {他} 暗指，暗示，间接提到
+| predice  [动] ①{他} 预言  ~ predice le sorte (de un homin) 算命，占卜；②{他} 预报，预告
+| sindice  [名] 工会，辛迪加
+dieta  [名] ①饮食，饮食习惯；②专指制定好的食谱
+digne  [形] 有尊严的，体面的  | digneza  [名] 尊严
+dina  [动] {自} 吃饭，用餐  [名] 餐，一顿饭  | dinatorio (dinatório)  [名] 餐厅，饭堂，饭店  | dinania (dinánia)  [名] ①大餐，盛宴；②专指宴会
+dinascia (dináscia)  [名] 王朝；家族统治
+dique  [名] 堤岸，堤坝，水坝
+disco  [名] 盘状物（如唱片、铁饼）  ~ volante disco 飞碟，幽浮
+dito  [名] 手指，脚趾
+dive ⟨diva, divo⟩  [名] ①神，神灵，天神；②（基督教等语境中的Divo）专指上帝
+do  [连] 那么，所以
+doca  [名] ①码头；②站台，月台
+doce  [动] {他} 教，教导  | dociste ⟨docista, docisto⟩  [名] 教师，老师
+# docte  [形] 有文化，有教养，有见识  | doctore ⟨doctora, doctoro⟩  [名] ①文化人士；②常专指博士
+docelibro <doce+libro>  [名] 教材，教科书
+doceloqui <doce+loqui>  [动] {他} 讲课，演讲，做讲座  [名] 演讲，讲座
+docesala <doce+sala>  [名] 教室
+dole  [动] {自} （感到）疼痛
+- dolo  [名] 疼痛，痛楚，痛苦
+doma  [动] {他} 驯服，驯养，使温顺  | domate  [形] 被驯服的，家养的  [名] 家畜，牲畜
+dombesta <dom(o)+besta>  [名] 宠物
+domo  [名] 家，住所，住处
+domomision (domomísion) <domo+mision>  [名] 家庭作业
+don  [名] 主人；领主
+dona  [动] ①{他} 给予；②{他} 赠送  | donido  [名] 礼品
+| edona  [动] {他} 出版，发行，发布
+| perdona  [动] {他} 饶恕，原谅
+dormi  [动] {自} 睡，睡觉
+dormisala <dormi+sala>  [名] 卧室，寝室
+dorso  [名] ①背部；②背面
+dose  [名] ①剂量；②一单位
+doze  [数] 十二（与dec du相同）
+# dozi  [数] 十二分之一  [名] 五分钟（仅用于表达钟点时）  ~ hora cin e sep dozis 五点三十五分
+draco  [名] 恶龙（传说生物）；龙（泛称）
+drama  [名] ①戏剧，悲喜剧；②电视剧
+du  [数] 二，两个
+duana  [名] 海关
+duantaxa <duan(a)+taxa>  [名] 关税
+duce  [动] {他} 带领，引领，指引，给...带路  [名] 公爵
+| conduce  [动] ①{他} 控制；②{他} 驾驶  | conduciste ⟨conducista, conducisto⟩  [名] 司机，机师
+| educe  [动][名] {他} 教育
+| induce  [动] ①{他} 介绍；②{他} 引进，引入
+| produce  [动] {他} 生产
+| reduce  [动] {他} 减去
+| seduce  [动] {他} 引诱，诱惑
+| transduce  [动] {他} 翻译
+ducha  [动] ①{他} 淋；②{自} 淋浴
+dulge  [动] {他} 宠爱，溺爱
+| indulge  [动] {自} 放纵，颓废
+dura  [动] {自} 持续  | durante  [形] 持续的  [介] 在…期间
+dure  [形] ①硬的，坚硬的；②（指人）硬朗的；③比喻事情艰难
+durio (dúrio)  [名] 榴莲（生物）
+duta  [动] {他} 怀疑，猜疑
+
+E
+ 
+e  [连] 和，以及
+ebeno  [名] 乌木，黑檀木（生物）
+ebrie (ébrie)  [形] ①醉酒的；②比喻陶醉或发疯
+ec  [介] 从，来自；从...起
+eco  [名] ①环境，周边环境；②特指生态环境  | ecologia (ecológia)  [名] 生态学
+economia (económia)  [名] 经济
+ede  [动] {他} 吃，食用  | edeble  [形] 可食用的，可以吃的  | edido  [名] 食物
+edita  [动] {他} 编辑，校订  | editiste ⟨editista, editisto⟩  [名] 编辑
+ege  [动] ①{他}需要；②{情态} 需要；③{情态} 应当，应该（从“需要”引申而来，表达说话人对描述对象的境况的理解与劝告）  ~ Mi pensa que ti ege stude mai poli linguas. 我想你应该（需要）学习更多语言。  | egete  [形] 被需要的；需要的，所需的，必需的
+elaste  [形] 有弹力，有弹性  | elasteza  [名] 弹性
+electro  [名] 电  | electrologia (electrológia)  [名] 电学
+elefante  [名] 大象（生物）
+elega  [动] {自} 优雅，文雅，高雅  | elegante  [形] 优美的，优雅的
+elemen  [名] ①元素，成分；②基本，基础  [形] 基本的，基础的
+elemenjure <elemen+jure>  [名] 宪法，基本法
+embrio (émbrio)  [名] 胚胎
+eme  [动] {他} 买，购买，采购  ~ vade eme 去购物
+energia (enérgia)  [名] 能源，能量
+entero  [名] 肠
+eon (éon)  [名] ①永恒，永远；②特指宙（十亿年）  [形] 永远，永恒  ~ Poli homines desira eon vita. 许多人渴望永生。
+epistola  [名] 信函
+equa  [动] {他} 等于，与...相等
+- eque  [形] 平等的
+# equacion (equácion)  [名] 等式，方程
+| adequa  [动] ①{自} 合格；②{他} 胜任（作为…的工作） ~ Li adequa un docisto. 他胜任教师工作。
+equelin (equelín) <eque+lin>  [名] 赤道
+equino  [名] 海胆（生物）
+equipa  [动] ①{他} 装备，配备，配有；②{他} 给...分配装备  | equipido  [名] 装备
+equipo  [名] 队伍
+era  [动] ①{自} 犯错，过失；②{自} 是错误的，错了
+- ero  [名] 错误，过失
+ere  [名] 刺猬（生物）
+eritro  [形] ①血红色的；②与血液有关的  [名] 血红色
+eruca  [名] ①毛虫，青虫（生物）；②履带，链轨
+es, ese  [动] {系} 是；{无}{系} 是（表达天气与时间时使用）  ~ Es nubose. 天阴。
+# esenza  [名] 本质，实质
+esce  [动] {系} 变成；变得
+escuta  [动] {他} 聆听；倾听；听（音乐等）
+esmalo  [名] 珐琅，搪瓷
+esoce  [名] 狗鱼（生物）
+esque <es+que>  [副] 是否，吗（构成一般疑问句）
+esta  [动] ①{自} 在，存在；②{自} 正在（配合主动分词或被动分词表达进行体）  ~ Ili esta dinante. 他们正在用餐。  ~ Maria esta tormentate! 玛丽亚正被虐待！
+| interesta  [动] ①{他} 关涉，关乎...的利益；②{他} 引发...的关注；③{他} 有趣，使...对自己感兴趣  | interestante  [形] 有趣的
+estate  [名] 夏天，夏季
+este  [名] 东，东方  [形] 东方的，东部的
+estima  [动] {他} 衡量，估计
+etate  [名] 年龄，年纪
+etica  [名] 伦理
+etno  [名] 族群；（人类学意义上的）民族  ~ etno cultura 民族文化 ~ Poli etnos vive in Chunca. 中国生活着诸多民族。
+eto  [名] 气氛，氛围
+eucalipto  [名] 桉树（生物）
+evo  [名] 时代，时期  | evania (evánia)  [名] 纪元
+ex  [介] 从…里面出来，出于
+# exi  [动] {他} 出去，离开  | exido  [名] 特指出口
+exame  [名] 考试，测验，考核，审查
+exerce  [动][名] {他} 练习，锻炼
+exter  [介] 在...外面
+# exters  [副][形] ①在外面；②可引申为在家外面/公司外面等  ~ Nos frequente dina exters. 我们经常在外吃饭。 
+extro  [副] 往外，向外
+
+F
+ 
+faba  [名] ①豆，豆子；②豌豆，蚕豆（生物）
+faber  [名] 工匠，匠人，制作者
+fabla  [名] 寓言，童话，小故事
+| afable  [形] 和气的，和蔼的
+face  [动] ①{他} 做，做相关的事情 ~ face domo-mísion 做作业；②{他} 造，制作，制造；③{他} 使得…  | facete  [名] 产品，产物  | facetorio (facetório)  [名] 制造厂，工厂  | facile  [形] 容易，轻松
+(face的自然派生词主要以fice为词干)
+| defice  [名] 赤字，逆差
+|# dificile  [形] 困难，艰难
+| disinfice  [动] {他} 给...消毒，杀菌
+| efice  [动] {自} 生效，起作用  [名] 效果  | eficitudo  [名] 有效程度；效率
+| infice  [动] {他} 传染，使感染  [名] 传染病  | inficania (inficánia)  [名] 瘟疫
+| ofice  [名] 办公室
+| perfice  [动] {自} 做到完美，完善，尽善尽美  | perficente  [形] 完美的，完善的
+| profice  [名] 利益，利润
+| sufice  [动] {自} 足够，充足，充分  | suficente  [形] 充足的，充分的
+| surface  [名] 面，表面
+facto  [名] 事实  ~ in facto 实际上，其实
+fago  [名] 壳斗，山毛榉（生物）
+falcon  [名] 隼，隼形目鸟类（生物）
+fali  [动][名] ①{自} 失败；②{他} 做（某事）没有成功
+false  [形] 错误的；不符合事实的
+fama  [名] 名气，名望，威望  | famose  [形] 闻名的，著名的，有名的
+| defama  [动] {他} 污蔑，诽谤
+fame  [动][名] {自} （感到）饥饿
+familia (família)  [名] 家庭  | familiane ⟨familiana, familiano⟩  [名] 家人
+# familiare  [形] 熟悉的  ~ es familiare con 与…熟悉
+fango  [名] 泥，泥泞，污垢
+fantasia (fantásia)  [名] ①奇想，幻想；②幻觉
+farina  [名] 面粉
+faringe  [名] 咽部
+fase  [名] 时间段，时期；阶段；相
+faseolo  [名] 菜豆，芸豆，豆角（生物）
+fata  [名] 仙，神灵
+fave  [动] ①{他} 喜欢，青睐；②{他} 关爱，关切
+favo  [名] ①癣；②六边形瓦片或石板
+feber  [名] ①发烧，发热；②狂热
+fede  [形] 丑，难看
+fedo  [名] 联邦，联盟
+felice  [形] 幸福
+fema  [名] 女人，女性  [形] 女性的，雌性的
+femina  [形] ①阴性的；②有女人味的，女性气质的
+fende  [动] {他} 撕，撕开，撕裂
+| defende  [动] {他} 防御，保卫
+| ofende  [动] {他} 触犯，冒犯，进犯
+fenester  [名] 窗户
+fenice  [名] 火凤凰（传说生物）；凤凰（泛称）
+feno  [名] 表象，现象
+fere  [动] {他} 携带，带来
+# fertile  [形] 肥沃的  | fertiliza  [动] {他} 施肥  | fertilizima  [名] 肥料
+| difere  [动] {他} 不同，不同于  | diferente  [形] 不同的
+|#diferenza  [名] 不同点，差异
+| indifere  [动] {他} 对…不感兴趣，冷漠
+| ofere  [动] ①{他} 供给，提供；②{他} 奉献，贡献；③{他} 有...可出售
+| prefere  [动] {他} 宁愿，偏好，更喜欢  [名] 偏好
+| refere  [动] {他} 参考
+| sufere  [动] {他} 挨，遭受，忍受（痛苦或煎熬）
+| transfere  [动] {他} 转移，转让
+feri  [动] {他} 击伤，创伤，打伤  | ferite  [名] 伤，伤口
+feria (féria)  [名] 假日
+fermenta  [动] {自} 发酵
+fero  [名] 铁（元素）  [形] 铁的，铁制的
+ferve  [动] {自} 沸腾  | fervente  [形] 沸腾的
+fesa  [动] {他} 承认，供认
+| profesa  [动] ①{他} 专于，钻研；②{他} 专门教授...  [名] ①专业；②职业
+festa  [名] 派对  | festania (festánia)  [名] 狂欢，嘉年华
+festo  [名] ①节日；②庆典
+feto  [名] 胎儿
+fi  [呼] 呸！（表达激动不满的情绪）
+fiber  [名] 纤维
+fibla  [名] 带扣
+fico  [名] 无花果；榕（生物）  ~ fico fruta 无花果
+ficarbo <fic(o)+arbo>  [名] 榕树（生物）（与fico的区别在于强调指树）
+fida  [动][名] {他} 信任，信赖
+| confida  [动] {自} 有信心，充满信心；{他} 对...有信心  ~ Confida sui! 要对自己有信心！  ~ Le patron poli confida li in face tarta. 老板对他在做蛋糕方面（的能力）很有信心。
+| difida  [动] {他} 违背，违反，违抗
+| perfida  [动] {他} 背叛，叛变，出卖，对...不忠
+fiere  [形] ①自豪的，得意的；②骄傲的，自负的
+fige  [动] {他} 张贴  | figido  [名] 张贴品，海报
+figura  [名] ①外形，轮廓；②肖像；③图形；④专指网络社交平台上的头像
+filia (fília)  [名] 女儿
+filio (fílio)  [名] 儿子
+filme  [名] ①胶片，感光片；②影片，专指电影
+filo  [名] ①线，毛线，线团；②线索
+| difila  [动] {自} 游行
+fin  [名] 末端，结尾
+- fini  [动] ①{他} 结束；②{他} 完成
+# finanza  [名] ①财政；②金融
+# finale  [形] 最后的，最终的  [副] 最后，终于  [名] 决赛
+| defini  [动][名] {他} 定义
+firme  [形] ①坚实，牢固，牢靠；②比喻坚决、坚毅
+fisica  [名] 物理，物理学
+fisio (físio)  [名] ①生理；②体格，体质
+fiso  [名] 缝隙，裂缝
+fita  [名] 植物，作物（生物）
+fixa  [动] {他} 将…固定  | fixate  [形] 固定的
+| afixo  [名] 词缀
+| infixa  [动] {他} 装订，装帧
+| prefixo  [名] 前缀
+| sufixo  [名] 后缀
+fla  [动] ①{他}（风）吹，吹拂；②{他}（用口）吹
+flagro  [名] 鞭子
+flama  [名] 火焰，火苗
+| inflama  [动] {自} 发炎  [名] 炎症
+flambasto <flam(a)+basto>  [名] 火柴
+flauta  [名] 笛子
+flave  [形] 黄色的  [名] 黄色
+flecte  [动] ①{他}{自} 屈，弯曲；②{他} 比喻使...屈服；③{他}{自} 变格，变位，屈折语的形态变化
+| reflecte  [动] ①{他} 反射；②{他} 反映
+flera  [动] {他} 嗅，闻，嗅到，闻到
+flige  [动] {他} 击落，打下
+| conflige  [动] {他} 与...起冲突，与...有矛盾  [名] 冲突，矛盾
+flirta  [动] {他} 调戏，调情
+flore  [名] 花，花朵  | floresce  [动] 开花
+florepolve <flore+polve>  [名] 花粉
+flota  [动] 漂浮，浮动
+flui (flúi)  [动] {自} 流淌，流动  | fluinte  [形][副] ①流动的；②流畅的，流利的  | fluido  [名] 流体
+| influi (inflúi)  [动][名] {他} 影响
+|# influinza  [名] 流感，流行性感冒
+| conflui (conflúi)  [动] {自} 汇流；越来越接近
+| superflui (superflúi)  [动] {自} 溢出  ~ oclaqua superflui ec li oclos 泪水溢出她的双眼
+fluta  [动] ①{自} 翩翩起舞；②{自}（尤指旗帜）飘扬
+fluxo  [名] 流（电流或水流等）  ~ celer fluxo 激流，急流，湍流，奔流
+| refluxa  [动] {自} 退潮
+foco  [名] 火  | focania (focánia)  [名] 大火，火灾
+focolegno <foco+legno>  [名] 柴，薪，柴木
+focodia (focodía) <foco+dia>  [名] 星期二
+fode  [动] {他} 掘土，翻地；挖掘  | fodetore  [名] 铲子
+folidota  [名] 穿山甲；鳞甲目动物（生物）
+folio (fólio)  [名] ①叶，叶子；②一张纸，一页纸（两面/双面）
+fon  [名] ①发音，音素；②电话，手机（telefon的简称）
+|# sinfonia (sinfónia)  [名] 交响乐
+fonde  [动] ①{他} 把...熔化；②{他} 冶炼，铸
+fonte  [名] ①泉，喷泉；②源，源头
+fora  [动] ①{他} 穿入，刺穿；②{他} 钻孔，打孔  | foratore  [名] 钻头
+forca  [名] 叉子，叉形物
+forga  [动] {他} 锻打，锻造
+forma  [名] ①形状，样子；②形式  ~ grande forma (de litera) 大写  ~ mini forma (de litera) 小写  | formasce  [动] {自} 成形
+# formale  [形] 正式的
+# formato  [名] ①公式，分子式；②格式
+| conforma  [动] {他} 符合
+| informa  [动] {他} 告知  [名] ①信息；②情报
+| reforma  [动][名] {他} 改革，改造，改良
+| uniforma  [名] 制服，工装，工作服
+formica  [名] 蚂蚁（生物）
+forno  [名] 炉子，火炉
+forte  [形] ①强壮的；②强大的，厉害的；③猛烈的  | forteza  [名] 力量
+| conforte  [形] 感到舒服的，安逸的 ~ senti conforte 感觉舒服  | confortizante  [形] 令人舒适的
+| eforta  [动] {情态}{自} 尽力，努力，费劲
+fosa  [名] 沟，渠；壕沟；护城河
+fosavia (fosavía)   [名] 隧道，坑道，地道
+foto  [名] 照片，相片
+fotolibro <foto+libro>  [名] 相册，相簿，影集  | foto  [名] 照相机
+fove  [动] ①{他} 爱惜，珍惜；②{他} 吝惜
+frage  [动] {自} 破碎，碎裂  | fragete  [形] 碎的，破碎的  | fragile  [形] 脆弱的
+# fragete  [名] 碎片
+frago  [名] 草莓（生物）
+frapa  [动] {他} 敲打，拍打
+frase  [名] 句子
+| interfrasa  [动] ①{他} 口译；②{他} 说明解释，换句话说
+frater  [名] 兄弟，哥哥，弟弟
+frauda  [动] ①{他} 诈骗，欺诈；②{自} 作弊
+fraxino  [名] 梣树，白蜡树（生物）
+frena  [名] ①刹车，制动；②急停
+- freno  [名] 制动器，刹车
+frente  [名] 前额，额头
+freque  [动] {他} 时常，常有  | frequente  [形][副] 经常，时常，常常
+fresce  [形] ①新鲜，鲜嫩；②新近  | fresciza  [动] ①{他} 使变得新鲜；②{他} 刷新（网页等）
+frica  [动] {他}{自} 摩擦
+fride  [形] 冷，凉快  | frideza  [名] 寒冷
+frideteca <fride+teca>  [名] 冰箱，冰柜
+frige  [动] {他} 油炸，煎
+fripa  [动] ①{他} 折皱，褶皱；②{自} 起皱  [名] 褶皱，皱纹
+fronte  [名] ①前面，正面；②前部；③前线，阵线
+frota  [动] {他} 涂抹
+fruta  [名] 果实，水果
+frutasalsa <fruta+salsa>  [名] 果酱
+fruto  [名] 成果
+fugi  [动] ①{自} 逃脱，脱离危险；②{自} 摆脱，脱身
+| refugi  [动] {自} 避难，逃亡，逃难  | refuginte ⟨refuginta, refuginto⟩  [名] 难民，逃难者
+fulme  [名] 闪电
+fumo  [名] 烟
+- fuma  [动] ①{自} 冒烟；② {他}{自} 抽烟，吸烟 ~ fuma cigaro 抽雪茄
+| perfumo  [名] ①香味，香气；②香水
+funde  [形] ①深的；②深刻的，深远的，深沉的  ~ no funde 浅的
+- fundo  [名] 底，深处，底部
+funge  [动] ①{自} 运行，运转；②{自} 可行，行得通
+| funcion (fúncion)  [名] ①职能，职务；②作用，功能；③函数
+fungo  [名] 真菌（生物）
+fure  [动] {自} 生气，愤怒，发火  | furiza  [动] {他} 惹怒，激怒  ~ No furiza le brute besta! 不要惹怒那头凶猛的野兽！
+- furo  [名] 怒火，愤怒  | furose  [形] 愤怒的
+fuso  [名] 纺锤
+| confusa  [动] {他} 迷惑，搅乱，使...感到混乱，使...感到迷茫  | confusate  [形] 感到疑惑的，感到迷惑的，感到迷茫的  ~ senti confusate 感到迷惑
+| difusa  [动] {自} 扩散
+| refusa  [动] {他} 拒绝
+
+G
+ 
+gado  [名] 鳕鱼（生物）
+gale  [名] 鸡（生物）
+gali  [动] {他}{自} 喷射，喷洒，迸出
+gamba  [名] ①腿；②专指小腿
+gambon  [名] 火腿
+gana  [动] ①{他} 赢得；②{他} 赢取，取得
+| ingana  [动] {他} 愚弄，戏弄，哄骗
+garanti  [动] {他} 担保，保证
+garda  [动] {他} 守卫，看守；②{他} 守候，等候  | gardiste ⟨gardista, gardisto⟩  [名] 看守，保安
+| degarda  [动] {自} 值班，执勤，在岗
+garzeta  [名] 白鹭（生物）
+gas  [名] 气体
+gasbola <gas+bola>  [名] 气球
+gela  [动] {他}{自} 冻住，冰冻
+- gelo  [名] 霜
+# gelatina  [名] 明胶，骨胶，动物胶
+| degela  [动] ①{自}（冰雪）融化，融解；②{自} 解冻
+gema  [名] 珍宝，珠宝，首饰
+geme  [动][名] ①{自} 呻吟；②{自} 悲叹
+gemelo  [名] 孪生子（双胞胎或多胞胎）之一
+gene  [名] 基因
+# genera  [动] {他} 产生
+# generale  [形] 全体的，全面的，总的，普遍，一般的  [名] 将领，将军
+# genese  [名] 代，世代，一代人
+genio (génio)  [名] 天才
+| congenie (congénie)  [形] 投机的，合拍的，意气相投的
+| ingenie (ingénie)  [形] 巧妙的，巧妙的
+geno  [名] 类型，类别；（生物学）属
+# antigeno  [名] 抗原
+gente  [名] 人们，人群  | gentile  [形] 彬彬有礼的，有风度的
+gea (géa)  [名] 地球；大地整体；盖亚，大地母亲
+geo (géo)  [名] 地理（大地、地理、地球有关的复合词通常使用geo-）
+| geologia (geológia)  [名] 地理学
+gere  [动] {他} 穿着，戴着
+| digere  [动] {他} 消化，吸收
+| regere  [动] {他} 登记，将...记录在案
+| surgere  [名] 外科，外科手术  | surgeriste ⟨surgerista, surgeristo⟩  [名] 外科医生
+geso  [名] 石膏
+gesti  [动][名] {他} 管理
+gesto  [名] ①手势  ~ face un gesto 做一个手势；②姿势动作
+gibo  [名] 驼峰
+- gibe  [形] 驼背的
+giga  [数] 吉，十亿
+girafa  [名] 长颈鹿（生物）
+glacie (glácie)  [名] 冰
+glande  [名] 腺
+gleba  [名] 土块，泥丸，泥球，坷垃
+gloria (glória)  [名] 荣誉，光荣
+glosa  [名] 舌头
+glote  [名] 声门
+glu  [名] 胶，胶水；糨糊
+gola  [名] 喉，咽喉
+golfe  [名] 高尔夫球
+gonu  [名] 膝部，膝盖
+gota  [动][名] {自} 滴
+gracia (grácia)  [动] {他} 感谢，感激
+grado  [名] 度，程度  # gradale  [形] 逐渐的，渐次的，渐进的
+grafico  [名] 表格，图表
+grama  [动][名] {他} 拼写  ~ Come ce lexi es gramate? 这个单词如何拼写？
+| programa  [名] ①程序，议程；②节目
+gramaregla <grama+regla>  [名] 正字法，拼写规则
+gramo  [名] 克（计量单位）
+grande  [形] ①大的；②（指人）高大  | granditudo  [名] 尺寸，大小
+grando  [名] 冰雹
+grano  [名] 谷物，谷类  | graneta  [名] ①谷粒；②颗粒  | granario (granário)  [名] 谷仓
+grase  [形] 肥胖的  | grasema  [名] 脂肪
+grata  [名] 栅栏，铁篦子
+gratula  [动][名] {他} 祝贺，庆贺，恭喜，恭贺
+grave  [形] ①重要的；②严重的  | graveza  [名] ①重要性；②严重性
+grege  [名] ①一群；②专指畜群，兽群
+gresa  [动] ①{自} 举步，迈步；②{自} 走路，步行；③踏，踩
+- greso  [名] ①脚步，步伐；②步骤
+| agresa  [动] {他} 进攻；进犯；侵犯  | agresive  [形] 有攻击性的，高侵略性的
+| congreso  [名] 会议，大会，代表大会
+| progresa  [动] {自} 进步，发展
+gresalato <gresa+lato>  [名] 人行道
+gresapece <gresa+pece>  [名] 踏板
+gresaponte <gresa+ponte>  [名] 天桥，旱桥
+greta  [动] {自} 哭泣，啜泣
+greve  [名] 罢工 ~ face greve 发动罢工
+grilo  [名] 蟋蟀（生物）
+gris  [形] 灰色的，花白的  [名] 灰色
+grupo  [名] ①组，组合；②群，群体
+grus  [名] ①鹤（生物）；②起重机，吊车
+guava  [名] 番石榴（生物）
+gueco  [名] 壁虎（生物）
+guma  [名] ①橡胶，树胶，树脂；②口香糖
+gusta  [动] ①{他} 品味，品尝；②{他} 比喻领略，欣赏  | gustable  [形] 可口的，美味的，好吃的
+- gusto  [名] ①味道；②口味，爱好；③品味，鉴赏能力
+| digusta  [动] {他} 使...掉胃口，使...感到恶心  | digustante  [形] 恶心的
+
+H
+ 
+habe  [动] ①{他} 有，拥有，占有，据有；②{他} 有某种关系的存在 ~ Mi habe un sora. 我有一个姊妹。③{他} 具有某种状态；④{他} 有...多大的年龄 ~ Le nino habe dec anios. 那个男孩十岁。⑤{情态} 有过某种经历（接动词词组） ~ Li no habe ede can-carne. 他没有吃过狗肉。
+habile  [形] 熟练的，灵巧的
+habita  [动] {自} 居住  | habitante ⟨habitanta, habitanto⟩  [名] 居民，居住者
+| inhabita  [动] {自} 寄生
+haliote  [名] 鲍鱼（生物）
+halo  [名] 光环；光晕；圣光
+hamo  [名] 钩子，鱼钩
+haringo  [名] 鲱鱼（生物）
+harpa  [名] 竖琴
+hasta  [名] 矛，长矛
+hauri  [动] {他} 耗竭，耗尽
+hebe  [形] 钝的
+hectare  [名] 公顷
+hecto  [数] 百
+hedro  [名] 平面，（几何）面
+helianto  [名] 向日葵，葵花（生物）
+helice  [名] 蜗牛（生物）
+hema  [名] 血，血液
+hepato  [名] 肝
+herba  [名] 草（生物）
+here  [动] {他} 黏住，粘住
+herita  [动] ①{他} 继承，承袭；②{他} 获得...的遗传  | heritido  [名] 遗产
+hero  [名] ①英雄；②（故事的）主人公
+hesita  [动] {自} 踌躇，犹豫，迟疑  ~ sen hesita 毫不犹豫地
+hia (hía)  [动] {自} 打哈欠，打呵欠
+hidra  [名] 水螅（生物）
+hidrocoiro  [名] 水豚（生物）
+higien (hígien)  [名] 卫生
+hirondo  [名] 燕子（生物）
+ho  [呼] 嗬！（表达惊奇或恍然大悟）
+ho ve  [呼] 哎呀！哎呦！
+hoi  [呼] 唉（表达无奈情绪）
+hola  [呼] 嗨，哈喽，你好
+holo  [名] 蔬菜  | holismo  [名] 素食主义，素的
+homin  [名] 人，人类  | hominario (hominário)  [名] 全人类
+honeste  [形] 诚实的，正直的
+hono  [名] 名誉，尊严
+hora  [名] ①小时；②时刻  [副] 现在（ce hora的简略形式）  ~ ce hora 现在
+hordeo (hordéo)  [名] 大麦（生物）
+horizon  [名] ①地平线，水平线；②比喻眼界，见识
+horto  [名] 园子，花园，果园
+hospe ⟨hospa, hospo⟩  [名] 客人，顾客  | hospile  [形] 好客的
+human  [形] 人道，仁爱，仁慈
+humo  [名] 土，泥土，土壤
+# humide  [形] 潮湿的
+# humile  [形] 谦逊的；自卑的；卑微的，低贱的
+| trans'huma  [动] {自} 游牧，游迁
+humodia (humodía) <humo+dia>  [名] 星期六
+
+I
+ 
+icon  [名] 图标，小型图片
+ictero  [名] 黄疸
+idea (idéa)  [名] 想法，主意，观念
+# ideale  [名] 理想，崇高目标  [形] 理想的，完全符合想象的
+ila  [代] 她（强调是女性时）
+ilece  [名] 冬青（生物）
+ili  [代] 他们，她们，它们
+ilo  [代] 他（强调是男性时）
+imagin  [名] 图，图像
+# imagina  [动][名] {他} 想象，设想
+imita  [动] {他} 摹仿，模仿，仿效，仿制
+imperidon (imperidón) <imperi(o)+don>  [名] 皇帝
+in  [介] ①在…；②往...里面；③在…方面
+# ini  [动] {他} 进入  | iniza  [动] {他} 建立，创建，创办  | inido  [名] 特指入口
+infer  [介] 在…下方
+# infers  [副][形] 在下方，在下面  ~ le infers parte 下部，位于下面的部分
+inferno  [名] 地狱
+inter  [介] ①在…之间，在...之中；②在...里面，在...内部；③...分之...（构成分数，前方为分子、后方为分母）
+# inters  [副][形] 在内部，在里面
+intro  [副] 往里，向内
+ipomea  [名] 番薯，红薯，地瓜（生物）；蕹菜，通菜，空心菜（生物）
+ire  [名] 鸢尾（生物）
+ironia (irónia)  [动] {他} 用反语讽刺，嘲弄  [名] 反语，反话
+
+J
+ 
+ja  [副] 了（完成体，表示已发生过、对现在或当时有影响的事件）  ~ Li ja aprende uti contatore. 她学会了如何使用电脑。  [呼] 好了！  ~ Ja! Ci sufice! 好了！可以了！  ~ Ja! Ci es tale. 好了！这件事就是这样。
+| deja  [副] 已经  ~ Nos deja es amices. 我们已经是朋友了。
+jacinto  [名] 风信子（生物）
+jacta  [动] {他} 自夸，吹牛，说大话
+jada  [名] 玉
+janua (jánua)  [名] 门
+jaque <ja+que>  [连] 既然  ~ Jaque nos deja esta ce loco, que nos visita le senioro. 既然我们已经在这儿了，我们就去拜访那位先生吧。
+jaqueta  [名] 夹克
+jasmino  [名] 茉莉，茉莉花（生物）
+jato  [名] 中断；（历史事件或序列中的）空缺
+jecta  [动] {他} 扔，抛，投掷
+| ajectivo  [名] 形容词
+| injecta  [动] {他} 注射
+| ojecto  [名] ①对象，客体；②宾语
+| projecta [动] {他} 投影，放映  - projecto  [名] 方案，草案，项目
+| rejecta  [动] {他} 拒收
+| sujecto  [名] ①主体；②主语
+jectacurvo <jecta+curvo>  [名] 抛物线
+jecton  [名] 筹码
+jeme  [名] 冬天
+joca  [动] ①{他} 玩，玩耍；②{他} 演奏（乐器）；③{他} 参加（球类活动）  | jocido  [名] 玩具
+- joco  [名] 游戏
+| injoca  [动] ①{他} 享受，享乐；②{他} 享有
+jocadice <joca+dice>  [动] {他} 开玩笑
+jonge  [动] {他} 套（牲口），挂（车），将...连到（某处）
+# jonte  [形][副] 一起
+# jontura  [名] ①关节；②枢纽
+|# conjoncion (conjóncion)  [名] 连词
+joven  [形] 年轻的，年青的  | joveneza  [名] 年轻，青春
+juga  [动][名] ①{他} 审判；②{他} 判断，评价
+| prejuga  [动] {他} 对...抱有偏见  [名] 偏见；刻板印象
+jugo  [名] ①轭，桎梏；②比喻奴役
+| sujuga  [动] {他} 奴役
+jupa  [名] 裙子，半身裙
+jure  [名] 法律  | juriste ⟨jurista, juristo⟩  [名] 律师，辩护人
+# jurale  [形] 合法的
+juste  [副] ①恰好；②刚才，刚刚  [形] 公正的，公平的，正直的
+
+L
+ 
+labe  [动] {自} 滑倒
+| colabe  [动] {自} 倒塌，坍塌
+labio (lábio)  [名] 嘴唇
+labora  [动][名] {自} 工作，劳动  | laboriste ⟨laborista, laboristo⟩  [名] ①劳动者；②专指工人  | laborive  [形] 勤奋的，勤劳的
+- laboro  [名] 作品，著作
+laca  [名] 油漆
+lacerta  [名] 蜥蜴（生物）
+lacio (lácio)  [名] ①花边，蕾丝；②鞋带，束带；③（网络）链接
+laco  [名] 湖泊
+lacte  [名] 奶，乳汁
+lactuca  [名] 莴苣类蔬菜，生菜（生物）
+lacuna  [名] 泻湖
+ladron  [名] 匪徒，贼，山贼，海盗
+lagenaria (lagenária)  [名] 葫芦
+lamina  [名] ①刀身，刀口，刃；②花瓣
+# laminaria (laminária)  [名] 海带（生物）
+lampa  [名] 灯
+lampabola <lampa+bola>  [名] 灯泡
+lampiride  [名] 萤火虫（生物）
+lana  [名] ①羊毛，毛绒，毛织物；②指代毛衣
+laringe  [名] 喉部
+laro  [名] 海鸥（生物）
+lascive  [形] 好色，淫荡，放荡
+lase  [形] 疲劳的，累的
+lata  [名] 罐
+late  [形] 宽的，宽阔的  | latitudo  [名] ①宽度；②纬度
+lato  [名] ①（位置关系）边，面，侧；②（几何图形的）边；③层面，方面
+| relata  [动] {他} 与…有关系，与...相关  [名] 关系
+|# relativo  [名] 亲属，亲戚
+latra  [动] ①{自}（狗）吠；②{自} 比喻叫骂，漫骂
+lauda  [动] 称赞，赞扬
+lava  [动] {他} 洗；冲刷  | lavima  [名] 洗涤剂（洗衣液，洗衣粉等）
+| ablava  [动] {他} 冲洗，将…洗掉
+| dilava  [动] {他} 稀释
+lavander  [名] 薰衣草（生物）
+lavasala <lava+sala>  [名] 厕所，洗手间
+laxa  [动] ①{他} 留下，丢下；②{他} 让，放任，听任
+le  [限] （定冠词）
+leale  [形] ①忠实的，忠诚的，坚贞的；②逼真的，还原度高的
+lebe  [名] 壶（水壶、茶壶等）
+leca  [动] ①{他} 舔，舐；②{他} 比喻拍马屁
+lecte  [动] {他} 采摘，捡
+| colecte  [动] {他} 收集，收藏  | colectete  [名] 收藏品  | colectiste ⟨colectista, colectisto⟩  [名] 收藏家
+| delecte  [动] {他} 选派（代表），选举（议员）
+| dilecte  [动] {他} 业余爱好于；在…方面是业余的  | dilectante ⟨dilectanta, dilectanto⟩  [名] 业余爱好者
+| electe  [动] {他} 选举
+lecto  [名] 床
+lege  [动] {他} 读，阅读  | legenda  [名] 传说，传奇
+legno  [名] 木头，木材  [形] 木材的，木质的  | legniste ⟨legnista, legnisto⟩  [名] 木匠，木工
+legnodia (legnodía) <legno+dia>  [名] 星期四
+len  [形] ①平滑的，平坦的；②流畅的
+lente  [形] 慢的
+leon (léon)  [名] 狮子（生物）
+leontopodio (leontopódio)  [名] 雪绒花，火绒草（生物）
+lepo  [名] 兔子（生物）
+leson  [名] 课，功课  | lesonario (lesonário)  [名] （一整套）课程
+lete  [形] 高兴的，开心的
+leva  [动] {他} 举，抬，提起
+| aleva  [动] ①{他} 饲养；②{他} 专指改良品种，培育良种
+leve  [形] 轻的
+lexi  [名] 词，单词  | lexario (lexário)  [名] 词汇
+lexilibro <lexi+libro>  [名] 词典
+li  [代] 它，他或她
+liber  [形] 自由的（该词不表达vacante空闲的之义）  | liberiza  [动] {他} 解放，使自由
+libra  [动] {自} 颠簸，上下摆动
+libro  [名] 书籍，簿，册  | libreta  [名] ①小册子；②本子  | librario (librário)  [名] 图书馆
+lice  [动] {他} 允许，准许
+# licenza  [名] ①许可，特许；②许可证
+lici  [名] 荔枝（生物）
+licio (lício)  [名] 枸杞（生物）
+lide  [动] {他} 撞，撞向，撞上
+| colide  [动] {自} 相撞，碰撞
+| elide  [动] {他} 省略掉，删减
+liga  [动] {他} 绑，连  [名] 联盟，协会
+# ligamento  [名] 韧带
+| religa  [名] 宗教
+lilio (lílio)  [名] 百合（生物）
+lima  [动] {他} 锉，切削  | limatore  [名] 锉刀
+limace  [名] 蛞蝓，蜒蚰，鼻涕虫（生物）
+lime  [名] ①门槛，槛；②分界线，界限，范围  ~ sen lime 无边无际的
+# limita  [动] {他} 限制
+| elima  [动] {他} 消除，消灭，清除，去除
+| sulima  [动] {自} 升华，固体气化
+limon  [名] 柠檬（生物）
+lin  [名] 线
+linfa  [名] 淋巴
+lingua  [名] 语言  | lingualogia (lingualógia)  [名] 语言学
+linguaregla <lingua+regla>  [名] 语法，语言规则
+lino  [名] 亚麻（生物）
+lique  [动] ①{自} 呈现液态；②{自} 漏出，流出  ~ Mi hema lique! 我在流血！（我的血正在流出）  | liquido  [名] 液体
+lira  [名] ①畦，垄沟；②辙痕
+| delira  [动] {他} 谵妄，说胡话，胡言乱语
+lista  [名] 列表，清单，名单
+| alista  [动] ①{他} 将...列入，将...算入；②{他} 招募；特指募兵
+liter  [名] 升
+litera  [名] 字母
+# literale  [形] 字面上的，字面意义的
+# literatura  [名] 文学
+literalista <litera+lista>  [名] 字母表
+live  [动] {自} 淤青
+livelo  [名] ①水平面；②水平
+loco  [名] 地点，处所，场所
+# locale  [形] 本地的，地方性的
+locolingua <loco+lingua>  [名] 地方语言，方言
+locusta  [名] 蚱蜢，蝗虫（生物）
+logia (lógia)  [名] 学科
+logica  [名] 逻辑
+# logicale  [形] 符合逻辑的，合理的
+longan  [名] 龙眼（生物）
+longue  [形] 长的  | longuitudo  [名] ①长度；②经度
+lonicera  [名] 忍冬，金银花（生物）
+loqui  [动] ①{他} 使用/讲（某种语言）；②{自} 讲话；③{自} 演讲  | loquive  [形] 善谈的，爱讲话的；啰嗦的
+| coloqui  [动] {自} 会话，谈话，交谈
+| eloqui  [动] {自} 雄辩；展现文采
+| proloqui  [名] 前言，序言
+loto  [名] 百脉根，莲，荷（生物）
+lube  [形] 滑溜的，润滑的
+lucta  [动] {自} 战斗，斗争
+lufa  [名] 丝瓜（生物）
+luge  [动] ①{他} 哀悼，吊唁，悼念；②{自} 服丧
+lumbrico  [名] 蚯蚓（生物）
+lume  [名] 光  | lumose  [形] 明亮的，光亮的
+| translume  [形] 透明，透光
+luna  [名] 月亮，月球
+lunadia (lunadía) <luna+dia>  [名] 星期一
+lupo  [名] 狼（生物）
+luscinia (luscínia)  [名] 歌鸲，夜莺（生物）
+luxe  [形] ①贵的；②奢侈的；③华丽的
+
+M
+ 
+ma  [连] 但是，可是，却
+macina  [动] {他} 研磨，碾
+maclo  [名] ①污点，瑕疵；②斑点
+macropode  [名] 袋鼠（生物）
+magia (mágia)  [名] 魔法，法术  | magiste ⟨magista, magisto⟩  [名] 魔法师，魔术师
+magne  [形] ①伟大的；②壮观的，宏伟的
+magneta  [名] 磁，电磁
+magnolia  [名] 木兰（生物）
+magre  [形] ①薄的；②细的
+mai  [副] ①（搭配形容词或副词时）更加，更；②（搭配状态动词时）程度更深
+# majore  [限] 大部分的，多数  [代] 大部分，多数
+majeste  [形] 威严的  | majesteza  [名] 陛下（对君主的称呼）
+mala  [名] 面颊，脸蛋（一侧）
+male  [形] ①不好的，劣质的；②坏掉的
+maledice <male+dice>  [动] {他} 诅咒
+malefunge <male+funge>  [动] {自} 发生故障，失灵
+maleo (maléo)  [名] 锤子，榔头
+malecomprende <male+comprende>  [动] {他} 误解
+malesorte <male+sorte>  [名] 厄运，坏运气
+malo  [名] 苹果（生物）  ~ malo flore 海棠花
+malvo  [名] 锦葵（生物）
+mama  [名] 妈妈（mater的昵称）
+mana  [名] 早晨
+manaria (manária)  [名] 礼貌，礼仪
+manca  [动] {他} 缺少，缺乏，欠缺
+manda  [动] ①{他} 吩咐，指令，命令；②{他} 点（菜）
+| comanda  [动] {他} 统率，指挥
+| demanda  [动] ①{他} 要求，诉求，需求；②{他}（商品）要价为
+mane  [动] {自} 过夜，留宿，住宿  | manetorio (manetório)  [名] 旅店，旅馆，酒店，宾馆
+maner  [名] 庄园，田庄
+manica  [名] 袖，袖口
+manioca  [名] 木薯（生物）
+mano  [名] 手，手部
+manolampa <mano+lampa>  [名] 提灯，灯笼
+manopera <mano+opera>  [动] {他}{自} 演练，演习；实操，实习
+manorele <mano+rele>  [名] 栏杆，扶手
+manoscripto <mano+scripto>  [名] 手稿；原稿；抄本，手抄本
+manosoco <mano+soco>  [名] 手套
+mante  [名] 螳螂（生物）
+mantelo  [名] ①披风，斗篷；②大衣，外套
+mapa  [名] 地图
+maquina  [名] 机器，机械  | maquinalogia (maquinalógia)  [名] 力学，机械学  | maquiniste ⟨maquinista, maquinisto⟩  [名] 工程师，技师
+marca  [名] ①记号；②商标
+marce  [动] ①{自} 枯萎，凋谢；②{自} 比喻衰弱，衰老
+mare  [名] 海  | marania (maránia)  [名] 大洋
+marea (maréa)  [名] 潮汐
+margin  [名] 边，边缘
+marmo  [名] 大理石
+maron  [形] 褐色的，棕色的，栗色的  [名] 褐色，棕色，栗色
+marte  [名] 貂（生物）
+mas  [名] 男人，男性  [形] 雄性，男性
+masa  [名] ①一群，一堆，一团；②专指人群；③质量（物理学）
+| amasa  [动] ①和面，揉面；②揉捏，捏塑
+masacra  [动] ①{他} 宰杀；②{他} 屠杀
+masage <mas(a)+age>  [动][名] {他} 按摩，揉捏
+masclo  [形] ①阳性的；②阳刚的，男子汉气质的，男性气质的
+maste  [名] 桅杆，樯，电线杆
+master  [名] ①师傅；②专家，大师
+mastica  [动] {他} 咀嚼，（像咀嚼似的）体会
+| remastica  [动] {他} 反刍
+mata  [名] 垫子，席子
+mater  [名] 母亲
+# materia (matéria)  [名] 材料，物资
+mature  [形] 成熟的，成年的
+max  [副] 最
+# maximo  [名] 最大量，最大数，最大限度
+mecha  [名] 灯芯；导火线，导火索
+mede  [动] {他} 治疗，医疗  | medetorio (medetório)  [名] 医院  | mediste ⟨medista, medisto⟩  [名] 医生，医师  | medima  [名] 药物，药剂，药品  | medelogia (medelógia)  [名] 医学
+# medita  [动] {自} 沉思，冥想
+media (média)  [名] 媒体，媒介
+medicago  [名] 苜蓿（生物）
+mediclase <medi(o)+clase>  [名] 中产阶级，中产阶层，中间阶层；（特定社会中的）自由民阶级；布尔乔亚
+medidia (medidía) <medi(o)+dia>  [名] 历法中的分日或至日  ~ medidia de autuno 秋分
+medio (médio)  [名] 中间
+# mediale  [形] 中等的；处于中间阶段的
+mediscola <medi(o)+scola>  [名] 中学；专指初中
+medula  [名] 髓，骨髓
+medusa  [名] 水母（生物）
+mega  [数] 兆，百万
+mela  [形] 黑色的，深色的  [名] 黑色
+mele  [名] 蜜，蜂蜜
+meleagre  [名] 火鸡（生物）
+melon  [名] 瓜，甜瓜，香瓜
+melongena  [名] 茄子（生物）
+member  [名] 成员，会员
+membrana  [名] 膜
+memoria (memória)  [名] 记忆，回忆  | memoriza  [动] 记住
+men  [副] 更不
+mena  [动][名] {他} 威胁，恐吓
+menda  [动][名] {他} 推荐，介绍
+menta  [动] {他} 说起，提及，提到
+| comenta  [动] {他} 评论  - comento  [名] 评论
+| rementa  [动] {他} 提醒 ~ Rementa le lexi a mi! 提醒我那个词！
+mente  [名] 心灵，心智
+| demente  [形] ①疯狂的，失去理性的；②荒诞的，怪诞的
+menti  [动] {他} 说谎，撒谎
+mento  [名] 下巴，下颌
+menu  [名] 菜单
+merce  [名] 货物，货品  | mercetorio (mercetório)  [名] 集市，市场，交易会，展销会
+| comerce  [动] ①{自} 交易，做买卖；②{自} 经商  [名] 商业
+merda  [名] 粪便，大便
+merge  [动] {自} 淹，沉没
+| emerge  [动] {自} 冒出，冒头，突然出现
+| imerge  [动] {自} （主动）潜入；潜水
+merita  [动] {他} 值得，应得，配得上
+mersa  [动] {他} 把…浸入，沾，蘸，泡
+mes  [名] 月，月份
+mesi  [名] 腰，腰部
+mesme  [形] 同样的，相同的
+metalo  [名] 金属
+mete  [动] {他} 收割，收获
+meter  [名] ①米；②测量仪
+| permeter  [名] 周长
+| simeter  [形] 对称的
+meti  [动] {他} 量，测量
+metodo  [名] 方法，办法
+mi  [代] 我
+micro  [数] 百万分之一  [形] 极小的，微观的
+midi  [名] 中午
+migra  [动] {自} 迁徙，移民  | migrante ⟨migranta, migranto⟩  [名] 迁徙者，移民
+mili  [数] 千分之一
+milimeter <mili+meter>  [名] 毫米
+milio (mílio)  [名] 黍，稷，粟，小米（生物）
+milite  [名] 士兵  | militario (militário)  [名] 军队
+mimosa  [名] 含羞草（生物）
+min  [副] 最不
+# minimo  [名] 最小值，最低限度  ~ a minimo 至少
+# minore  [限] 小部分的，少数的  [代] 小部分，少数
+mina  [名] ①矿，矿山，矿坑；②地雷，地雷坑
+# minera  [名] 矿石
+# minerale  [名] 矿物，矿物质
+mine  [动] {自} 伸出，凸出，凸起
+| emine  [动] {自} 卓越，杰出，优质，优良  | eminente  [形] 卓越的，杰出的
+| imine  [动] {自} 马上，不久，即将发生
+| promine  [动] {自} 突出，显眼
+mini  [形] 小
+| dimini  [动] {他} 压缩；精简化
+minister  [名] 部长，阁员，大臣
+minta  [名] 薄荷（生物）
+minuto  [名] 分钟
+mira  [动] {他} 惊讶，对...感到惊奇  | mirable  [形] 奇妙，不可思议，令人惊叹的  | miranda  [名] 奇迹，奇观
+| amira  [动] {他} 崇拜，崇敬（通常对人）  | amiranda  [名] （宗教）偶像；（娱乐）偶像，明星
+miria (míria)  [数] 万（通常只用于东亚语境或者表达东亚文化内容，不作为常规数词；常规应使用dec quilo）
+misce  [动] {他} 使混合
+mistique  [形] 神秘的
+mite  [动] ①{他} 派出，派遣；②{他} 发出，发送，寄送
+# mision (mísion)  [名] 任务；功课
+| comite  [动] {他} 委托，托付，委任  [名] 伯爵
+| dismite  [动] {他} 解散
+| emite  [动] {他} 散发，播散
+|# emision (emísion)  [名] （电视、电台或网络等的）节目
+| sumite  [动] {他} 提交，交付
+| transmite  [动] {他} 转发，转交，移交
+mito  [名] 神话
+modera  [动] {他}{自} 节制，使...不那么极端  | moderate  [形] 适度的，有节制的
+moderne  [名] 现代  [形] 现代的，近代的  | modernesce  [动] 现代化
+modeste  [形] ①谦虚的，虚心的；②朴实的，简朴的，朴素的
+modo  [名] ①手段，方法；②（抽象的）样子
+# modelo  [名] 模型，模特，写生用的实物
+# modifa  [动] {他} 改，修正
+| comode  [形] 便利，方便，合适，适宜
+mole  [形] 软的，软绵绵的
+mona  [名] 钱  | moneta  [名] 硬币  | monario (monário)  [名] 资产，资金，资本  | monariste  [名] 资本家  | monarismo  [名] 资本主义
+monace ⟨monaca, monaco⟩  [名] （各种宗教中的）修士（尼姑、修女、僧侣、和尚等等）
+mone  [动][名] {他} 劝导，训斥，告诫
+monster  [名] 畸形的动植物，奇葩，怪物，怪兽
+monta  [动] ①{他} 骑乘；②{他} 装配，安装；③{他} 镶嵌；④{他} 剪辑
+monte  [名] 山
+mora  [动][名] {他}{自} 延误，延迟，耽搁，耽误
+morde  [动] ①{他} 咬；②{他} 腐蚀，侵蚀
+more  [名] 礼貌；风俗
+# morale  [形] ①礼貌的；②合乎道德的，符合伦理的
+mori  [动] {自} 死亡  | morite  [形] 已死的  | moriza  [动] {他} 杀死
+moriteca <mori+teca>  [名] 棺材
+mormora  [动] {自} 嘟哝，抱怨，发出低沉连续的声音
+moro  [名] 桑树（生物）
+mosca  [名] 蝇类，苍蝇（生物）
+mota  [动] ①{他}{自} 移动，运动；②{他} 使...感动  | motable  [形] 可移动的（可用于描述手机、家具等）  ~ motable telefon 手机/移动电话
+# motore  [名] 发动机，摩托，引擎
+| comota  [动] {自} 制造混乱，发起骚乱  [名] 骚乱
+| demota  [动] {他} 使...降职，将...贬谪
+| emota  [动] {自} ①表达情绪，表现感情（尤指戏剧）；②（网络当中）使用图像表情传达情感；③激动，表现兴奋  [名] 情绪，心情  | emotive  [形] 感性的；喜怒形于色的；易于激动的
+| promota  [动] ①{他}{情态} 促进，推进，推动  ~ Ili promota vende ce specie de contatore. 他们正在促销这款电脑。；②{他} 擢升，提拔，使...升职
+mufa  [名] 霉
+mugi  [动] {他}（兽类）叫，嘶，哞
+mundo  [名] 世界
+# mundale  [形] 全球的，世界性的
+mundolibro <mundo+libro>  [名] 百科全书
+muno  [名] 责任，义务，负担，职责
+| comun  [形] 共同的；公共的，集体的  | comunismo  [名] 共产主义
+| imun  [形] ①免责的；②免疫的  ~ es imun in 在...方面免疫
+murina  [名] 瓷，瓷器
+muro  [名] 墙
+muroforno <muro+forno>  [名] 壁炉，炉灶
+mus  [名] 鼠，老鼠，家鼠（生物）
+musa  [动] {他} 盯
+| amusa  [动] {他} 逗笑，娱乐，使…高兴  | amusante  [形] 逗的，好笑的，好玩的
+musclo  [名] 肌，肌肉
+museo (muséo)  [名] 博物馆，博物院
+musica  [名] 音乐
+muta  [动] ①{自} 变换；②{他} 改变
+| intermuta  [动] {他} 交换 ~ Ana ja intermuta un libro per cololacio con ila. 安娜用项链跟她做了交换，换得一本书。
+mute  [形] ①哑的；②沉默，不作声
+mutue (mútue)  [形][副] 互相，相互
+
+N
+ 
+naive  [形] 天真的，幼稚的，纯朴的
+namice  [名] 敌人
+nano  [数] 十亿分之一
+napo  [名] 油菜（生物）
+nara  [动] {他} 讲（故事），叙述
+narciso  [名] 水仙（生物）
+narco  [名] 毒品；迷幻药
+nasaqua <nas(o)+aqua>  [名] 鼻涕
+naso  [名] 鼻子
+nata  [动] {自} 游水，游泳，漂浮
+nate  [动] {自} 诞生，出生
+# native  [形] 本土的
+# natura  [名] 自然，本性
+# nacion (nácion)  [名] ①国民；②国族，（政治意义上的）民族，（因认同而形成的）民族；③民族国家，常直接代指国家
+| conate  [动] {自} 同源，同出一源  ~ Ce du lexis conate. 这两个词是同源词。
+|# internacion  [形] 国际的  ~ internacion studente 国际学生，留学生
+| prenate  [动] ①{他} 怀着；②{自} 怀孕，妊娠  | prenantente  [形]怀孕的，妊娠的
+nausea (nauséa)  [动] {自} 恶心，想呕吐
+navage <nav(e)+age>  [动] {自} 航行，出海
+nave  [名] 船  | navania (navánia)  [名] 舰，大船，轮船 | naveta  [名] 舟，小船
+nebla  [名] 雾
+necro  [名] 死尸，尸体，尸身
+necte  [动] {他}{自} 连接，连结
+| anecte  [动]{他} 附送，附带，附加
+| disnecte  [动] ①{自} 断开（网络）；②{自}（电器等）断开，断线；③{自} 短路
+nega  [动] {他}{自} 说不（否决、否认等）  [形] 负的，仅用于数词
+# negative  [形] 负面的；消极的；悲观的
+negocia (negócia)  [动] {自} 商谈，谈判
+neo (néo)  [形] 新的  [副] 重新  | neiza  [动] {他} 更新，翻新
+nepa  [名] 孙女，外孙女
+nepo  [名] 孙子，外孙
+nervo  [名] 神经  | nervose  [形] 烦躁，紧张不安，神经质，神经过敏
+neso  [名] 岛屿  | nesario (nesário)  [名] 群岛
+neuter  [形] 中立的
+neve  [动] {自}{无} 下雪  [名] 雪
+nevepupa <neve+pupa>  [名] 雪人  ~ face un nevepupa 堆一个雪人
+ni  [数] 零（用于读数码时）
+niame  [名] 山药，淮山，薯蓣；薯蓣属植物（生物）
+nido  [名] 巢，窝，窠，穴
+nilo  [代] 没有什么东西，没有什么事情，没有人
+nilon  [名] 锦纶，尼龙
+nina  [名] 女孩子，女生，少女，小姑娘
+nine  [名] 孩子，小孩，儿童，少年  | ninoide  [形] 孩子气的
+ninfa  [名] 仙子；妖精；仙女
+nino  [名] 男孩子，男生
+ninfoide  [名] 荇菜（生物）
+niza  [动] {自} 打喷嚏
+no  [副] 不，没（做某事）
+noble  [形] 高尚的，高贵的，崇高的
+noce  [动] {他} 伤害，损害，打伤，弄坏
+nocte  [名] ①夜晚，夜间；②深夜，凌晨
+nodo  [名] ①结，节；②交点
+nof, nove  [数] 九
+# novi  [数] 九分之一
+nomber  [名] ①数，数目；②序号，编号，号，期
+nome  [名] 名字
+| conome  [名] 外号，绰号，诨号，别名，小名
+| pronome  [名] 代词
+nona  [名] 祖母，奶奶，婆婆，外婆，姥姥
+nono  [名] 祖父，爷爷，公公，外公
+nonza  [动][名] {他} 宣布，通知，通告，公告  | nonzario (nonsário)  [名] 定期公报，日常通报
+- nonzo  [名] 讯息，消息  ~ breve nonzo （特指）手机短信
+| anonza  [动] {他} 宣传，传播，给...打广告
+| denonza  [动] {他} 告发，揭发
+| prononza  [动] {他} 发音为，发…的音
+norde  [名] 北，北方  [形] 北方的，北部的
+norma  [名] 常规，正常状态
+# normale  [形] 正常的，普通的
+nos  [代] 我们
+nota  [动] {他} 觉察，发觉，注意
+# noticia (notícia)  [名] 新闻，消息  | noticiste ⟨noticista, noticisto⟩  [名] 新闻工作者
+| conota  [动] {他} 认识，知道（某人）
+| disnota  [动] {他} 不理会，无视，漠视
+| reconota  [动] {他} 认出
+nota  [名] 笔记  ~ face nota 记笔记
+novia (nóvia)  [名] 未婚妻，新娘
+novio (nóvio)  [名] 未婚夫，新郎
+nua  [动] {自} 有微妙差异  ~ Le du lexis nua. 那两个词有微妙的不同。  | nuanza  [名] 细微的差异，微妙的不同
+nube  [名] 云  | nubose  [形] 多云，阴，阴沉的
+nuce  [名] ①坚果；②果核
+nucleo (nucléo)  [名] ①仁，核，核心；②核能
+nude  [形] 裸体的，裸露的
+nuge  [名] 小事，琐事，琐碎事
+nule  [限] 没有，没有一个  | nuliza  [动] 取消
+nunca  [副] ①从不；②永不
+nuta  [动]①{他} 顿，点（头）；②{自} 专指点头
+nutri  [动] ①{他} 喂养，哺育；②{他} 赡养，抚养，饲养
+# nutrinza  [名] 营养
+
+O
+ 
+o  [连] 或者
+obedi  [动] {他} 服从，听从
+oblia (óblia)  [动] {他} 忘记
+oc, octo  [数] 八
+# octi  [数] 八分之一
+oclaqua <ocl(o)+aqua>  [名] 眼泪
+oclo  [名] 眼睛
+octopode <octo+pode>  [名] 章鱼，八爪鱼（生物）
+ocupa  [动] {他} 占领，占据  | ocupate  [形] ①被占领的；②比喻繁忙的、忙碌的
+odia (ódia)  [动] {他} 讨厌，厌恶
+- odio (ódio)  [名] 厌恶，憎恨，仇恨  | odiose  [形] 憎恨的，充满恨意的
+odo  [名] 气味
+oficio (ofício)  [名] 官方
+# oficiale  [形] 官方的，权威的，正式的
+ola  [名] 锅
+ole  [动] ①{自} 散发气味；②{系} 闻起来  ~ ole male 是臭的，发出臭味
+oleo (oléo)  [名] ①油（统称）；②专指食用油
+oliva  [名] 橄榄，油橄榄（生物）
+ombra  [名] 阴影
+# sombre  [形] 黑暗的，昏暗的
+ombrela  [名] 伞；雨伞
+onca  [名] 美洲豹，美洲虎（生物）
+onda  [名] 波浪，浪潮  | ondania (ondánia)  [名] 巨浪，海啸  ~ Ondania va agresa le costa de le pais. 海啸将侵袭该国的海岸。  | ondeta  [名] 波纹，涟漪
+| abonda  [动] {自}（某物）盛产，（资源或器物）丰富  | abondante  [形] 数量丰富的，大量的
+| inonda  [动] {自} 泛滥，淹没  [名] 洪水
+ongla  [名] 指甲，趾甲，爪子
+oni  [限] ①每个；②任何，任意  [副] 无论，不管（通常接疑问词）  ~ oni come 无论如何  ~ Oni qui ama ce nina. 无论是谁都会爱上这个女孩。 
+onze  [数] 十一（与dec un相同）
+# onzi  [数] 十一分之一
+opera  [动] ①{自} 做手术；②{他} 操作，操纵  [名] 歌剧
+| copera  [动] {自} 合作
+opina  [动] {他} 以为，认为  [名] 意见  | opinario (opinário)  [名] 舆论，公共意见
+opta  [动] {他} 选择  [名] 选项
+| adopta  [动] ①{他} 采纳，采用；②{他} 收养，过继
+ordin  [名] 次序，条理，秩序  ~ in ordin 有条理，有秩序，整齐
+# ordina  [动] 收拾，整理，排序
+# ordinare  [形] 普通的，平常的
+| disordin  [名] 混乱，无序  ~ in disordin 混乱的，凌乱的，乱七八糟的
+orfane ⟨orfana, orfano⟩  [名] 孤儿
+organo  [名] ①器官；②组织  | organiza  [动] {他} 组织
+ori  [动] ①{自} 升起，上升；②{自} 爬起；③{自} 起床
+origin  [名] ①起源，源头；②出身，来历；③原点；④原作，原型
+# originale  [形] ①原始的，最初的；②原创的
+oriolo  [名] 黄鹂（生物）
+orna  [名] 装饰，装饰品
+| adorna  [动] {他} 装饰，修饰，点缀
+| suborna  [动] ①涂，抹；②贿赂
+orque  [名] 兰花，兰科植物（生物）
+orso  [名] 熊（生物）
+orto  [名] 正统  [形] 正统的，正宗的，主流的
+oscila  [动] {自} 摆动，摇摆  | oscilatore  [名] 秋千
+osmanto  [名] 桂花
+osto  [名] 骨，骨头
+oto  [名] 耳朵
+ove  [名] 绵羊（生物）
+ovo  [名] 卵，蛋
+# ovale  [名] 卵形线，卵形，椭圆形
+# ovario (ovário)  [名] 卵巢
+oxalide  [名] 酢浆草（生物）
+
+P
+ 
+pace  [名] 和平，平安  [形] 和平的，平安的
+paga  [动] {他} 付钱，支付，偿还
+| repaga  [动][名] {他} 报酬，报偿，奖赏
+page  [名] 页（一面/单面），页面
+pais  [名] 国家，国土
+paiscongreso <pais+congreso>  [名] 议会，国会
+paistera <pais+tera>  [名] 领土，版图，国土
+pajase ⟨pajasa, pajaso⟩  [名] 小丑
+pala  [名] 铲子
+palacio (palácio)  [名] 宫殿，王宫，宫
+palato  [名] 腭，上腭
+pale  [形] ①苍白，灰白，暗淡；②乏味
+palia (pália)  [名] ①麦秸，稻草；②吸管
+palma  [名] 棕榈，棕榈树，椰子树（生物）
+palo  [名] ①竿，杆，柱；②木桩，木橛
+palpa  [动] {他} 摸，摸索
+palpebra  [名] 眼皮，眼睑
+pan  [名] 面包
+| compan  [名] 伙伴，同志，同伴（包括同学、室友等）
+|# compania (compánia)  [名] 合股，合伙，公司
+|# acompania (acompánia)  [动] {他} 陪同，伴随，护送
+| impan  [名] 饼，馅饼
+panace  [名] 人参（生物）
+pancreate  [名] 胰腺
+panda  [名] 熊猫（生物）
+pande  [动] {他} 铺开，展开
+| expande  [动] {自} 扩张
+pantalon  [名] 裤子
+papa  [名] 爸爸（pater的昵称）
+papaja  [名] 木瓜，番木瓜（生物）
+paper  [名] 纸  ~ paper avion 纸飞机  ~ paper ave 风筝
+papermona <paper+mona>  [名] 纸币
+papila  [名] 乳头
+papilio (papílio)  [名] 蝴蝶（生物）
+paquete  [名] 包裹
+para  [动] ①{他} 准备（材料或工具等）  ~ Li ja para care sapatos por face sporte. 他准备了珍贵的鞋子来做运动。；②{自} 做准备；（让自己）准备好  ~ Johan deja para. 约翰已经做了准备。；（被动态）准备好了  ~ Mi es parate! 我准备好了！；准备去（其后必须搭配por再接动词词组）  ~ Mario para por vade a tren stacion. 马里奥准备去火车站。  | parate  [形] ①准备好的  ~ Le rege mite un parate militario por invade Polsca. 那位国王派了支做足准备的军队去入侵波兰。；②备用的
+| compara  [动] {他} 比较，对比
+| repara  [动] ①{他} 修理；②{他} 弥补，改正
+| separa  [动] {他}{自} 分开
+paralele  [形] 平行的
+parca  [动] {他}{自} 停泊，停（车）  | parcatorio (parcatório)  [名] 停车场，车库
+parce  [动] {他} 节省，节约
+parco  [名] 公园
+pardo  [名] 豹子（生物）
+pare  [动] ①{自} 出现；②{自} 出席，到场
+| dispare  [动] ①{自} 缺席，不在；②{自} 消失
+pari  [动] {他} 生下，诞下  | parinte ⟨parinta, parinto⟩  [名] 双亲之一，父母亲之一
+paroqueto  [名] 金雀花（生物）
+parte  [名] 部分
+| aparte  [形] 具体的，单独而言的
+|# apartemento  [名] 公寓，单间，成套房屋
+parti  [动] {自} 出发，离开
+# partito  [名] 党，政党
+| comparti  [动] {他} 分享  ~ Mi vole comparti mi idea con ti 我想与你分享我的想法。
+pasa  [动] ①{他} 经过，走过，通过，度过；②{自} （时间）流逝  | pasante ⟨pasanta, pasanto⟩  [名] 路人
+| compaso  [名] ①圆规；②罗盘，指南针
+| repasa  [动] {他} 熨，烫
+| perpasa  [动] {他} 渗透
+pasaporto <pasa+porto>  [名] 护照
+pasavia (pasavía) <pasa+via>  [名] 走廊，走道，通道
+pasca  [名] 逾越节，复活节
+pasce  [动] {他} 放牧  | pasciste ⟨pascista, pascisto⟩  [名] 牧人  | pascetorio (pascetório)  [名] 牧场
+paser  [名] 麻雀（生物）
+pasion (pásion)  [名] 热情，爱情，情欲
+pasta  [名] ①面团，面糊；②（各类）面食、面条
+pasto  [名] 曾经，以前，过去  ~ in pasto 在曾经，在过去
+pata  [名] 蹄
+patata  [名] 马铃薯，土豆（生物）
+patela  [名] 髌骨，膝盖骨
+pater  [名] 父亲
+pati  [动] ①{自} 生病；②{他} 罹患，患有  ~ Pedro pati diabete. 佩德罗患有糖尿病。  | patinte  [形] 生病的  [名] ①病人；②（语言学）受事者
+| compati  [动] {他} 同情  | compatible  [形] 可怜的，惹人同情的
+patina  [动] {自} 滑动；溜冰
+pato  [名] 病，疾病  | patologia (patológia)  [名] 病理学
+patogeno <pato+geno>  [名] 病原，病原体
+patron  [名] ①保护人，监护人；②老板，赞助人
+paulounia (paulóunia)  [名] 泡桐（生物）
+pausa  [动] {他}{自} 暂停，暂歇
+pavi  [动] {他} 铺上，铺路，铺设
+# pavimento  [名] 地板
+pavilio (pavílio)  [名] 棚架，凉亭
+pavo  [名] 孔雀（生物）
+peca  [动] {自} 犯罪（道德上），越界
+pece  [名] ①片，块；②件；③象棋、国际象棋等棋类的棋子  | peceta  [名] 薄片，薄板
+pecte  [动] {他} 梳，梳头  | pectetore  [名] 梳子
+pecto  [名] 胸
+pela  [动] {他} 剥，削，去皮
+pele  [动] {他} 推
+| compele  [动] {他} 强迫，逼迫
+| expele  [动] {他} 驱赶，驱逐，赶走
+| impele  [动] {他} 冲击  [名] 推进力，脉冲，冲动
+pelo  [名] ①毛发；②专指头发
+pen  [名] 男性生殖器，阴茎
+pena  [名] 笔（泛称）；常指钢笔
+pende  [动] 挂，垂，悬挂
+| depende  [动] ①{他} 依赖，依靠；②{他} 取决于
+| expende  [动] {他} 花费（金钱或时间）
+pensa  [动] ①{他} 想，思考；②{他} 觉得；③{他} 掂量，考虑
+| compensa  [动] {他} 补偿，赔偿，抵偿
+penti  [动] {自} 后悔，懊恼，悔过，悔悟，忏悔；遗憾，感到遗憾  | pentible  [形] 令人遗憾的，可惜的
+peonia (peónia)  [名] 牡丹（生物）
+pepo  [名] 南瓜，西葫芦（生物）
+per /peə/  [介] ①以，用，凭借；②沿着，经过，通过；③持续...时间
+# peri  [动] {他} 通过
+|# experi  [动] {他} 经历，体验  | experinza  [名] 经验
+|# imperio (império)  [名] 帝国
+|# imperiale  [形] 霸道的，帝国主义的
+perca  [名] 鲈鱼（生物）
+perde  [动] {他} 失去，丢失
+| disperde  [动] {他} 浪费
+perilo  [名] 危险  ~ in perilo 濒危，处于危险当中  | perilose  [形] 危险的
+perla  [名] 珍珠
+perno  [名] 大头针，别针
+pesa  [动] ①{他} 称；②{系} 有...重  ~ Li pesa 70 quilogramos. 他有70公斤重。；③{自} 是重的  | pesante  [形] 重，沉重  ~ Ce petra es tropo pesante por leva. 这块石头太重了，抬不起来。
+- peso  [名] 重量，负担
+pesca  [名] 桃子（生物）
+pesometer <peso+meter>  [名] 秤，称；重量测量仪器
+pete  [动] {他} 请求，请  | petiste ⟨petista, petisto⟩  [名] 乞丐
+| apete  [名] 食欲  ~ Bon apete! （祝你有）好胃口！
+| compete  [动] {他} 竞争
+| impete  [动] {自} 冲动，不冷静；浮躁
+| repete  [动] ①{他} 重复（话语）；②{情态} 重复（行为）
+petra  [名] 石头，石块  | petrania (petránia)  [名] 岩石  | petreta  [名] 石子
+petroleo (petroléo) <petr(a)+oleo>  [名] 石油
+piano  [名] 钢琴
+pica  [名] 喜鹊（生物）
+picea (picéa)  [名] 云杉（生物）
+pico  [名] 镐，十字镐
+pigre  [形] 懒惰的
+pileo (piléo)  [名] 毡，毛皮
+pincha  [动] ①{他} 捏，夹，掐，拧；②{他} 弹，拨（弦乐器）
+pinge  [动] {他} 勾画，勾勒，描绘
+# pictura  [名] 画作
+| depinge  [动] {他} 描写，描绘
+pino  [名] 松树（生物）
+pinta  [动] {他} 涂画，涂抹，涂色
+pintapena <pinta+pena>  [名] 画笔，毛笔，小毛刷
+pintatinta <pinta+tinta>  [名] 颜料，油彩
+pion (píon)  [名] ①先锋，拓荒者；②工兵
+piper  [名] 胡椒（生物）
+piro  [名] 梨子（生物）
+pisce  [名] 鱼（生物）  | pisciste ⟨piscista, piscisto⟩  [名] 渔民，渔夫
+piscina  [名] 池，水池，池塘，水塘
+piso  [名] 楼层
+piso  [名] 豌豆（生物）
+pistola  [名] 枪（射击武器），火枪  | pistoleta  [名] 手枪
+place  [动] {他} 讨喜，令…喜欢  | placente  [形] 令人愉悦的，讨人喜欢的
+| complace  [动] {他} 献殷勤，阿谀奉承，拍马屁
+| replace  [动] {他} 更换，替换（通常配合介词per使用） ~ Guardiola ja replace David Villa per Pedro. 瓜迪奥拉用佩德罗替换了大卫·比利亚。
+plagia (plágia)  [动] {他} 抄袭，剽窃
+plan  [形] 表面平整的，平坦的  [名] ①平面图；②蓝图；③计划  | planania (planánia)  [名] 大计划，战略
+planca  [名] 木板，板条，板式用具
+planeta  [名] 行星
+planlingua <plan+lingua>  [名] 计划语言，人工语言，人造语言
+plano  [名] 平原
+planta  [动] {他} 栽种，种植
+plaste  [名] 塑料，塑胶
+platano  [名] 悬铃木，法国梧桐（生物）
+plate  [形] 扁平
+platefundo <plate+fundo>  [名] 天花板
+plato  [名] 盘，碟，盆
+platola <plat(e)+ola>  [名] 长柄平底锅，煎锅
+plaude  [动] {自} 鼓掌，拍手
+| explode  [动] ①{自} 炸裂，爆炸；②{自} 比喻爆发，突然开始
+plaza  [名] 广场
+ple  [动] {他} ①满足（要求、计划、想法等）；②填写
+| comple  [动] {他} 完成，做完  | complete  [形] 齐全的，完备的
+| complivo  [名] 补语
+| exple  [动] ①{他} 开发，开采；②{他} 剥削，榨取
+| suple  [动] {他} 补充，补给
+plen  [形] ①满的；②完全的，充足的
+plende  [动] {他} 抱怨，诉苦，告状
+plenetate <plen+etate>  [形] 成年的，达法定年龄的，（动植物）足年的
+pleuronecte  [名] 比目鱼（生物）
+plexe  [动] {他} 编织，缠，扎（辫子）
+| complexe  [形] 复杂的
+plica  [动] {他} 折叠
+| aplica  [动] ①{他} 申请，报名；②{他} 应用  | aplicido  [名] 应用程序，软件
+| complica  [动] ①{他} 堆叠；②{他} 使复杂，使麻烦
+| explica  [动][名] ①{他} 解释；②{他} 阐释
+| implica  [动] {他} 雇佣，雇用  | implicante ⟨implicanta, implicanto⟩  [名] 雇主  | implicate  [名] 员工
+plombo  [名] 铅（元素）
+plonge  [动] {自} 跳水，俯冲
+plopo  [名] 杨树（生物）
+plora  [动] {自} 哭，痛哭，流泪，痛惜  ~ leve plora 轻轻地哭，啜泣
+| explora  [动] {他} 考察，探索；侦察
+pluma  [名] ①羽毛；②羽毛笔
+plumbola <plum(a)+bola>  [名] 羽毛球
+plure  [形] ①好几个，不止一个；②复数的
+plus  [副] 还，再；继续，仍然  ~ un vece plus 再一次  ~ no plus 不再  [介] 加上（通常用于数学表达）  ~ Un plus un equa du 一加一等于二。
+plusque  [连] 此外，除此之外
+pluvia (plúvia)  [动] {自}{无} 下雨  [名] 雨
+pneu  [名] 轮胎
+pober  [形] 贫穷的，贫困的
+poco  [限][代] 少量，不多
+pode  [名] 脚，足
+podebate <pode+bate>  [动] {他} 踢
+podebola <pode+bola>  [名] ①足球；②足球运动 ~ joca podebola 踢足球  |podeboliste ⟨podebolista, podebolisto⟩  [名] 足球运动员
+poema  [名] 诗  | poemiste ⟨poemista, poemisto⟩  [名] 诗人
+poi  [介] 在…之后
+# pois  [副] ①然后，接着；②之后，...之后  [副][形] 在后方
+poimidi <poi+midi>  [副] 午后，在下午  [名] 下午
+poli  [副] 很，非常  [限][代] 多的，许多，大量
+poli se  [连] 只要
+polianglo <poli+anglo>  [名] 多边形
+policia (polícia)  [名] 公安，警务，警方  | policiane ⟨policiana, policiano⟩  [名] 警察
+poliplica <poli+plica>  [动] {他} 乘，乘以
+politica  [名] ①政治，政治学；②政策
+polo  [名] 极点
+polve  [名] ①粉，粉末；②尘土，灰尘
+pomelo  [名] 柚子（生物）
+pompa  [名] 排场；盛况  | pompose  [形] 盛大
+ponte  [名] ①桥梁；②甲板
+pope  [名] 教皇
+poplo  [名] 人民，平民，百姓；公众，公共
+- popla  [动] {他} 使（某地）增加人口；殖民
+# poplare  [形] 普及的，通俗的，大众的，流行的
+poplopais (poplopáis) <poplo+pais>  [名] 民国，共和国
+poque  [名] 袋子（麻袋、塑料袋等）  | poqueta  [名] 衣袋，口袋
+por  [介] ①因为；②为了；③对...来说，在...看来
+porne ⟨porna, porno⟩  [名] 妓，妓女，妓男
+porque  [连] 因为
+porqui, por qui  [副] 为什么
+porta  [动] {他} 搬运，运载
+| exporta  [动] {他} 输出，出口
+| importa  [动] {他} 输入，进口
+| oporto  [名] 机会，时机
+| reporta  [动] {他} 转告，汇报，报告，报道  - reporto  [名] 报告，报道
+| transporto  [名] 运输，交通
+porto  [名] 港口
+posa  [动] {他} 放置
+# posative  [形] 正面的；积极的（乐观的）
+| aposa  [动] ①{他} 打赌；②{自} 赌博
+| composa  [动] ①{他} 组成，构成；②{他} 创作（作诗或作曲）
+| deposa  [动] {他} 寄存，存放；储蓄，存储
+| disposa  [动] ①{他} 开除；②{他} 清除，移除；③{他} 脱（衣服）
+| exposa  [动] ①{他} 展览，展示；②{他} 揭露，使...暴露
+| imposa  [动] {他} 强加…于，强塞，灌输（观念等）
+| oposa  [动][名] {他} 反对
+| proposa  [动][名] {他} 提议，建议
+| reposa  [动] {自} 休息
+| suposa  [动][名] {他} 猜测，猜想，假定，假设
+posede  [动] {他} 拥有，占有，掌握
+posta  [名] 邮政
+posto  [名] ①前哨站；②岗位，职位
+pote  [动] {情态} 能够，可以  | potente  [形] ①有能力的，能够的；②有权力的，有权势的  | poteble  [形][副] 可能
+# potenza  [名] ①能力；②力量；③权力
+pozo  [名] 井
+pratica  [动][名] {他} 实践，实际
+# praticale  [形] 切实，符合实际
+preca  [动] {他} 祈祷，祷告
+precio (précio)  [名] 价格
+| aprecia (aprécia)  [动] {他} 欣赏，赏识
+premio (prémio)  [名] 奖品
+prende  [动] ①{他} 取，抓，拿；②{他} 引申为下载  ~ prende un scriptura ec interrete 从网上下载文档
+| aprende  [动] ①{他} 学会；②{他} 习得
+| comprende  [动] {他} 理解，明白
+| imprende  [动] {他} 着手，从事，进行
+presa  [动] ①{他} 按压；②{他} 压迫（物理上的）；③{他} 印刷
+| apresa  [动] {自} 冲；突进，冲刺
+| compresa  [动] {他} 压迫；挤压；排挤
+| dispresa  [动] {他} 蔑视，鄙视
+| expresa  [动] {他} 表达，表示，表现
+| impresa  [动] ①{他} 使印象深刻；②{他} 使感光  [名] ①印象；②（摄影）感光
+| opresa  [动] {他} 欺负，欺侮
+| supresa  [动] ①{他} 闷死，使窒息，扼杀  ~ Le victima es supresate e mori. 受害人被窒息而死。；②{他} 压制，抑制
+presenta  [动] ①{他} 摆上，介绍；②{他} 展示，展现，演出
+| representa  [动] {他} 代表，代理  | representante ⟨representanta, representanto⟩  [名] 代表，代理人
+presta  [动] {他} 出借，借出
+| impresta  [动] {他} 借入
+prester  [名] 牧师，教士，神父
+preter  [介] ①从…旁经过；②除了...以外（包含性）
+prime  [形] ①首先的，首要的；②先的，从头开始数的
+prince  [名] ①亲王，王侯，大公；②王子（与rege-filio同义）
+princepe  [名] 原则，准则
+princesa  [名] 公主（与rege-filia同义），郡主
+printempo  [名] 春天
+prio (prío)  [形] 早，早期
+prison  [名] 监狱
+prive  [形] ①私人的，私密的；②私有的；③非官方的
+privelege <prive+lege>  [名] 特权
+proba  [动] ①{他} 证明，证实；②{他} 表明，说明  | probable  [形] ①可证明的；②很可能，或然
+| aproba  [动] {他} 赞成，认可（提议或提案等）
+problema  [名] 麻烦，问题，难题  | problemose  [形] 麻烦的
+prole  [名] 子嗣，后代
+prope  [介] 在…近旁  [形] 近的，在旁边的，不远的
+proper  [形] 恰当，合适，合情，合理
+prosa  [名] 散文，文章
+proton  [名] 质子
+pruno  [名] 李子（生物）  ~ pruno flore 梅花
+pruri  [动] {自} 痒，发痒
+pude  [动] {自} 羞耻，羞愧，愧疚，内疚；感到抱歉，对不起  ~ Mi pude. 对不起。  | pudente  [形] 羞愧的，愧疚的
+pugno  [名] 拳，拳头
+pulce  [名] 跳蚤（生物）
+puli  [动] ①{他} 揩，抹，抹去；②{他} 打磨，抛光
+pulmo  [名] 肺
+pulte  [名] 粥，糊
+puma  [名] 美洲狮（生物）
+pumpa  [动] {他} 用泵抽，泵唧，泵送  | pumpatore  [名] 泵
+punge  [动] {他} 叮，刺，扎
+puni  [动][名] {他} 惩罚，处罚，制裁
+punta  [名] 尖，尖端，顶端  [动] {他} 指向；瞄准
+| apunta  [动] {他} 约定  - apunto  [名] 约定，指定
+| disapunta  [动] {他} 使...失望
+punto  [名] 点
+pupa  [名] 洋娃娃，人偶，木偶
+pupla  [名] 瞳孔
+pure  [形] 纯净的，纯洁的
+pus  [名] 脓
+pute  [形] 干净的
+| disputa  [动] {自} 争论，争辩
+
+Q
+ 
+quadro  [名] ①正方形；②平方
+quale  [限] 什么样的，怎样的  | qualeza  [名] 质量，素质，质素，资质
+quante  [限] 多少  | quanteza  [名] 量，数量
+quasi  [副] 几乎，差不多，仿佛
+quat, quatro  [数] 四
+# quatri  [数] 四分之一
+que  [介] 比，相比于，以...为标准（用在比较句中）
+que  [连] （名词性从句引导词，本身无意义）
+que  [限] 什么，哪一个  | queza  [名] 身份
+que loco  [副][名][组] 哪里，哪儿，在什么地方
+que modo  [副][名][组] 怎样，以什么方法
+que tempo  [副][名][组] 几时，什么时候
+quemia (quémia)  [名] 化学
+querco  [名] 栎树，橡树（生物）
+quere  [动] {他} 寻找，寻觅，搜寻，搜索
+| aquere  [动] {他} 获取，获得，取得，得到
+| conquere  [动] {他} 征服
+| exquere  [形] 精美的，精致的，精巧的
+| inquere  [动] {他} 审讯，质问
+queso  [名] 芝士，奶酪，乳酪
+qui  [代] ①什么事情，什么东西；②谁
+quilo  [数] 千，一千
+quilogramo <quilo+gramo>  [名] 千克，公斤
+quilometer <quilo+meter>  [名] 千米，公里
+quilopoda  [名] 蜈蚣（生物）
+quiosco  [名] 简易小屋，棚子，摊店
+quiroptera  [名] 蝙蝠（生物）
+quota  [名] 名额，限额，配额
+
+R
+ 
+racion (rácion)  [名] 理性，理智，思考力
+radia (rádia)  [动] {他} 放射  | radiatore  [名] 广播  | radiatorio  [名] 广播台，广播站
+- radio (rádio)  [名] ①光线；射线；②半径
+rafano  [名] 萝卜，白萝卜（生物）
+rajo  [名] 轮辐
+ramo  [名] 枝，分支
+rana  [名] 青蛙（生物）
+ranga  [动] ①{他} 整理，布置；②{他} 安排
+rango  [名] ①排名；②级别，等级，官阶
+rapta  [动] ①{他} 掳走，拐走，俘虏；②{他} 绑架
+rare  [形] 罕见，稀有；偶尔
+rate  [名] 竹筏，木排
+rauque  [形] 沙哑的，嘶哑的
+raza  [动] {他} 剃，刮
+reale  [形] 真实的，实在的，确实存在的  | realiza  [动] {他} 实现，使成真
+recente  [副] 最近  [形] 最近的
+rectanglo <rect(e)+anglo>  [名] 矩形，长方形
+recte  [形] ①直的，笔直的；②（几何）直角的 ~ recte anglo 直角
+| corecte  [形] 对，正确，正当
+| directe  [形] 直接的，直达的
+|# direcion (dirécion)  [名] 方向，方位
+|# directore ⟨directora, directoro⟩  [名] 通常专指主任，经理，领导
+| erecte  [形] 竖直，竖立的
+recto  [名] 权利
+rege  [名] 王，国王
+# regina  [名] 女王，王后
+# regale  [形] 王室的，皇家的
+regepais (regepáis) <rege+pais>  [名] 王国
+regla  [名] ①规则，规定；②规律
+# reglare  [形] 规则的，规律的  | reglareza  [名] 规律性，规则性
+regna  [动] {他} 统治，治理，主宰  | regnante  [名] ①统治者；②政府
+rele  [名] 铁轨，轨道
+rema  [动] {他} 划桨，划船，摇橹
+ren  [名] 肾
+rende  [动] ①抛弃，放弃（他人或事物）；②放弃（做某事）
+| surende  [动] {自} 投降
+renta  [动] {他} 租用，租赁
+repta  [动] {自} 爬，蠕动，爬行，匍匐
+res  [名] ①…这样的事（用作后缀与动词复合，将动词名词化）  ~ dormires (dormirés) <dormi+res> 睡觉，睡眠 ；②事情；③事业；④行业
+resta  [动] {自} 停留，留下，剩下
+- resto  [名] 余额，剩余，残余
+| aresta  [动] {他} 逮捕，抓获
+rete  [名] 网（渔网、蛛网、互联网等）
+| interrete /in.tə.'re.te/  [名] 专指互联网、电子网络
+reteloco <rete+loco>  [名] 网站，网页
+retro  [副] 往回，返回，回头
+ribe  [名] 醋栗，黑加仑，茶藨子（生物）
+rice  [形] 富裕，有钱
+ride  [动] {自} 笑  ~ leve ride 浅笑  | rideble  [形] 好笑的，滑稽的  | ridenda  [名] 笑话
+| deride  [动] {他} 嘲笑；讽刺，奚落  | derideble  [形] 可笑的
+| suride  [动][名] {自} 微笑
+riga  [名] 一列，队列；（页面或表格的）横排
+rige  [形] ①险峻的，陡峭的；②硬直的，僵硬的
+rima  [名] 韵，韵脚
+rino  [名] 口器，口鼻部，兽吻
+ris  [名] ①水稻（生物）；②稻粒，米；③米饭
+risca  [动] ①{他} 拿…冒险；②{自} 冒险
+- risco  [名] 风险，危险
+ritmo  [名] 格律，节奏
+rito  [名] 仪式
+rivo  [名] 河流，河水
+| ariva  [动] {他} 到达，达到
+| deriva  [动] ①{自} 衍生，派生；②{他}（从...）衍生出...，派生出...
+riza  [名] ①植物的根；②词根；③方根
+roba  [动] {他} 抢夺，抢劫，掠夺
+robinia  [名] 刺槐（生物）
+roga  [动][名] {他} 问，提问
+rola  [动] {自} 滚动  [名] 卷，卷状物，滚筒
+rolala <rol(a)+ala>  [名] 直升飞机
+rolo  [名] ①角色；②职责；③（语言学）题元角色；名词格
+roman  [名] 小说
+rompe  [动] {他} 打破，毁坏，破坏
+| corompe  [动] ①{自} 腐烂，腐败，腐朽；②{自} 腐化，堕落
+| interrompe /in.tə.'rom.pe/  [动] {他} 打断
+ronca  [动] {自} 打鼾，打呼噜
+ronde  [名] ①圆；②圈子，团体  [形] 圆形的
+ropa  [名] 长袍，连衣裙，长罩衫
+ros  [名] 露水
+rosa  [名] 蔷薇，玫瑰，月季（生物）
+rose  [形] 粉色的  [名] 粉色
+rota  [名] 轮子，车轮
+rotage <rot(a)+age>  [动] {自} 旋转
+rube  [形] 红色的  [名] 红色
+rubo  [名] 覆盆子（生物）
+rude  [形] ①生的，天然，未加工的；②粗鲁
+rugi  [动] {自} 狮吼，虎啸，咆哮，呼啸
+rugin  [名] 锈  | ruginesce  [动] {自} 生锈  | ruginiza  [动] {他} 锈蚀，使…生锈  ~ Le acente pluvia ruginiza poli cosas. 那场酸雨使很多东西生了锈。
+ruina  [名] 遗址，废墟
+rumo  [名] 谣言
+rupe  [名] 悬崖，峭壁
+rus  [名] 乡野，乡下，野外
+ruta  [名] 路线
+
+S
+ 
+sablo  [名] 沙，砂  | sablario (sablário)  [名] 沙漠，荒漠
+saco  [名] 包包（书包、手提包等）
+sage  [形] 聪明，智慧，明智  | sageza  [名] 智力，才智，悟力  | sagelogia  [名] 哲学
+saita  [名] 箭，箭头
+sala  [名] 房间
+salaqua <sal(e)+aqua>  [名] 盐水（尤指用于腌泡食物的）
+sale  [名] 盐，食盐  | salose  [形] 咸的
+# salada  [名] 色拉
+salice  [名] 柳树（生物）
+salmo  [名] 鲑鱼，三文鱼（生物）
+salon  [名] 客厅，沙龙
+salsa  [名] 调味汁，酱汁
+salta  [动] {自} 跳跃
+(salta的派生词以sulta为词干)
+| insulta  [动] {他} 辱骂；侮辱，羞辱
+| resulta  [动] {他} 导致...，是…的原因  [名] 结果
+saluta  [动] {他} 致敬；向...打招呼
+| insaluta  [动] {他}{自} 登录（帐户），登入（平台）
+| exaluta  [动] {他}{自} 登出，退出登录
+salva  [动] {他} 救，挽救，拯救
+salvia (sálvia)  [名] 鼠尾草（生物）
+samplo  [名] 样品，实例，样本
+| examplo  [名] ①模范，榜样；②例子
+san  [形] 健康的，未变质的  | saneza  [名] 健康
+sandwice  [名] 三明治，三文治，夹心面包片
+santalo  [名] 檀香木，檀香树（生物）
+sante  [形] 神圣的，圣洁的
+sapato  [名] 鞋子
+sapo  [名] 皂，肥皂，香皂
+sate  [形] ①饱的；②满足的
+save  [形] 野生的，原始的
+scabe  [动] ①{他} 刮，擦；②{他} 抓，挠，搔
+scaco  [名] ①象棋类游戏 ~ chunca scaco 中国象棋 ~ nihón scaco 日本将棋；②特指国际象棋；③棋盘；④黑白格图案的事物，如黑白格旗帜
+scada  [名] 梯子
+scala  [名] ①台阶；②阶段，等级；③小平台（高出平地一点的地方，如讲台、领奖台等）  ~ loquiscala 讲台  | scalario (scalário)  [名] 楼梯，阶梯
+scande  [动] ①{他} 攀登，攀爬；②{自} 上楼  | scandetore  [名] 电梯，升降机
+| ascande  [动] {自} 上升，爬升
+| descande  [动] {自} 下行，下山，下楼，下车
+scena  [名] 场景  | scenario (scenário)  [名] 风景，景色
+| oscen  [形] 下流的，猥琐的，不堪入目的
+sci  [动] {他} 知道，了解  | scinda  [名] 知识
+# scinza  [名] 科学  | scinziste ⟨scinzista, scinzisto⟩  [名] 科学家
+| consci  [动] {他} 自感，认识到，意识到  [名] （做某事的）意识
+|# conscinza  [名] 良心，道德心
+scola  [名] 学校  ~ elemen scola 小学
+scolopace  [名] 鹬，山鹬（生物）
+scolpi  [动] {他} 雕塑，雕刻
+# scolpitura  [名] 雕塑，雕像，塑像
+scopio (scópio)  [名] ①眼镜；②具备特定功能的视镜、筒镜
+scoplo  [名] 礁石
+scopo  [名] 目的，目标，宗旨
+scoria (scória)  [名] 沉渣，糟粕
+scorpio (scórpio)  [名] 蝎子（生物）
+scren  [名] 屏幕，银幕
+scriba  [名] 秘书，书记员
+scribe  [动] ①{他} 书写；②{他} 写作  | scribiste ⟨scribista, scribisto⟩  [名] 作家，写手
+| describe  [动][名] {他} 描述，描写
+| inscribe  [动] ①{他} 刻写，刻字；②{他} 题词，题字
+| prescribe  [名] 药方，医嘱，制法说明
+scripto  [名] 文字
+# scriptura  [名] 文件；文档，档案；文献
+scru  [名] 螺丝，螺丝钉，螺栓
+scute  [动] {他}{自} 摇晃
+| discute  [动][名] {他} 讨论
+scuto  [名] 盾，盾牌
+se  [连] 如果，假如
+sebo  [名] 皮脂，油脂；动物油
+secale  [名] 黑麦（生物）
+secondo  [名] 秒
+secreto  [名] 秘密，奥秘，秘诀
+secta  [动] {他} 砍，切
+# secion (sécion)  [名] 部门，部分
+| disecta  [动] {他} 解剖
+| insecto  [名] 昆虫（生物）
+seda  [动] {他} 使...镇静，给...止痛
+sega  [动] {他} 锯，锯开  | segatore  [名] 锯子
+sela  [名] 椅子；座席
+semana  [名] 星期，一周
+sembla  [动] {系} 像，仿佛，看起来  | semblante  [形] 相似的，像那样的  [副] 就好像，看起来  ~ Semblante nono es no sate. 好像爷爷不太满意的样子。
+| asembla  [动] {自} 集合，聚在一起
+seme  [名] 种子
+semi  [数] 一半，二分之一
+semineso <semi+neso>  [名] 半岛
+semper  [副] 总是，始终，一直
+sen  [介] 没有，无
+senato  [名] 元老院，上议院，参议院
+seniore ⟨seniora, senioro⟩  [名] ①阁下；先生；女士；②前辈  | senioreta  [名] 特指小姐（年轻的或未婚女士）
+senti  [动][名] {他} 感觉，感受
+# sentido  [名] （话语或单词的）含义，意思；意义  ~ sen sentido 没有意义
+| consenti  [动] {他} 同意（看法），同感
+sep, septe  [数] 七
+# septi  [数] 七分之一
+seque  [形] 干燥，干旱
+sequi  [动] ①{他} 跟随；②{他} 遵守，遵循  | sequinte ⟨sequinta, sequinto⟩  [名] 跟随者，追随者  [形] 后方的，下方的；下一个 ~ sequinte mes 下个月
+| consequi  [动] {他} 是（某种事件）的结果，是因为...
+| exequi  [动] {他} 执行
+| persequi  [动] ①{他} 追杀；②{他} 迫害
+| prosequi  [动] {他} 追，追求，追逐
+sequio (séquio)  [名] 佛手瓜，捧瓜（生物）
+sera  [名] 晚上
+sere  [动] {他} 播种，播下
+| desere  [动] {他} 荒废，废弃
+| insere  [动] {他} 插入
+seren  [形] 安详，从容
+serie (série)  [形] 严肃的，认真的
+serpe  [动] {自} 蜿延，蛇行  | serpente  [名] 蛇（生物）
+serva  [动] {他} 养护，保全
+| conserva  [动] ①{他} 留作后用；②{他} 给（某个自然环境）设立保留区以作保护
+| oserva  [动] {他} 观察，观测
+| reserva  [动] {他} 保留，保存，预留  ~ Reserva un tabla por six, benvole. 请（帮我）预留一张六人桌。
+servi  [动] ①{他} 为…服务，看护，护理  ~ servi sui 自便；②{他} 有用于...  | serviste ⟨servista, servisto⟩  [名] 仆人，（专职）服务员
+sesamo  [名] 芝麻（生物）
+seson  [名] 季节
+seta  [名] 丝，丝绸
+sete  [动][名] {自} 渴，口渴；比喻为渴望（常搭配por介词词组）  ~ Poplo sete por pace. 人民渴望和平。
+setola  [名] 桶，提桶，水桶
+seudo  [形] 假的，伪的，伪造的
+sexage <sex(o)+age>  [动] {自} 性交，交配
+sexo  [名] 性，性别
+si  [副] ①是，对的（肯定回答）；②确实，表示强调 ~ Mi si fave ti. 我确实喜欢你。
+sibla  [动] {他} 吹口哨，吹哨  | siblatore  [名] 哨子
+side  [动] {自} 坐着  | sidesce  [动] {自} 坐下
+| conside  [动] {自} 开会；座谈  [名] 工作会议；座谈会
+| inside  [动] ①{自} 埋伏；②{他} 设下（伏兵）  ~ Le minister inside bon milites poi le cortina. 大臣在帐幕后方埋下精兵。
+| preside  [动] {他} 主持（工作），统管  | presidente ⟨presidenta, presidento⟩  [名] 主席，总统
+signa  [动] {他} 签名，签署
+- signo  [名] ①签名；②标记；③征兆
+# signale  [名] 信号
+# signifa  [动] {他} 意思是，义为，意味着
+| designa  [动] {他} 设计
+| insigno  [名] 徽章
+| resigna  [动] {他} 放弃，辞去（工作）
+| presigno  [名] 预兆，征兆，先兆
+silaba  [名] 音节
+sile  [动] {自} 安静，寂静  | silente  [形] 安静的，寂静的
+simbolo  [名] ①符号；②象征
+simio (símio)  [名] 猿，猴（生物）
+simple  [形] 单一的，简单的
+sincere  [形] 真诚的，真挚的，诚恳的
+sindrome  [名] 综合征
+single  [形] ①单独的，单数的；②独自的 ~ single esta 独处；③单身的，独身的
+sinister  [形] 靠左的，左边的  [名] 左，左边
+sintome  [名] 症状
+sique  [名] 心理  | siquelogia (siquelógia)  [名] 心理学
+siste  [动] ①{自} 停下（步伐），停止（移动）；②{他} 阻止，使停下
+| asiste  [动] {他} 参与，参加
+| consiste  [动] {他} 包含（这些组成部分）
+| insiste  [动] {他} 坚持（意见或要求），主张
+| persiste  [动] {自} 坚持不懈
+| resiste  [动] {他} 抵抗，反抗，抗拒，抵制
+sistema  [名] 体系，系统，制度
+sitaco  [名] 鹦鹉（生物）  ~ Sitaco age ben in imita voce de homin. 鹦鹉擅长模仿人类的声音。
+sito  [名] ①位置；②网站，站点；③地址
+six  [数] 六
+# sixi  [数] 六分之一
+slave ⟨slava, slavo⟩  [名] 奴隶，奴才
+slita  [名] 雪橇
+sober  [形] 清醒的
+sobrina  [名] 侄女，外甥女
+sobrino  [名] 侄子，外甥
+socio (sócio)  [名] 社会
+# sociale  [形] ①社会性的；②善于社交的，交际花类型的
+# societa  [名] 社团，协会，联合会
+soco  [名] 袜子
+sofa  [名] 沙发
+sofora  [名] 槐树（生物）
+soja  [名] 黄豆（生物）  ~ soja salsa 酱油  ~ soja coaglo 豆腐
+solano  [名] 茄科植物；（复数）特指“地三鲜”
+soldo  [名] 薪水，工资，报酬，酬劳；军饷
+sole  [名] 太阳
+soledia (soledía) <sole+dia>  [名] 星期日，星期天
+solen  [形] 庄严，肃穆，庄重
+solido  [名] 固体，立体
+# solidare  [形] 团结一致
+solo  [限][副] 仅仅，只有
+| consola  [动] {他} 安慰
+| insola  [动] {他} 隔离，隔绝，使孤立，使绝缘  | insolate  [形] 隔绝的，孤立的
+solo se  [连] 只有
+solve  [动] {他} 解决，解答  | solvido  [名] 题目，待解答的问题；难题；谜题，谜语  ~ contalogia solvido 数学题
+| asolve  [形] 绝对的 ，完全的  [副] 绝对
+| disolve  [动] {他}{自} 溶解，溶化
+soma  [名] ①个体，物体；②三维体；③生命体
+| antisoma  [名] 抗体
+sona  [动] ①{他} 发声，发出声音；②{系} 听起来
+- sono  [名] 声音
+| consono  [名] 辅音
+| disona  [动] {自} 失调，不和谐
+|# persona  [名] ①人，个人；②工作人员  | personario (personário)  [名] 人力资源；全体员工
+|# personage  [名] 人物，重要人物；（作品中的）人物角色
+|# personale  [形] 个人的，个性的
+| resona  [动] {自} 回响，反响，回音  - resono  [名] 回响，反响，回音
+sonia (sónia)  [动] {他} 梦见
+- sonio (sónio)  [名] 梦
+sonore  [形] 大声的，响亮的
+sopa  [名] 汤，羹
+sora  [名] 姊妹，姐姐，妹妹
+sorbe  [动] {他} 吸入，吸收
+sorgo  [名] 高粱（生物）
+sorte  [名] 运气，幸运  | sortose  [形] 幸运的，走运的，有运气的
+spacia (spácia)  [动] {自} 散步，溜达
+spacio (spácio)  [名] ①空间；②太空
+spaco  [名] 串
+spada  [名] 剑
+spala  [名] 肩膀
+spara  [动] {他}{自} 射，发射
+sparse  [形] 稀的，稀疏的
+specie (spécie)  [名] 种类，物种；（生物学）种
+# speciale  [形] 特别的，专门的  [副] 尤其
+speclo  [名] 镜子
+specta  [动] {他} 看，望；观赏（电视、体育赛事等）
+| aspecta  [动] {系} 看起来  - aspecto  [名] 相貌，外貌，容貌
+| despecta  [动] {他} 忽略，忽视，疏忽，不管，不顾，无视
+| expecta  [动] {他} 预料，期待
+| inspecta  [动] {他} 检查，检验，核对
+| respecta  [动] {他} 尊重，尊敬，敬重，敬仰
+spera  [动] {他} 希望，期望，希冀，期冀
+| prospera  [动] ①{自} 繁荣，繁华，昌盛，兴隆；②{自} 茂盛
+sperma  [名] 精子
+spica  [名] 穗
+spina  [名] 刺，荆棘
+spinacia (spinácia)  [名] 菠菜（生物）
+spira  [动] {自} 呼吸 
+| aspira  [动] ①{他} 怀念，想念；②{他} 向往，渴望
+| conspira  [动] {自} 同谋，合谋；同流合污
+| expira  [动] ①{自} 呼气；②{自} 到期，过期
+| inspira  [动] {他} 激起，唤起，使获得灵感
+splen  [名] 脾脏
+sponde  [动] {他} 答应，许诺，承诺
+| coresponde  [动] {自} 通信，通讯
+| responde  [动] ①{他} 回答，回复，回应；②{他} 对...负责  [名] 回答，回复，回应
+spongia (spóngia)  [名] ①海绵动物（生物）；②海绵制品
+sporte  [名] 体育运动，体育竞技
+sposa  [名] 妻子  ~ pater de li sposa 他的岳父
+sposanelo <spos(e)+anelo>  [名] 婚戒
+spose  [名] 配偶  | sposesce  [动] 结婚
+sposo  [名] 丈夫  ~ frater de li sposo 她的叔子
+spuma  [名] 泡沫，白沫，涎沫
+sputa  [动] ①{自} 吐痰，吐唾沫；②{他} 吐，喷吐  ~ Qui ja sputa un guma a le tera? 谁往地上吐了一块口香糖？
+- sputo  [名] 口水，唾沫
+squalo  [名] 鲨鱼（生物）
+squama  [名] 鳞片
+squata  [动] {自} 蹲着
+squeleto  [名] ①骨架，骷髅；②框架，边框
+squi  [动] {自} 滑雪
+squila  [名] 虾（生物）
+squina  [名] 角落
+squiro  [名] 松鼠（生物）
+sta  [动] {自} 站着  | stable  [形] 站得住的；稳定的  | stablesce  [动] {自} 变得稳定；站稳脚跟；定居  | stasce  [动] {自} 起立，站起来
+# stanza  [名] 姿势
+# stacion (stácion)  [名] ①车站，码头；②（职能部门的）站，台，局
+(sta的自然派生词以sta、stina为词干)
+|# sustanza  [名] 物质
+|# sustantivo  [名] 名词
+|# cirstanza  [名] 情况，环境，形势
+| constante  [形] 恒定的，不变的，坚贞的
+|# destina  [动] {他} 注定要...  - destino  [名] 命运
+|# instanza  [名] 片刻，瞬间
+| osta  [动] {自} 固执，执拗，顽固，倔强；下定决心
+stadio (stádio)  [名] 运动场，大球场
+stagno  [名] ①沼泽，沼地；②比喻困境
+stala  [名] 厩，畜舍
+| instala  [动] 安装
+stame  [名] 花蕊
+stano  [名] 锡（元素）
+statime  [副] 立刻
+stato  [名] ①境况，状态；②地位  ~ esta in male stato 处于糟糕的状态中 ~ in stato de 代替（介词词组）
+statue (státue)  [动] {他} 建造，建筑
+# statura  [名] 建筑物
+steca  [名] 肉扒，肉排；特指牛扒，牛排
+stela  [名] 星星，恒星
+| constela  [名] 星座
+stele  [名] 碑（如墓碑、纪念碑等）
+stila  [动] {他} 蒸馏
+stilo  [名] 风格
+stingue  [动] {他} 刺，戳，捅
+| distingue  [动] {他} 区别，辨别，分清；看清楚  | distingueble  [形] 可区分的，可辨别的；有区分度的
+| extingue  [动] ①{他}{自} 扑灭，熄灭；②{自} 灭绝，灭亡
+| instingue  [名] 本能，生性，天性
+stipe  [名] ①茎，树干，花梗，叶柄；②柄，把手
+stirace  [名] 安息香，苏合香，野茉莉（生物）
+stomaco  [名] 胃
+stoque  [名] 股份，股票，有价证券
+storia (stória)  [名] 故事
+| historia (história)  [名] 历史
+strata  [名] 街道
+strecte  [形] 严格的，严厉的
+strepe  [动] {自} 发噪声，喧哗
+strige  [名] 鸱鴞，猫头鹰（生物）
+strucio (strúcio)  [名] 鸵鸟（生物）
+stude  [动] {他} 学习  | studente ⟨studenta, studento⟩  [名] 学生  | studenza  [名] 学术  ~ un studenza revista 一本学术期刊  | studenziste ⟨studenzista, studenzisto⟩  [名] 学者  | studenzatorio (studenzatório)  [名] 学会，学术机构，研究机构
+stufa  [动] {他} 炖，熬
+stulte  [形] 傻的，愚钝的，呆笨的，愚蠢的
+suade  [动] {他} 劝告，劝说
+suater  [名] 背心，坎肩
+suave  [形] ①甜的；②甜美的，温柔的  | suavido  [名] 糖，糖果
+suce  [形] 肮脏的
+suco  [名] 汁，果汁
+suda  [名] 汗  ~ Li suda lique. 他在流汗。
+sude  [名] 南，南方  [形] 南方的，南部的
+sue (súe)  [动] {他}{情态} 习惯于  | suete  [名] ①习惯；②习俗，风俗，传统
+suge  [动] {他} 吮吸，吸取，汲取
+sui  [代] 自己（反身代词） ~ per sui 自行，亲自
+sule  [动] {他} 请教（关于...的事情）  ~ sule ce roga a ti docista 向你的老师请教这个问题
+suma  [名] 和数，总合；总数
+| consuma  [动] {他} 消费，消耗
+| resuma  [动] {自}{系} 恢复  [名] ①摘要，梗概，提要，总结；②简历
+super  [介] 在…上方（不接触下方物体）
+# supers  [副][形] 在上方，在上面  ~ le supers parte 上部，位于上面的部分
+sur  [介] 在…表面上
+surde  [形] 聋的
+| asurde  [形] 荒谬的，不合逻辑的
+sus  [名] 猪（生物）
+susci  [名] 寿司
+susura  [动] ①{自} 低语，耳语；②{自} 发潺潺/飒飒/蔌蔌声
+sute  [形] 突然的，出其不意的  [副] 突然
+sutile  [形] 细腻，精细，微妙，缜密，细致，敏锐
+
+T
+ 
+tabaco  [名] 烟草（或其加工品）
+tabla  [名] ①台，茶几；②饭桌  | tableta  [名] 搁板  ~ fenester-tableta 窗台
+taco  [名] 脚跟，鞋跟
+tacto  [名] 触感，手感
+tale  [限] 这样的，那样的，如此的，这种，那种
+talia (tália)  [动] ①{他} 剪裁，为…剪（毛）；②{他} 凿  | taliste ⟨talista, talisto⟩  [名] 裁缝，成衣工
+| detalia (detália)  [名] 细节
+talo  [名] 脚踝
+tan  [副] 如此，这么
+tanque  [名] 坦克
+tapa  [动] ①{他} 塞；②{他} 打字输入
+- tapo  [名] 塞子，软木，瓶塞
+tapete  [名] 地毯，挂毯，桌毯
+tarando  [名] 驯鹿（生物）
+tarde  [形] 晚的，迟的  | tardiza  [动] {他} 推迟，延期，拖延  | tardizive  [形] 爱拖延的，有拖延症的
+tarta  [名] 糕点，蛋糕
+taxa  [名] 税
+taxi  [名] 出租车，的士
+tea (téa)  [名] ①茶（生物）；②茶
+teatro  [名] ①戏剧；②戏院，剧院；③剧团
+teca  [名] 盒子，匣子
+tecamisa <T+camisa>  [名] T恤衫
+tecno  [名] 手艺，技术，技艺，技巧  | tecnologia (tecnológia)  [名] 科学技术，科技
+tecto  [名] 屋顶，顶部
+tedie (tédie)  [形] 无聊的，令人生厌的，令人倦怠的
+tege  [动] {他} 盖上，覆盖  | tegetore  [名] 盖子
+| contege  [动] {他} 遮蔽
+| protege  [动] {他} 保护，庇护，掩护
+tegla  [名] ①瓦，瓦片；②地砖，瓷砖
+tela  [名] 布  | teleta  [名] 巾；毛巾
+tele  [形] 远的  | telitudo  [名] 距离，间隔
+telefon (telefón) <tele+fon>  [名] 电话；手机
+telegrama <tele+grama>  [名] 电报，电报机
+teleporta <tele+porta>  [动] {他} 远程传输，发送，传送
+televista <tele+vista>  [名] 电视，电视机
+televoca <tele+voca>  [动] {他} 远程呼叫，给…打电话
+telosma  [名] 夜来香（生物）
+tema  [名] 题目，话题，主题，题材
+tempesta  [名] 暴风，暴风雨
+templo  [名] 庙，神庙
+tempo  [名] 时间 ~ in tempo准时，及时，守时
+# tempale  [形] 暂时的
+tenda  [名] 帐篷，蒙古包
+tende  [动] ①{他} 拉，拧，拉紧，张紧；②{情态} 倾向于，趋向于
+# tendenza  [名] 倾向，趋势
+| atende  [动] {他}{自} 等待，等候  ~ sen atende 马上
+| extende  [动] ①{他} 伸展；②{他} 伸向...
+| intende  [动] ①{他} 企图；②{情态} 企图，打算，计划；故意，有意，存心  [名] 企图，居心  ~ con male intende 带着歹意
+| pretende  [动] {系} 假装，假扮
+tene  [动] ①{他} 持，握；②{他} 容纳
+| contene  [动] {他} 含有，内含，有...的内容  | contenete  [名] 内容
+|# continua (contínua)  [动] ①{自} 继续；②{他} 使...继续
+|# continue (contínue)  [形] 持续的，持续地，连续
+| extene  [动] {他} 节制，戒除
+| intertene  [动] {他} 款待，招待
+| mantene  [动] {他} 保持，维持
+| pertene  [动] {他} 属于，是...的
+| sutene  [动] {他} 支撑，支持；扶着  | sutenente ⟨sutenenta, sutenento⟩  [名] 支持者
+tener  [形] 温柔的；温情的，亲切的，体贴的
+tense  [形] ①紧的；②比喻紧张的  ~ senti tense 感到紧张
+| intense  [形] 剧烈，强烈，极度
+tenta  [动] ①{他} 试，尝试；②{他} 实验，试验  | tentatorio (tentatório)  [名] 实验室，化验室，检验室
+tenue (ténue)  [形] ①窄的，狭窄的；②瘦的
+teoria (teória)  [名] 理论，学说
+tera  [名] 地，地面，大地，陆地
+| intera  [动] {他} 埋，将...埋在地里；埋葬
+tera  [数] 万亿
+terasa  [名] 平台，露台，天台
+termo  [形] 热，暖和  | termitudo  [名] 温度，气温，体温
+termocore <termo+core>  [形] 热心的，热情的
+tese  [名] 论文
+tesoro  [名] 宝藏，财宝，珍宝
+testa  [动] ①{他} 见证，目击；②{他} 测试  | testante ⟨testanta, testanto⟩  [名] 证人，目击者
+| contesta  [名] 竞赛，比赛
+| protesta  [动] {他} 抗议，抵制
+teste  [名] 睾丸
+testudo  [名] 龟，乌龟（生物）
+texe  [动] ①{他} 编织，纺织；②{他} 编造，构思
+| pretexe  [动][名] {他} 借口，托词
+texto  [名] 文本，正文，课文
+| contexto  [名] ①语境；②故事背景，故事设定
+ti  [代] 你
+tia (tía)  [名] 阿姨，姑姑，舅妈，伯母
+tigre  [名] 老虎（生物）
+timbra  [名] 印记，烙印
+time  [动] {他} 害怕，恐惧  | timiza  [动] 吓人，惊吓，使害怕  | timeble  [形] 可怕的，令人害怕的
+- timo  [名] 恐惧  | timose  [形] 害怕的，恐惧的
+| intime  [形] 亲密，亲切
+timo  [名] ①胸腺；②百里香（生物）；③恐惧（见上方time词条）
+timpano  [名] 鼓
+tinta  [名] 墨水，墨汁，油墨
+tintima  [名] 染料，酊，酊剂
+tintina  [动] {自} 发出当当/叮当/丁零声
+tio (tío)  [名] 叔叔，伯伯，舅舅，姨父，姑父
+tipo  [名] 典型，典范
+| protipo  [名] 标准
+tira  [动] {他} 拖，拉，拽
+| atira  [动] {他} 引诱，吸引
+| distira  [动] {他} 使…分心，抽离  | distirate  [形] 分心的
+| retira  [动] {自} 离休，退休
+| sutira  [动] {他} 偷，盗窃  | sutiriste ⟨sutirista, sutiristo⟩  [名] 盗贼，职业小偷
+titila  [动] {他} 呵痒，挠胳肢窝
+titlo  [名] ①标题，书名，篇名；②称号，头衔
+toca  [动] {他} 碰，触碰；贴着，挨着  | tocable  [形] 可触碰的，摸得着的  ~ tocable mona 现金  ~ un tocable libro 一本纸质书/实体书
+| contoca  [动] {他} 接触
+tolera  [动] {他} 容忍，对…宽容；忍耐  | tolerante  [形][副] 宽容的，耐心的
+tomate  [名] 西红柿，番茄（生物）
+tomba  [名] 坟墓，陵墓
+tona  [动] {自} 打雷  [名] 雷
+| extona  [动] {他}{自} 雷人，使...震惊  | extonate  [形] 感到震惊的
+tona  [名] 吨
+tono  [名] ①调子，语调，腔调；②色调；③旋律，曲调  | tonario (tonário)  [名] 旋律
+tore  [动] {他} 烧烤，烤制，烘烤
+tormenta  [动] {他} 虐待，折磨
+torna  [动] ①{他} 转，转动；②{自} 转弯
+| contorno  [名] ①轮廓；②等高线
+torpe  [动] {自} 麻痹，感到麻木  | torpiza  [动] {他} 麻醉，给...打麻醉
+torque  [动] ①{他} 捻，搓，扭；②{他} 扭伤；③{他} 扭曲，歪曲
+torso  [名] 躯干
+tosi  [动] {自} 咳嗽
+tote  [限][代]（后接复数名词时）全部，所有  [形]（后接单数名词或不可数名词时）整个，完整的  ~ li tote nome 他的全名
+# totale  [形][副] 完全，彻底
+toxe  [形] 有毒的  | toxido  [名] 毒物
+trabe  [名] 椽，横梁
+trace  [名] 痕迹，迹象，足迹
+tracta  [动] ①{他} 对待；②{他} 把…（当作）；③{他} 拖，牵引  | tractatore  [名] 拖拉机，牵引车
+| contracta  [动] 订契约，立合同，缔结
+tracto  [名] 区别特征
+tragedia (tragédia)  [名] 悲剧，惨案
+# tragique  [形] 悲惨的
+trans  [介] 透过，穿过
+# transi  [动] {他} 穿过，横穿，穿越，转移
+trapa  [名] 陷阱，圈套
+trema  [动] {自} 颤动，颤抖，发抖
+| extreme  [形] 极端的，极度的
+tren  [名] 列车，火车
+trena  [动][名] {他} 培养，训练  ~ Li habe trena poli championes. 他培养了许多冠军选手。  ~ asiste trena 参加训练
+tres, tri-  [数] 三（复合词中用tri-，其余情况使用tres）
+# tresi  [数] 三分之一
+trianglo <tri+anglo>  [名] 三角（形）
+tribe  [动] {他} 赐予，赏赐
+| atribe  [动] 将（某事件）归于（某种原因）  [名] 属性
+| contribe  [动] {他} 贡献
+| distribe  [动] {他} 分发，分配
+tribo  [名] 氏族，部族，部落，种族
+trico  [名] 小麦（生物）
+trifolio (trifólio)  [名] ①三叶草（生物）；②特指车轴草属（生物）；③扑克牌中的梅花花色
+triqueco  [名] 海牛，美洲美人鱼（生物）
+triste  [形] 悲伤的，伤心的，哀伤的
+trombo  [名] 栓；血栓
+tronca  [动] {他} 砍，斩，劈
+tropa  [名] ①部队；②剧团，戏班
+tropo  [副] 太，过分
+trova  [动] {他} 发现，找到  | trovate  [名] 发现
+tuba  [名] 小号，喇叭
+tuber  [名] ①隆起，疙瘩；②块茎
+tubo  [名] 管，管子
+tufa  [名] 一束，一丛，一簇，一绺
+tulipa  [名] 郁金香（生物）
+tume  [动] {自} 膨胀，肿胀，肿起
+tuno  [名] 金枪鱼，吞拿鱼（生物）
+tura  [动] {他} 填塞，堵塞，填满
+turba  [动] {他} 打扰，打搅，妨碍  | turbante  [形] 烦扰的，烦人的
+| disturba  [动] {他} 纠缠
+| perturba  [动] {自} 失调，紊乱
+ture  [名] 塔，钟楼
+tuxedo  [名] 燕尾服，礼服
+
+U
+ 
+uber  [名] 乳房，奶子
+ulcere  [名] 溃疡
+ule  [限] 任何，任意一个；（用于疑问句中配合esque与esta使用）有没有  ~ Esque ule justeza esta in ce pais? 这个国家有公平存在吗？
+umo  [名] 性情，气质
+un  [数] 一  [限] 一个（不定冠词）  [代] 其中一个
+# unique  [形] 唯一的，独特的，独一无二的
+uni  [动] {自} 统一，合并，合而为一  | unite  [形] 合一的，统一的 ~ Unite Statos 合众国（通常特指美国）  | uniza  [动] {他} 使...合一，使...统一，将...统一  ~ Napoleon vole uniza le europa paises. 拿破仑想把欧洲国家统一起来。
+| reuni  [动] {自} 重聚，重逢
+uno(s)  [代] 同类的一个（同类代词）
+urbe  [名] 城市，都市  | urbane ⟨urbana, urbano⟩  [名] 城市居民，市民
+| suburbe  [名] 郊区
+urbetren (urbetrén) <urbe+tren>  [名] ①城市内部铁路交通（包括地铁、城轨等）；②（地铁、城轨等的）列车
+ure  [动] {他}{自} 燃烧
+|# industria (indústria)  [名] 工业，产业
+urge  [动] ①{他} 催促，敦促；②{自} 急忙，连忙  | urgente  [形] 紧急
+# urgenza  [名] 紧急事况
+urina  [动][名] {自} 撒尿，小便
+urtica  [名] 荨麻（生物）
+utero  [名] 子宫
+uti  [动] {他} 用，使用  | utitore  [名] 工具  | utile  [形] 好用的，有用的
+uvla  [名] 小舌，悬雍垂
+
+V
+ 
+va  [副] 将要，将会（将行体）
+vaca  [动] ①{自} 闲着，有空；②{自}（职位）空缺  | vacante  [形] 闲的，有空的
+vacinio (vacínio)  [名] 越橘，蔓越莓（生物）
+vacino  [名] 疫苗
+vacue (vácue)  [形] 空的，空荡荡的  | vacuiza  [动] {他} 清空
+vade  [动] ①{自} 前往，去往；行进，跋涉  ②{情态} 要去，准备去，正要去，马上去
+| invade  [动] {他} 入侵，侵略
+vaga  [动] {他} 漫游，游荡，漂泊，流浪  | vagante ⟨vaganta, vaganto⟩  [名] 流浪者，流浪汉，漂泊者
+vagina  [名] 阴道
+vale  [名] 谷，谷地，山谷，河谷
+valia (vália)  [名] ①价值；②数值  | valiose  [形] 有价值的
+valide  [形] 可用的，有效的
+valisa  [名] 箱子，旅行箱
+valva  [名] 阀门，旋塞，水龙头
+van  [形] 徒劳的，枉然的，虚幻的  ~ van age 白费力气，做无用功  ~ van eforta 白努力
+vanila  [名] 香草（生物）
+vare  [动] {他} 扫  | varetore  [名] 扫把
+varia (vária)  [动] {自} 多样，呈现出多样性  | variante  [形] 多样的
+varicela  [名] 水痘
+vasca  [名] ①盆；②缸
+vaso  [名] 容器，器皿
+vaste  [形] ①广大的，宽广的；②（衣服）肥大
+vece  [名] ①次，回  ~ Ci es vece un mi asiste contesta de pinta. 现在是我第一次参加绘画比赛。；②倍  [副] ①（多少）次；②（第几）次  ~ Vece du li fere un meleagre. 第二次他带了一只火鸡。
+vecta  [动] {他} 乘坐，搭乘
+| convecta  [动] ①{自} 会车；②{自}（空气）对流
+vedue (védue) ⟨védua, véduo⟩  [名] 鳏寡人士，寡妇，鳏夫
+vege  [形] 活跃的，活泼的，有活力的
+vela  [名] 帆
+vele  [动] {他} 拔
+| convele  [动] {自} 抽筋，抽搐
+velo  [名] ①面纱，头巾；②软腭
+velopa  [名] ①信封；②包装
+vena  [名] 静脉，血管
+vende  [动] {他} 卖，售卖，出售  | vendiste ⟨vendista, vendisto⟩  [名] ①小贩，店铺老板；②销售人员
+venga  [动] {他} 报仇，复仇，报复；报（某种仇恨）
+veni  [动] {自} 来，过来  | veniza  [动] 招徕，招致
+# ventura  [名] 奇遇，冒险
+| aveni  [名] 将来，未来
+| diveni  [动] {自} 晕，昏厥，晕倒
+| eveni  [名] 事变，事件
+| inveni  [动] {他} 发明
+| preveni  [动] {他} 预防，以防 
+venter  [名] 腹部，肚子
+vento  [名] 风  | ventania (ventánia)  [名] 暴风，飓风，台风
+verbo  [名] 动词
+| averbo  [名] 副词
+| proverbo  [名] 谚语
+verde  [形] 绿色的  [名] 绿色
+vere  [形] 真的，对的，确实的  | veriza  [动] {他} 改正，修正
+verge  [动] {他} 接近，靠近，濒临
+| converge  [动] {自} 汇合，会合，汇集
+| diverge  [动] {他} 偏离
+verme  [名] 蠕虫（生物）
+versa  [动] ①{他} 倾倒，浇；②{他}{自} 撒，撒出；③{他} 倾泻，发泄  [名] 版本
+| aversa  [动] {他} 警告
+| diverse  [形] 多样的，各种各样的
+| perverse  [形] 变态的（指人）
+| reversa  [动] {他} 推翻，颠覆  - reverse  [形] 倒转的，反过来的
+| universe  [形] 通用的，普遍的
+| universita  [名] 大学
+verso  [名] 一句，诗行，诗句，一行歌词  | versario ⟨versário⟩  [名] 歌词
+verte  [动] {自} 掉转，掉头
+| inverte  [动] {自} （上下）颠倒，翻转，反转
+vertique  [形] 垂直的
+veruca  [名] 疣，赘，肉瘤，小硬瘤
+vesica  [名] ①囊，泡；②水泡，气泡；③代指膀胱
+vespo  [名] 胡蜂（生物）
+vesti  [动] ①{他} 穿上，戴上；②{他} 给...穿衣，给...更衣  |vestido  [名] 服装，衣服
+| investi  [动][名] {他} 投资
+vestiga  [动] {他} ①调查；②研究，探究
+vete  [形] ①旧的；②老的
+| invete  [形] 根深蒂固的，积习难改的，积重难返的  ~ Le invete problemas de Esperanto bara li divolveres. 人造语言Esperanto的那些根深蒂固的问题阻碍了它的发展。
+vetro  [名] ①玻璃；②代指玻璃杯
+vexa  [动] {他} 使...烦恼，使...苦恼，烦扰，困扰；令人苦恼；骚扰 ~ Le roga vexa ce sagoro. 那个问题困扰着这位智者。
+| convexe  [形] 凸的
+via (vía)  [名] 路，道路，路径  | vieta  [名] 小径  | viania (viánia)  [名] 大道，林荫大道
+| convia (convía)  [动] ①{他} 传达；②{他} 护送
+| devia (devía)  [动] ①{自} 偏离道路；脱轨，出轨；②{自} 比喻离经叛道
+| invia (invía)  [动] {他} 邮寄，寄送
+| previe (prevíe)  [形] ①先前的；②上一个（通常接时间相关的词） ~ le previe mes 上个月
+viage <vi(a)+age>  [动] {自} 旅行，旅游
+vibra  [动] ①{自} 震动；②{他} 抡，挥动，挥舞，甩动
+vice  [形] 副职的  ~ vice rege 副王，总督  ~ vice comite 子爵，副伯爵
+vicine ⟨vicina, vicino⟩  [名] 邻居
+vicio (vício)  [名] ①不当行为；②坏习惯；③恶行  | viciose  [形] 邪恶
+victima  [名] ①牺牲者，受害者；②祭祀用的牺牲  ~ Poli religas demanda credentes dona victima a dive. 许多宗教要求信众为神明提供贡品。
+vide  [动] {他} 看见，见到
+| avide  [形] 贪婪的，吝啬的
+| divide  [动] {他} 分割，分隔，除去
+| evide  [动] {自} 明显，显眼，瞩目；②{他} 表明，（作为证据）证明了  | evidente  [形] 明显的  |# evidenza  [名] 证据
+| intervide  [动] ①{他} 碰到，碰面，见面；②{他} 采访
+| invide  [动] {他} 羡慕，妒忌，忌妒
+| provide  [动] ①{他} 提供；②{他} 给予（多少）预算  [名] 预算
+| revide  [动] ①{他} 回顾；②{他}复习
+| supervide  [动] {他} 监视，监管
+video (vidéo)  [名] 视频；影视作品
+vige  [形] 醒的，醒着的  | vigesce  [动] {自} 醒来  | vigile  [形] 警觉的，警惕的，警醒的
+vigna  [名] 豇豆（生物）  ~ rube vigna 红豆  ~ verde vigna 绿豆
+vila  [名] 村，农村  | vilane ⟨vilana, vilano⟩  [名] 村民
+vince  [动] ①{自} 获胜，取胜，胜利；②{他} 战胜，克服
+| convince  [动] {他} 说服，使信服
+| province  [名] 省，省份
+vino  [名] ①酒，酒精饮品（泛称）；②专指红酒、葡萄酒  | vinema  [名] 酒精，乙醇
+viola  [名] 堇菜，紫罗兰（生物）
+# viole  [形] 紫色的  [名] 紫色
+violin  [名] 小提琴
+virga  [名] ①枝条；②杆（拐杖，魔法棒等）
+virgin  [形] 童贞的，处女的，未经开垦的，未经污染的  | virginora  [名] 处女  | virginoro  [名] 处男
+viro  [名] 病毒（生物）
+virto  [名] 善，品德，美德
+visage <vis(o)+age>  [名] 表情，神态，神情  ~ Li visage aspecta seren. 他的神情看起来很安详。
+viso  [名] 脸，面部，面孔
+# visita  [动] ①{他} 访问，拜访；②{他} 参观，游览
+| diviso  [名] 装置，仪器
+vista  [名] 视野
+| revista  [名] 期刊，杂志
+vistabreve <vista+breve>  [形] 近视的；比喻目光短浅的
+vistatele <vista+tele>  [形] 远视的；比喻目光长远的
+vita  [名] ①生命；②人生，生涯
+|# evita  [动] {他} 避开，避免
+|# invita  [动][名] {他} 邀请
+vitalibro <vita+libro>  [名] 传记
+vite  [名] 葡萄，提子（生物）
+vive  [动] {自} 生活，活着  [名] 生活
+| revive  [动] {自} 复活，复苏，复生
+| survive  [动] {自} 幸存，从困境中生存下来
+voca  [动] {他} 呼喊，呼唤，召唤，呼叫  ~ Mi cefe voca mi. 我的老板在呼唤我。 ~ Ili voca li como Johan. 他们把他叫作约翰。
+# vocale  [名] 元音  [形] 口头的，口语的
+| avoca  [动] ①{他} 宣扬，倡议；②{自} 辩护  ~ avoca por 为…辩护
+| provoca  [动] {他} 挑衅，惹怒，激怒
+voce  [名] ①嗓音；②指代话语
+vocelege <voce+lege>  [动] {他} 朗读
+voga  [名] 时尚，时髦
+# vogale  [形] 时尚的，时髦的
+vola  [动] {自} 飞翔
+volcano  [名] 火山
+vole  [动] {他}{情态} 愿意，想要，意欲  ~ vole dice 想表达的是；（某人）的意思是  [名] ①意愿，心愿；②欲望
+volonta  [动] {情态} 自愿，志愿
+volpe  [名] 狐狸（生物）
+volture  [名] 兀鹰，秃鹫（生物）
+volume  [名] ①卷，册；②体积，容积，容量
+volve  [动] {他}{自} 缠绕
+|# convolvo  [名] 牵牛花（生物）
+| divolve  [动] {他}{自} 发展
+| evolve  [动] {自} 进化，演化
+| involve  [动] ①{他} 缠住，使卷入，使陷入；连累，累及；②{他} 包装
+| revolve  [动] {自} 举行革命，造反，起义
+vomi  [动] {他} 呕吐，吐出，喷出
+vora  [动] ①{他} 吞咽；②{他} 吞噬，吞食
+vos  [代] 你们
+vove  [动] {他} 宣誓，发誓，郑重担保  [名] 誓言
+
+W
+wagon  [名] 车厢
+weste  [名] 西，西方  [形] 西方的，西部的
+
+Z
+ 
+zea (zéa)  [名] 玉米（生物）
+zebra  [名] 斑马（生物）
+zela  [动] {他} 妒忌，猜忌，吃醋，嫉妒
+- zelo  [名] 妒意，醋意  | zelose  [形] 嫉妒的，充满妒意的
+zero  [数] 零
+zinco  [名] 锌（元素）
+zingiber  [名] 姜（生物）
+zizifo  [名] 枣（生物）
+zona  [名] 地区，区域  ~ verde zona (in sablario) 绿洲
+zumi  [动] ①{自} 嗡鸣；②{自} 絮语，唠叨；③{他} 哼唱
+ 
+ 
+附录1：字母与发音
+简语拼读一致，根据单词的拼写可正确读出其发音。简语使用除K和Y以外的24个拉丁字母，字母与发音的对应关系如下表所示。（其中字母C、G、R、Q请留意后方注释）
+
+Aa	Bb	Cc	Dd
+/a/	/b/	/k//tʃ/	/d/
+Ee	Ff	Gg	Hh
+/e/	/f/	/g//dʒ/	/h/
+Ii	Jj	Ll	Mm
+/i/	/j/	/l/	/m/
+Nn	Oo	Pp	(QUqu)
+/n/	/o/	/p/	(/kw//k/)
+Rr	Ss	Tt	Uu
+/r//ə/	/s/	/t/	/u/
+Vv	Ww	Xx	Zz
+/v/	/w/	/ks/	/z/
+其中：
+1.	字母C和字母G后方接元音字母E或I的时候，发音为软音/tʃ/和/dʒ/（如cela /'tʃe.la/、gelo /'dʒe.lo/），其余情况下均发硬音/k/和/g/（如casa /'ka.sa/、gusto /'gus.to/）；
+2.	字母Q仅用于字母组合qu；字母组合gu和qu在后方接字母a或o时，发音为唇化音/gw/和/kw/（如lingua /'lin.gwa/、aqua /'a.kwa/），后方接字母e或i时，发音为/g/和/k/（如longue /'lon.ge/、sequi /'se.ki/）；
+3.	后方无元音时，字母R的发音为/ə/（具体音值可以是[ə]、[ɜ]、[ɚ]或[ɝ]），与前方的元音计入同一音节（如servi /'seə.vi/）；
+音值规则：
+1.	清塞音/p/、/t/、/k/和清塞擦音/tʃ/均以送气音为标准音（即[ph]、[th]、[kh]、[tʃh]），在/s/后方可送气可不送气；
+2.	/r/的标准发音为龈后近音[ɹ̠]（即英语当中的r），允许大舌颤音[r]；
+3.	/h/同时允许[x]（即俄语及西班牙语中的x）、[h]两种发音；
+4.	/z/标准发音为浊擦音[z]，允许浊塞擦音[dz]；
+5.	字母l无论处在何处均发音为[l]而不会软化为[ɫ]。
+
+字母组合
+①辅音字母组合：
+（qu-与gu-亦可视为字母组合，上方已有介绍，此处不再重复）
+a)	sc /sk//ʃ/  后接字母e、i时发音为软音/ʃ/（如scena /'ʃe.na/），其余情况发音为硬音/sk/（如scala /'ska.la/）
+b)	ch /tʃ/  （如chata /'tʃa.ta/）
+②双元音：
+ai	ei	oi
+/ai/	/ei/	/oi/
+au	eu	ou
+/au/	/eu/	/ou/
+除以上六组双元音外，其余元音组合均应划分到不同的音节当中，如ea是e与a两个音节、io是i与o两个音节。
+③词尾处的-er
+不少于两个音节的词若以-er结尾，则-er发音为/ə/（如pater /'pa.tə/、tener /'te.nə/）。（唯一一个词尾有-er且是单音节的单词为per /peə/）
+
+重音
+简语单词的重音通常在倒数第二音节上（如séren /'se.ren/、cocléa /kok.'le.a/、língua /'lin.gwa/）。
+若不少于三音节的单词其词尾为-ia、-io、-ie、-ion、-ua、-ue、-uo的，则重音在倒数第三音节上，即这些词尾之前的音节上（如biológia /bi.o.'lo.dʒi.a/、glácie /'gla.tʃi.e/、contínua /kon.'ti.nu.a/）。
+在词典中，单词以两个元音字母或者两个元音加辅音结尾的，均会使用重音符´标记重音位置。正式行文则无需使用重音符（如直接写作janua即可而无需写jánua）。
+
+有关简语发音的更多详细介绍，请参阅《简语拼读》文档。
+
+
+ 
+附录2：词缀
+
+一、自然前缀/伪前缀
+前缀	前缀意义	拼写变化	例词
+ab-	离，从	除l/r外的辅音开头的词根前改为a-	asolve 绝对
+ablava 洗掉
+abonda 盛产
+ad-	去，加	辅音开头的词根前改为a-	apresa 冲，冲刺
+adapta 适应
+bi-	双	-	biciclo 自行车
+con-	共，同	o开头的词根前改为c-
+元音开头的词根前改为co-
+b/p开头的词根前改为com-
+m/n/l/r开头的词根前改为co-	copera 合作
+compara 对比，比较
+conota 认识
+conclude 推断出
+de-	从，减，反
+加强	-	defende 防御
+dis-	分散，消散	p/t/c/qu-/m/n以外的辅音开头的词根前改为di-	difere 不同
+disconto 折扣
+ex-	出，向外	p/t/c/qu-以外辅音开头的词根前改为e-
+s-开头的词根去掉s	evolve 进化
+expresa 表达
+exequi 执行
+in-(1)	内，入	b/p开头的词根前改为im-
+m/n开头的词根前改为i-	impresa 印象
+influi 影响
+in-(2)	反义	b/p开头的词根前改为im-
+m/n/l/r开头的词根前改为i-	imun 免疫，免责
+intime 亲密
+inter-	互相	-	intervide 见面，采访
+ob-	向着，朝着	辅音开头的词根前改为o-	ofende 冒犯，进犯
+per-	完全，结束	-	perfecte 完美
+pre-	预，先，前	-	prescribe 药方
+pro-	向前	-	protege 保护
+re-	回头
+重新	-	responde 回答，回应
+se-	分开	-	seduce 诱惑
+sub-	在下	辅音开头的词根前改为su-	sutene 支持，支撑
+suborna 贿赂
+super-	在高处
+极好	-	supervide 监视，监管
+sur-	在上	-	surface 表面
+sin-	同，对称	b/p开头的词根前改为sim-
+m/n/l/r开头的词根前改为si-	simeter 对称的
+sindice 工会
+trans-	转移，穿透	-	transduce 翻译
+tri-	三	-	trianglo 三角形
+uni-	统一	-	uniforma 制服
+注：自然词缀不允许使用者自行构词，词典中列出自然词缀列表仅用于帮助学习者理解词源以帮助学习词汇。
+
+二、能产前缀
+前缀	意义	例词
+anti-	防/反对...（的工具）	anticade 降落伞
+hi-	昨天	hinocte 昨夜
+ho-	今天	homidi 今天中午
+non-	不...的	nonvalide 无效的
+re-	重新	reface 重做，重制
+注1：由于re-同样也是自然前缀，一般不推荐使用re-前缀构词而推荐使用副词neo（重新）。
+注2：否定前缀non-为紧密前缀，仅否定其后方的第一个词素（以和单词no区别），如nonvalidiza“使无效化”（对比no validiza“别将…有效化”）。
+
+三、自然后缀/伪后缀
+后缀	意义	拼写规律	例词
+-ale 	相关的形容词概念
+符合...的	词根的最后一个辅音为l时改为-are	ideale 理想
+reglare 规则的
+-ique (形容词)
+-ico/-ica (名词)	相关的形容词概念
+相关的名词概念	-	clasique 经典的
+basico 基地
+logica 逻辑
+-ifa	相关的动词概念	-	modifa 修改
+-ime (形容词)
+-imo (名词)	最高级	-	statime 立即
+minimo 最小值
+-ivo (名词)	语言学相关概念
+相关的名词概念	通常在t的后方	sustantivo 名词
+relativo 亲戚
+-cion
+-sion	相关的名词概念	通常将原词的末尾辅音t、pt、ct、r等去除	sécion 部门
+stácion 车站
+mísion 任务
+-mento	相关的名词概念（常与结构、建筑有关）	-	ligamento 韧带
+pavimento 地板
+-nza	从动词词根衍生而来的相关名词概念	必在-a、-e、-i后	tendenza 趋势
+-ura (名词)	产物	通常在t的后方	cultura 文化
+basura 垃圾
+注1：自然词缀不允许使用者自行构词，词典中列出自然词缀列表仅用于帮助学习者理解词源以帮助学习词汇。
+注2：-cion/-sion类词缀在自然语言当中常常用于简单的动词向名词的词性转换，由于简语有“动词直接做名词”的语法因而这类派生词大幅减少，被引入简语中的使用-cion/-sion类后缀的派生词通常有着显著的词义引申，因而有必要专门给予一个简语词汇的地位。
+
+四、能产后缀：词尾型后缀（元音开头的后缀）
+使用词尾型后缀构词时，需要先将原词末尾的元音删去（辅音字母结尾则不需要），再添加后缀。
+后缀	意义	例词
+-ane ⟨-ana, -ano⟩
+(根据性别选择)	居民
+成员	vilano 男村民（村庄的居民）
+familiane 家人（家庭的成员）
+-ánia	大化，指大	montánia 高山，山脉（大化的山）
+-ário	集合
+储存...的场所	militário 军队（军人的集合）
+librário 图书馆（存书的场所）
+-ema	成分	vinema 酒精（酒的核心成分）
+-eta	小化，指小	libreta 小册子，本子（小化的书）
+-eza	性质	vereza 真实性（真的性质）
+-ido	具有...特征的事物
+被用于...的事物	liquido 液体（液态的事物）
+edido 食物（用来吃的事物）
+-ile	易于（被）...的
+对...好的、亲近的	utile 好用的（易于被使用的）
+gentile 有风度的（对人好的）
+-ima	被...的消耗品	tintima 彩墨（染色用的消耗品）
+-ismo	主义，意识形态	minimismo 极简主义（最小的主义）
+-iste ⟨-ista, -isto⟩
+(根据性别选择)	职业者，以...谋生者
+支持...主义的人	docista 女教师（教学职业者）
+comunisto 共产主义者（支持comunismo的人）
+-itudo	程度	granditudo 大小，尺寸（大的程度）
+-ive	具有...倾向或喜好的性质的	active 积极的（倾向于表现的）
+-iza	使...变得	veriza 实现（使...成真）
+-oide	像...的（事物）	hominoide 像人的
+-ore ⟨-ora, -oro⟩
+(根据性别选择)	具有...特征的人	vetore 老者，长者（老的人）
+-ose	充满...的；具备...的	cargose 满载的（充满货物的）
+注1：后缀-ánia与-eta通常用于与原词有等级、规模或性质差异的词（如-ánia常用于表示灾难、灾害如ventánia“台风/飓风”），若仅是对其大小作出描述，应使用形容词grande和mini。
+注2：后缀-ile与-ive在一些派生词当中会略有引申，通常来自于自然语言（但因这两个后缀非常适合派生因而不归类为自然后缀），如captive（淘气的）。
+
+五、能产后缀：复合型后缀（辅音开头的后缀）
+使用复合型后缀时，直接将后缀添加在原词后方即可；若原词以辅音字母结尾（以-er结尾属于该种情况）则添加元音-e-连接。
+后缀	意义	例词
+-ble	可以被...的
+值得被...的	aprible 可打开的
+rideble 可笑的，好笑的
+-sce	变得	melasce 变黑
+-lógia	学科，科学	medelógia 医学（关于治疗的科学）
+-nda	应当被...的事物	miranda 奇迹（应当惊奇的事物）
+-nte ⟨-nta, -nto⟩
+(根据性别选择)	做...的人	servinte 侍者（服务的人）
+-nte	（主动分词/现在分词）	jocante 在玩着的
+-te	（被动分词/过去分词）	videte 被看见的
+-tore	做某事的工具	fodetore 铲子（挖掘的工具）
+-tório	地点，场所	dinatório 餐厅（吃饭的地方）
+注：后缀-tório通常用来构造指独栋建筑或有大片场地的场所，如medetório（医院）等；若能够使用casa（房屋/店）、sala（房间）等词进行复合构词则不推荐使用后缀-tório，如docesala（教室）。
+ 
+附录3：国家名词与国家形容词
+国家名	形容词	洲别	中文名
+Afganistán	afgani	亚洲	阿富汗
+Africa	africa	非洲	非洲
+Aiti	aiti	美洲	海地
+Algeria (Algéria)	algeria (algéria)	非洲	阿尔及利亚
+America	america	美洲	美洲
+Andora	andora	欧洲	安道尔
+Angola	angola	非洲	安哥拉
+Antigua e Barbuda	de Antigua e Barbuda	美洲	安提瓜和巴布达
+Argentina	argentina	美洲	阿根廷
+Asia (Ásia)	asia (ásia)	亚洲	亚洲
+Atlantico		大洋	大西洋
+Australia (Austrália)	australia (austrália)	大洋洲	澳大利亚
+Austria (Áustria)	austria (áustria)	欧洲	奥地利
+Azerbaighán	azerbaighán	亚洲	阿塞拜疆
+Bahamas	bahamas	美洲	巴哈马
+Báhrain	báhrain	亚洲	巴林
+Balgaria (Balgária)	balgaria (balgária)	欧洲	保加利亚
+Bangladesh	bangladesh	亚洲	孟加拉
+Barat	barat	亚洲	印度
+Barbados	barbados	美洲	巴巴多斯
+Belarus	belarus	欧洲	白俄罗斯
+Beláu	beláu	大洋洲	帕劳
+Belgio (Bélgio)	bélgio (bélgio)	欧洲	比利时
+Belize	belize	美洲	伯利兹
+Benin	benin	非洲	贝宁
+Bolivia (Bolívia)	bolivia (bolívia)	美洲	玻利维亚
+Bosna e Hertsegovina	de Bosna e Hertsegovina
+bosna
+hertsegovina	欧洲	波斯尼亚和黑塞哥维纳
+Botswana	botswana	非洲	博茨瓦纳
+Brasil	brasil	美洲	巴西
+Britan	britan	欧洲	大不列颠，英国
+Brunei (Brúnei)	brunei (brúnei)	亚洲	文莱
+Burquina Faso	de Burquina Faso	非洲	布基纳法索
+Burundi	burundi	非洲	布隆迪
+Bután	bután	亚洲	不丹
+Cabo Verde	de Cabo Verde	非洲	佛得角
+Camerún	camerún	非洲	喀麦隆
+Campuquía	campuquía	亚洲	柬埔寨
+Canada	canada	美洲	加拿大
+Catar	catar	亚洲	卡塔尔
+Cazaquistán	cazaqui	亚洲	哈萨克斯坦
+Centrafrica	centrafrica	非洲	中非
+Cesco	cesco	欧洲	捷克
+Chad	chad	非洲	乍得
+Choson, 
+Norde Corea
+(Norde Coréa)	choson
+corea (coréa)	亚洲	朝鲜
+Chunca	chunca	亚洲	中国
+Cile	cile	美洲	智利
+Codivár, 
+Côte d'Ivoire	de Codivár, 
+de Côte d'Ivoire	非洲	科特迪瓦
+Colombia (Colómbia)	colombia (colómbia)	美洲	哥伦比亚
+Comori	comori	非洲	科摩罗
+Congo [Brazavil]	congo	非洲	刚果（布）
+Congo [Quinshasa]	congo	非洲	刚果（金）
+Cosovo	cosovo	欧洲	科索沃
+Costa Rica	de Costa Rica	美洲	哥斯达黎加
+Cuba	Cuba	美洲	古巴
+Cuéit	cuéit	亚洲	科威特
+Denmac	denmac	欧洲	丹麦
+Divehi	divehi	亚洲	马尔代夫
+Doichland	doich	欧洲	德意志，德国
+Dominíc	dominíc	美洲	多米尼克
+Dominica	dominica	美洲	多米尼加
+Eire	eire	欧洲	爱尔兰
+El Salvadór	de El Salvadór	美洲	萨尔瓦多
+Equadór	equadór	非洲	厄瓜多尔
+Eritrea (Eritréa)	eritrea (eritréa)	非洲	厄立特里亚
+Espania (Espánia)	espania (espánia)	欧洲	西班牙
+Esti	esti	欧洲	爱沙尼亚
+Europa	europa	欧洲	欧洲
+Filastin	filastin	亚洲	巴勒斯坦
+Filipinas	filipinas	亚洲	菲律宾
+France	france	欧洲	法兰西，法国
+Gabón	gabón	非洲	加蓬
+Gaiana	gaiana	美洲	圭亚纳
+Gambia (Gámbia)	gambia (gámbia)	非洲	冈比亚
+Gana	gana	非洲	加纳
+Gibuti	gibuti	非洲	吉布提
+Grenada	grenada	美洲	格林纳达
+Guatemala	guatemala	美洲	危地马拉
+Guinea (Guinéa)	guinea (guinéa)	非洲	几内亚
+Guinéa Bisáu	de Guinéa Bisáu	非洲	几内亚比绍
+Guinea Equatoriale
+(Guinéa Equatoriale)	de Guinea Equatoriale
+(de Guinéa Equatoriale)	非洲	赤道几内亚
+Hajastán	hajastán	亚洲	亚美尼亚
+Hanguc, Sude Corea 
+(Sude Coréa)	hanguc
+corea (coréa)	亚洲	韩国
+Helas	helas	欧洲	希腊
+Hervatsca	hervatsca	欧洲	克罗地亚
+Honduras	honduras	美洲	洪都拉斯
+Imarates
+Unizate Imarates de Arabia, UIA	de Imarates
+de Unizate Imarates de Arabia, de UIA	亚洲	阿联酋
+Indo Marania
+(Indo Maránia)		大洋	印度洋
+Indonesia (Indonésia)	indonesia (indonésia)	亚洲	印度尼西亚
+Irác	irác	亚洲	伊拉克
+Irán	irán	亚洲	伊朗
+Island	island	欧洲	冰岛
+Israél	israél	亚洲	以色列
+Italia (Itália)	italia (itália)	欧洲	意大利
+Itiopia (Itiópia)	itiopia (itiópia)	非洲	埃塞俄比亚
+Jamaica	jamaica	美洲	牙买加
+Jaman	jaman	亚洲	也门
+Lao	lao	亚洲	老挝
+Latvia (Látvia)	latvia (látvia)	欧洲	拉脱维亚
+Lesoto	lesoto	非洲	莱索托
+Letsebur	letsebur	欧洲	卢森堡
+Liberia (Libéria)	liberia (libéria)	非洲	利比里亚
+Libia (Líbia)	libia (líbia)	非洲	利比亚
+Libnán	libnán	亚洲	黎巴嫩
+Lictenstain	lictenstain	欧洲	列支敦士登
+Lietuvá	lietuvá	欧洲	立陶宛
+Madagascara	madagascara	非洲	马达加斯加
+Magjar	magjar	欧洲	匈牙利
+Magrib	magrib	非洲	摩洛哥
+Malawi	malawi	非洲	马拉维
+Malaisia (Maláisia)	malaisia (maláisia)	亚洲	马来西亚
+Mali	mali	非洲	马里
+Malta	malta	欧洲	马耳他
+Maquedonia (Maquedónia)	maquedonia (maquedónia)	欧洲	马其顿
+Mazel	mazel	大洋洲	马绍尔
+México	méxico	美洲	墨西哥
+Miama	miama	亚洲	缅甸
+Micronesia (Micronésia)	micronesia (micronésia)	大洋洲	密克罗尼西亚
+Miser	miser	非洲	埃及
+Moldova	moldova	欧洲	摩尔多瓦
+Monaco	monaco	欧洲	摩纳哥
+Mongol	mongol	亚洲	蒙古
+Moris	moris	非洲	毛里求斯
+Mosambique	mosambique	非洲	莫桑比克
+Muritania (Muritánia)	muritania (muritánia)	非洲	毛里塔尼亚
+Namibia (Namíbia)	namibia (namíbia)	非洲	纳米比亚
+Nauru	nauru	大洋洲	瑙鲁
+Nederland	nederland	欧洲	尼德兰，荷兰
+Neo Zeland
+(Néo Zeland)	de Neo Zeland
+(de Néo Zeland)	大洋洲	新西兰
+Nepál	nepál	亚洲	尼泊尔
+Nicaragua	nicaragua	美洲	尼加拉瓜
+Niger	niger	非洲	尼日尔
+Nigeria (Nigéria)	nigeria (nigéria)	非洲	尼日利亚
+Nihón	nihón	亚洲	日本
+Norde Merania
+(Norde Meránia)		大洋	北冰洋
+Norgue	norgue	欧洲	挪威
+Oceania (Oceánia)		大洋洲	大洋洲
+Ozbequistán	ozbequi	亚洲	乌兹别克斯坦
+Pacifico		大洋	太平洋
+Panamá	panamá	美洲	巴拿马
+Papua Neo Guinea
+(Pápua Néo Guinéa)	de Papua Neo Guinea
+(de Pápua Néo Guinéa)
+Papua (Pápua)	大洋洲	巴布亚新几内亚
+Paquistán	paquistán	亚洲	巴基斯坦
+Paraguái	paraguái	美洲	巴拉圭
+Perú	perú	美洲	秘鲁
+Polsca	polsca	欧洲	波兰
+Portugál	portugál	欧洲	葡萄牙
+Quenia (Quénia)	quenia (quénia)	非洲	肯尼亚
+Quipros	quipros	欧洲	塞浦路斯
+Quirguís	quirguís	亚洲	吉尔吉斯斯坦
+Quiribati	quiribati	大洋洲	基里巴斯
+Romanía	romanía	欧洲	罗马尼亚
+Rosía	rosía	欧洲	俄罗斯，俄国
+Ruanda	ruanda	非洲	卢旺达
+Sacartvelo	sacartvelo	亚洲	格鲁吉亚
+Samoa (Samóa)	samoa (samóa)	大洋洲	萨摩亚
+San Domingo	de San Domingo	美洲	圣多明各
+San Marino	de San Marino	欧洲	圣马力诺
+San Quits e Nevis	de San Quits e Nevis	美洲	圣基茨和尼维斯
+San Tomé e Príncipe	de San Tomé e Príncipe	非洲	圣多美和普林西比
+San Vincent e Grenadines	de San Vincent e Grenadines	美洲	圣文森特和
+格林纳丁斯
+Santa Lucia (Santa Lúcia)	de Santa Lucia (Santa Lúcia)	美洲	圣卢西亚
+Saudia (Sáudia)	saudia	亚洲	沙特阿拉伯
+Senegál	senegál	非洲	塞内加尔
+Serbia (Sérbia)	serbia (sérbia)	欧洲	塞尔维亚
+Sescel	sescel	非洲	塞舌尔
+Shquiperia (Shquipéria)	shquiperia (shquipéria)	欧洲	阿尔巴尼亚
+Siera Leone	de Siera Leone	非洲	塞拉利昂
+Síngapor	síngapor	亚洲	新加坡
+Slovenia (Slovénia)	slovenia (slovénia)	欧洲	斯洛文尼亚
+Slovensco	slovensco	欧洲	斯洛伐克
+Solomón Nesos	de Solomón Nesos	大洋洲	所罗门群岛
+Somalia (Somália)	somalia (somália)	非洲	索马里
+Sri Lanca	sri-lanca	亚洲	斯里兰卡
+Sudafrica	sudafrica	非洲	南非
+Sudán	sudán	非洲	苏丹
+Sude Sudán	de Sude Sudán	非洲	南苏丹
+Suomi	suomi	欧洲	芬兰
+Suria (Súria)	suria (súria)	亚洲	叙利亚
+Suriname	suriname	美洲	苏里南
+Sverie (Svérie)	sverie (svérie)	欧洲	瑞典
+Swatini	swatini	非洲	斯威士兰
+Swis	swis	欧洲	瑞士
+Tagiquistán	tagiqui	亚洲	塔吉克斯坦
+Tai	tai	亚洲	泰国
+Tanzania (Tanzánia)	tanzania (tanzánia)	非洲	坦桑尼亚
+Timor Leste	de Timor Leste, timor	亚洲	东帝汶
+Togo	togo	非洲	多哥
+Tonga	tonga	大洋洲	汤加
+Trínidad e Tobago	de Trínidad e Tobago	美洲	特立尼达和多巴哥
+Tserna Gora	de Tserna Gora	欧洲	黑山
+Tunisia (Tunísia)	tunisia (tunísia)	非洲	突尼斯
+Turcmenistán	turcmeni	亚洲	土库曼斯坦
+Turquie (Túrquie)	turquie (túrquie)	亚洲	土耳其
+Tuvalu	tuvalu	大洋洲	图瓦卢
+Ucraina	ucraina	欧洲	乌克兰
+Uganda	uganda	非洲	乌干达
+Umán	umán	亚洲	阿曼
+Unite Statos de America, USA	de Unite Statos de America, de USA	美洲	美国，美利坚合众国
+Urdun	urdun	亚洲	约旦
+Uruguái	uruguái	美洲	乌拉圭
+Vanuatu	vanuatu	大洋洲	瓦努阿图
+Vaticano	vaticano	欧洲	梵蒂冈
+Venesuela	venesuela	美洲	委内瑞拉
+Vici	vici	大洋洲	斐济
+Vietnam	vietnam	亚洲	越南
+Zambia (Zámbia)	zambia (zámbia)	非洲	赞比亚
+Zimbabwe	zimbabwe	非洲	津巴布韦
+注1：非括号内的国名若使用了重音符号，意味着其重音不符合简语通常规则，因而在正式行文中须保留使用，如Nihón（日本）通常不写作Nihon；若输入条件有限亦允许省略重音符号。
+注2：阿联酋和美国的简称UIA、USA可以按字母呼读音读作/u.i.a/及/u.es.a/，亦可按字面读作/'u.ja/及/'u.sa/。出于中立性考虑，简语当中，美洲的名称America不允许用于专门指称美国。
+注3：国家名词与国家形容词相异时（在列表中已以下划线标示）规则如下：
+1）国名超过一个单词，则须使用de加国名的介词词组代替形容词形式，如cive de Sude Sudán（南苏丹的公民）；亦可以使用-代替空格并且改为小写字母的形式用于修饰后方的名词，如norde-corea problema（朝鲜问题）。
+2）中亚地区五个在拼写中使用了-stán“斯坦”的国家，其专有形容词形式直接去除-stán形成，包括afgani（阿富汗的）、cazaqui（哈萨克的）、ozbequi（乌兹别克的）、tagiqui（塔吉克的）、turcmeni（土库曼的）。（注意filastin（巴勒斯坦的）、hajastán（亚美尼亚的）、paquistán（巴基斯坦的）、quirguís（吉尔吉斯的）不在此列。）
+3）日尔曼国家名称多有使用-land“兰”的，但专有形容词形式只有德国的doich为名词Doichland去除-land形成，其余均与名词同形（如island、nederland）或采用上述第1）条的规则（如 ... de Neo Zeland）。
+
+附：除国名外重要的专有名词、形容词
+1）重要的非国名的民族、民系名称
+Arabe  [名][形] 阿拉伯
+Celte  [名][形] 凯尔特
+German  [名][形] 日尔曼
+Han  [名][形] 汉，汉族
+Ibri  [名][形] 希伯莱，犹太
+Indo  [形] 印度的，印度文化的；印度教的
+Ingles  [形] 英格兰的（作为大不列颠的主体部分，在特定情况下常取代britan作为形容词使用，如Ingles Lingua英语；英格兰的名词形式简语中则不作官方规定）
+Latin  [名][形] 拉丁
+Nawa  [名][形] 纳瓦/纳瓦特/纳瓦特尔（词源为Nahuatl，通常指阿兹特克帝国的主体民族）
+Quechua (Quéchua)  [名][形] 克丘亚（印加帝国的主体民族）
+Roman  [名][形] 罗曼
+Slove  [名][形] 斯拉夫
+注1：做形容词且没有形成专有名词词组时，首字母小写，如Li es ibri fema.（她是个犹太女人。）；若形成专有名词词组则首字母大写，如Latin Lingua（拉丁语）。
+注2：国名可以表达民族名称的，直接使用国名的专有形容词形式作为民族的专有形容词即可，如corea（韩国的/朝鲜的）、magjar（马扎尔的/匈牙利的）等。
+
+2）重要的古代国家与文明
+Asteca  [名][形] 阿兹特克
+Asuria (Asúria)  [名][形] 亚述
+Cumat  [名][形] 古埃及
+Hiti  [名][形] 赫梯
+Maja  [名][形] 玛雅
+Pun  [名][形] 腓尼基
+Roma  [名] 罗马；罗马帝国
+Tawantinsuju  [名] 印加帝国（源于克丘亚语对印加帝国的自称）
+
+ 
+附录4：词汇演化规则
+
+从拉丁语到简语
+1.	词干中的双写辅音只保留一个，如terra → tera
+2.	-mn-改为-n-，如somnium → sonio
+3.	-gn-保留但按字面发音/gn/，如signum → signo /'sig.no/
+4.	-mpt-、-nct-改为-nt-，如temptare → tenta、sanctus → sante
+5.	hiV（V为元音字母）改为jV，如hiatus → jato
+6.	主元音为u而该音节不好发音的：
+a)	iun改为jon，如iunctus → jonte
+b)	vu改为vo，如vulpes → volpe
+7.	希腊词源的处理：
+a)	ph、mph改为f、nf，如phone → fon，lympha → linfa
+b)	th改为t，如theoria → teoria
+c)	ch改为c或qu-，如chroma → croma，psyche → sique
+d)	y改为i，如systema → sistema
+e)	单词开头的ks、ps、kt、pt去掉首字母，如pseudo → seudo
+8.	短音i或短音u的变化：
+a)	大多保留原拼写，部分参考法语、西班牙语、葡萄牙语、意大利语（和英语）改为e、o：若这四（五）门语言当中有至少三门具备i → e和u → o的变化则简语有此变化，如rumpere → rompe；反之则保留i、u，如mundus → mundo
+b)	倒数第二音节为非重读短音u时，若该词使用了-ul-后缀来构词，简语当中通常把-u-消除，如oculus → oclo
+c)	倒数第二音节为非重读短音i时，若该词使用了-in-后缀来构词，简语当中通常把-i-消除，如dominus/domina (→ domne) → don
+9.	自然前缀派生词当中，前缀与词根的连接处可能出现复辅音的，根据附录2〈词缀〉进行变化，如sufficere → sufice
+（自然前缀inter-、super-中的-er-在派生词中依然发音为/ə/，因而出现-rr-并不认为是复辅音，两个r分别归入前后两个音节，如interrete /in.tə.'re.te/）
+10.	名词词尾
+a)	-us、-um类词尾（第二、第四变格法）变化为-o，如tempus → tempo
+b)	-a类词尾（第一变格法）保留，如stella → stela
+c)	非以上类型的拉丁语词汇（通常为第三变格法），根据意大利语等现代罗曼语，在词干后添加-e，如nubes → nube、lumen → lume、rex → rege
+d)	词根以辅音-n-、-s-结尾的拉丁语第三变格法的名词：
+i.	在c)项中演化成-ne的，全部去掉词尾变成的-e，如panis → pan
+ii.	在c)项中演化成-se的，予以保留，如phrasis → frase
+iii.	个别在拉丁语、现代罗曼语直接以-s结尾的，简语亦使用-s结尾，如ros、pais，此类词全部为单音节词（因而不会与别的名词的复数形式混淆）
+e)	拉丁语当中主格以-or结尾的，阳性与中性名词改为-o，如error → ero；阴性名词改为-a，如soror → sora
+f)	拉丁语当中主格以-er结尾的，保留主格形式，如pater
+g)	拉丁语当中以-Xer、-Xrus、-Xrum、-Xra结尾的（大写字母X表示辅音），参考英语改为-Xer，如centrum → center
+h)	在拉丁语中既有-us词尾表达雄性又有-a词尾表达雌性的动物名词，在简语中改为-e尾并不再表达性别，如gallus/galla → gale
+11.	动词词尾
+a)	第一组为词干加-a，如lavare → lava
+b)	第二组、第三组为词干加-e，如videre → vide
+c)	第四组为词干加-i，如mentire → menti
+12.	形容词词尾
+a)	一般而言为词干加-e，包括拉丁语第一、第二、第三变格法的形容词，如lente、grande
+b)	词干以-n结尾的罗曼语来源的形容词，通常直接去掉词尾，如sollemnis → solen
+c)	个别形容词允许以-o、-er或其他结尾，如mini、mela、orto、pober、termo、joven等
+13.	在使用自然前缀派生时，若出现词性转换，将改变其词尾，通常与拉丁语和现代罗曼语一致：
+a)	转换为名词的，词尾改为-o，如fixa派生为prefixo；先派生为动词，再将动词直接用作名词的，不改变其词尾，如expresa、responde等
+b)	转换为动词的，词尾改为-a，如pute派生为disputa
+c)	转换为形容词的，词尾改为-e，如trema派生为extreme；若遇变为-ne结尾的，遵照上述第12条b)，去掉-e尾，如muno派生为comun
+

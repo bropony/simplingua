@@ -1,0 +1,144 @@
+version: "3.8"
+
+services:
+  # PostgreSQL Database - Internal Only
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: simplingua-postgres
+    restart: unless-stopped
+    # No ports exposed - accessible only via Docker internal networks
+    networks:
+      - database
+      - internal
+    environment:
+      POSTGRES_DB: simplingua_prod
+      POSTGRES_USER: simplingua
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - postgres_backups:/var/lib/postgresql/backups
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready", "-U", "simplingua"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # FastAPI Backend - Internal Only
+  backend:
+    build: ./backend
+    container_name: simplingua-backend
+    restart: unless-stopped
+    # No ports exposed - accessible only via Docker internal networks and Nginx
+    networks:
+      - database
+      - internal
+      - backend
+    environment:
+      - ENV=production
+      - DEBUG=False
+      - DATABASE_URL=postgresql://simplingua:${DB_PASSWORD}@postgres:5432/simplingua_prod
+      - JWT_SECRET=${JWT_SECRET}
+      - AI_DEFAULT_PROVIDER=deepseek
+      - AI_DEEPSEEK_API_KEY=${AI_DEEPSEEK_API_KEY}
+      - AI_DEEPSEEK_MODEL=${AI_DEEPSEEK_MODEL:-deepseek-chat}
+      - AI_DEEPSEEK_BASE_URL=${AI_DEEPSEEK_BASE_URL:-https://api.deepseek.com}
+      - AI_OPENAI_API_KEY=${AI_OPENAI_API_KEY}
+      - AI_OPENAI_MODEL=${AI_OPENAI_MODEL:-gpt-4o}
+      - AI_OPENAI_BASE_URL=${AI_OPENAI_BASE_URL:-https://api.openai.com/v1}
+      - AI_ANTHROPIC_API_KEY=${AI_ANTHROPIC_API_KEY}
+      - AI_ANTHROPIC_MODEL=${AI_ANTHROPIC_MODEL:-claude-3-5-sonnet-20241022}
+      - AI_ANTHROPIC_BASE_URL=${AI_ANTHROPIC_BASE_URL:-https://api.anthropic.com}
+      - AI_LOCAL_BASE_URL=${AI_LOCAL_BASE_URL:-http://host.docker.internal:11434}
+      - AI_LOCAL_MODEL=${AI_LOCAL_MODEL:-llama3.2}
+      - RATE_LIMIT_ANONYMOUS=${RATE_LIMIT_ANONYMOUS:-30}
+      - RATE_LIMIT_USER=${RATE_LIMIT_USER:-100}
+      - RATE_LIMIT_PERIOD_SECONDS=${RATE_LIMIT_PERIOD_SECONDS:-60}
+    volumes:
+      - ./backend/logs:/app/logs
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  # Next.js Frontend - Internal (accessed via Nginx)
+  frontend:
+    build: ./frontend
+    container_name: simplingua-frontend
+    restart: unless-stopped
+    # No host ports - Nginx will proxy traffic to this container
+    networks:
+      - frontend
+      - backend
+    environment:
+      # IMPORTANT: Use Docker container name for internal API communication
+      # Backend is accessible as http://simplingua-backend:8000
+      - NEXT_PUBLIC_API_URL=https://yourdomain.com
+    depends_on:
+      - backend:
+        condition: service_started
+
+  # Nginx Reverse Proxy - ONLY SERVICE EXPOSED TO INTERNET
+  nginx:
+    image: nginx:alpine
+    container_name: simplingua-nginx
+    restart: unless-stopped
+    # Expose ONLY ports 80 (HTTP) and 443 (HTTPS) to the internet
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+      - nginx_cache:/var/cache/nginx
+      - nginx_logs:/var/log/nginx
+      - certbot_webroot:/var/www/certbot:ro
+    networks:
+      - frontend
+      - backend
+    depends_on:
+      - frontend
+      - backend
+
+  # Certbot for automatic SSL certificate management (Let's Encrypt)
+  certbot:
+    image: certbot/certbot
+    container_name: simplingua-certbot
+    restart: unless-stopped
+    volumes:
+      - certbot_etc:/etc/letsencrypt
+      - certbot_var:/var/lib/letsencrypt
+      - certbot_webroot:/var/www/certbot
+    networks:
+      - external
+    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew; sleep 12h & wait $${!}; done;'"
+
+volumes:
+  postgres_data:
+    driver: local
+  postgres_backups:
+    driver: local
+  nginx_cache:
+    driver: local
+  nginx_logs:
+    driver: local
+  certbot_etc:
+    driver: local
+  certbot_var:
+    driver: local
+  certbot_webroot:
+    driver: local
+
+networks:
+  # Database network - only postgres and backend
+  database:
+    driver: bridge
+    internal:
+    driver: bridge
+  # Backend network - backend and internal services
+  backend:
+    driver: bridge
+  # Frontend network - frontend and nginx
+  frontend:
+    driver: bridge
+  # External network - for certbot only
+  external:
+    driver: bridge

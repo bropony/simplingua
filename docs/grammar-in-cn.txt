@@ -1,0 +1,1550 @@
+Lingua Regla de Simplingua
+简 语 语 法
+
+【目录】
+
+ 
+名词
+限定词
+代词
+形容词和副词
+动词
+非谓语动词
+系动词与存现动词
+连词
+介词
+数词
+句子的组成
+语序
+间接宾语：给予动词和表达动词
+名词性从句
+补语：使役句与使变句
+疑问句
+时间的表达
+状语从句
+定语从句
+假设的表达
+构词法
+ 
+ 
+【简语七条基本语法】
+1.	基本语序为主语→谓语→宾语。
+2.	修饰词通常在被修饰成分的前方，多个单词组成的修饰性成分（如介词词组、分词词组、定语从句等）在被修饰成分的后方。
+3.	名词有单数与复数的区别，复数名词在单数名词后面加-s（辅音词尾加-es）得到。
+4.	不定冠词使用un（一个），定冠词使用le（那个），零冠词单数名词可以表达其类别意义。
+5.	动词没有时变化，只有体貌变化，通过助词va（将行）和ja（完成）表达，没有使用va和ja等助词则表达现状。
+6.	动词有两个分词形，主动分词-nte和被动分词-te。被动句使用系动词es加上被动分词来表达。
+7.	形容词和副词同形，前方加mai（更）可表达比较级，前方加max（最）可表达最高级。
+ 
+【发音与拼写】
+    简语使用除K和Y以外的24个拉丁字母，字母与发音的对应关系如下表所示。（其中字母C、G、R、Q请留意后方注释）
+Aa	Bb	Cc	Dd
+/a/	/b/	/k//tʃ/	/d/
+Ee	Ff	Gg	Hh
+/e/	/f/	/g//dʒ/	/h/
+Ii	Jj	Ll	Mm
+/i/	/j/	/l/	/m/
+Nn	Oo	Pp	(QUqu)
+/n/	/o/	/p/	(/kw//k/)
+Rr	Ss	Tt	Uu
+/r//ə/	/s/	/t/	/u/
+Vv	Ww	Xx	Zz
+/v/	/w/	/ks/	/z/
+其中：
+1.	字母c和字母g后方接元音字母e或i的时候，发音为软音/tʃ/和/dʒ/，其余情况下均发硬音/k/和/g/；
+2.	字母组合gu和qu在后方接字母a或o时，发音为唇化音/gw/和/kw/，后方接字母e或i时，发音为/g/和/k/；
+3.	后方无元音时，r的发音为/ə/（具体音值可以是[ə]、[ɜ]、[ɚ]或[ɝ]）；
+音值规则：
+1.	清塞音/p/、/t/、/k/和清塞擦音/tʃ/均以送气音为标准音（即[ph]、[th]、[kh]、[tʃh]），在/s/后方可送气可不送气；
+2.	/r/的标准发音为龈后近音[ɹ̠]（即英语当中的r），允许大舌颤音[r]；
+3.	/h/同时允许[x]（即俄语及西班牙语中的x）、[h]两种发音；
+4.	/z/标准发音为浊擦音[z]，允许浊塞擦音[dz]；
+5.	字母l无论处在何处均发音为[l]而不会软化为[ɫ]。
+
+除单独的字母以外，简语还存在以下字母组合（qu-与gu-亦可视为字母组合，上方已有介绍，此处不再重复）：
+①辅音字母组合：
+a)	sc /sk//ʃ/ （后接字母e、i时发音为软音/ʃ/，其余情况发音为硬音/sk/）
+b)	ch /tʃ/
+c)	sh /ʃ/
+
+
+②双元音：
+ai	ei	oi
+/ai/	/ei/	/oi/
+au	eu	ou
+/au/	/eu/	/ou/
+除以上六组双元音外，其余元音组合均应划分到不同的音节当中，如ea是e与a两个音节、io是i与o两个音节。
+③词尾处的-er
+不少于两个音节的词若以-er结尾，则-er发音为/ə/。若不在尾，则按照字母R的发音规则发音为/eə/。
+
+简语单词的重音通常在倒数第二音节上。
+若不少于三音节的单词其词尾为-ia、-io、-ie、-ion、-ua、-ue、-uo的，则重音在倒数第三音节上，即这些词尾之前的音节上。
+
+    有关简语发音的更多详细介绍请参阅《简语拼读》文档。
+ 
+【名词】
+名词是指代事物或概念的一类单词
+
+一、名词的数
+名词分为可数名词和不可数名词，通常认为可以一个个进行计数的是可数名词，如malo（苹果）、botela（瓶子）、pena（笔）等，而不能逐个计数的则是不可数名词，如aqua（水）、vino（酒）、amo（爱）等等。
+可数名词有复数形式，表示多于一个，一般直接在名词后方加上-s即可构成，如：studentes（学生们）、tablas（几张桌子）、lampas（几盏灯）等等。
+若名词以辅音结尾，则添加-es来表达复数，单词的重音位置不变（若此时已超过两个音节则重音在倒数第三音节上），如muses（几只老鼠）、stáciones（一些车站）、cánones（一些大炮）。
+以-er结尾的名词，加复数为直接在后方加-s并且-er的发音不变，如maters（妈妈们）、pasers（一些麻雀）。
+一些在英语当中通常使用复数的词，在简语中以单数形式存在：
+a pair of glasses  =  un scópio （一副眼镜）
+a pair of trousers  =  un pantalon （一条裤子）
+不可数名词若要进行计数，可以借助量词形成的数量词组，如un copa de lacte（一杯牛奶）、du peces de bosco（两块木材）。
+在特定的语境下，一些不可数名词可以转换为可数名词来表达份数，如在咖啡馆说du cafes意味着du copas de cafe（两杯咖啡）。
+
+二、名词的“性别”
+简语名词没有语法上的阴阳性，大多数名词的词尾仅仅是拼写的差异，并没有表达性别的意味，并且完全不存在与其他单词的语法搭配。而一些表示人类的名词本身就包含自然性别。有以下三种情况：
+1、名词-a尾表示女性、-o尾表示男性
+一些成对的名词享用同样的词根，仅通过词尾区分女性或男性：
+nina 女孩  nino 男孩
+fília 女儿  fílio 儿子
+nona 祖母  nono 祖父
+tía 阿姨  tío 伯伯/叔叔
+studenta 女学生  studento 男学生
+medista 女医生  medisto 男医生
+若是不知道是男是女，或者复数当中有男有女的情况，通常将名词的-a尾、-o尾改成-e尾（复数为-es尾）来表达：nines（孩子们）、nones（祖父母）、un mediste（一位不知道性别的医生）。
+2、两个不同的词根分别表示女性和男性
+有一些可以成对的单词采用了不同词根来表达性别：
+mater 母亲  pater 父亲
+sora 姐姐/妹妹  frater 哥哥/弟弟
+dama 女士  sir 先生
+fema 女人  mas 男人
+regina 女王/王后  rege 国王
+表示不知性别或有男有女的情况，不能采用前文中使用词尾-e/-es的方法，只能使用o（或者）、e（和）来表达：
+soras e fraters 兄弟姊妹
+damas e sires 女士们先生们 
+mater o pater 母亲或父亲
+3、动物名词有固定词尾但不表示性别
+动物和人类一样可以区分雌雄性，但是人们通常难以辨别其性别。拉丁语和罗曼语的动物名词本身都有一种词尾，简语继承其完整词形：cabalo 马、cicada 蝉、pisce 鱼、anate 鸭子等，采用-o、-a或是别的词尾并不代表它的性别就是雌性或雄性，如cabalo可以是公马也可以是母马。
+若已经知道一个动物的性别，通常在前方加上fema（雌性）或mas（雄性）来修饰表达：un fema can（一只母狗）、un mas can（一只公狗）。不允许通过修改词尾来表达动物性别，如不存在cabala*这样的单词。
+
+三、名词词组的组成
+名词通常不会孤零零地出现在句子当中，而是以词组的形式出现，通常来说名词词组除了名词之外还包括限定词和形容词，有的还使用介词词组来修饰名词，在词组中按照：[限定词]-[形容词]-[名词]-[介词词组]的顺序排列。
+un bele fema in le sala 在房间中的一位美女
+上述例子中，词组的中心词是名词fema（女性），在名词前方有限定词un（一个）和形容词bele（美丽的），后方有介词词组in le sala（在房间当中）。
+
+四、专有名词
+专有名词通常是一样事物的名字，专门指特定的、具体的、独一无二的一样事物，首字母需大写。在简语中，通常会在名字词（nomelexi，即专有名词）之前或之后加上表示其类别的同位语，国名、地理名称、城市名通常不需要定冠词le在前方，如
+Amazon Rivo 亚马逊河
+Pacifico Maránia太平洋
+Tsinghua Universita清华大学
+le regina Victória 维多利亚女王
+le libro “Le Mini Prince” 书籍《小王子》
+通常来说第一次介绍一个专有名词时最好加上同位语，之后再说起该专有名词时则可省略同位语直接称呼其名：
+Maránia Pacifico es un grande mare ... poli nesos esta in Pacifico. 太平洋是一片很大的海洋……太平洋中有很多的岛屿。
+简语尊重主人对自己的称呼，因此往往直接引入其拉丁化拼写并采用原来的发音，如Jack、Pièrre、Ho Chi Minh等等，若感到难以发音的，也允许简语使用者按照字面拼写进行拼读。若是名字的主人愿意，可以用简语的拼读方式进行转写或者改用新的名字，如John（英语）→ Ghon（对照原发音转写）或Johan（改用简语的名字）。
+
+ 
+【限定词】
+限定词是一种特殊的形容词，用以指定名词的所指范围。
+
+一、冠词
+1、定冠词le
+定冠词le表示对名词的特指，所引导的名词应是说话双方知道的或上文已提及的有特定指向的名词。
+Le canto es bele, no? 那首歌很美，不是吗？
+Mi ja eme un casa ... Le casa es mini. 我买了一座房子……那座房子很小。
+定冠词le也可以引导听者可以轻易猜出其所指的名词：
+Mi ja eme un casa ... Le coque-sala es mini. 我买了一座房子……那个厨房很小。
+若在单句当中，其名词词组的修饰成分足够限定该名词的所指，也可以使用定冠词le：
+Li ja perde le telefón-nombers de li amis. 她丢了她朋友们的电话号码。
+2、不定冠词
+若名词是非特指的、双方并非都知道的或首次提及的事物，通常不使用定冠词，而是使用不定冠词或复数形式。
+le casa（特指）→ un casa或casas（非特指）
+Mi vole lege un libro. 我想读一本书。
+Ilo ja eme flores por ila. 他给她买了一些花儿。
+Un cate veni in nos domo. 一只猫来到了我们家里。
+注意，汉语和英语里习惯使用“一些”或some来引导非特指的复数名词，在简语里是不需要的：
+Hómines ja veni. 来了些人。
+Mi ja lecte monetas. 我捡了些硬币。
+3、零冠词
+表达类别的时候，不使用冠词le或un，可数名词也不使用复数，而应让名词孤零零地存在于句子当中：
+Cabalo cure celer. 马儿跑得快。（马是种跑得快的动物。）
+Mi ama bibe cafe. 我喜欢喝咖啡。
+一些情况下，非特指的复数可数名词可以使用单数零冠词形式，以表示类别，而无需关注是一个还是多个。
+Mi lecte moneta. 我捡硬币。
+当然，使用其复数形式可以表达相同的意义。
+Mi lecte monetas. 我捡（一些）硬币。
+
+二、一些重要的限定词
+几个重要的限定词如下：ce 这个、tale这样的、tote 全部/所有、oni 每个、ali 别的/另外的、alique 某、nule 没有任何、ceter 其余的、que 什么/哪个、quale怎样的。
+1、指示限定词ce
+Ce有指示的作用，实际上包含了汉语中的“这个”和“那个”，即是说远处的事物也可以用ce来引导。
+Specta ce grande casa! 看那座大房子！
+在语境当中，若有需要，ce可以和le形成近、远的对立，ce指更近的事物而le指更远的事物。
+Le tomate es grande, ma ce tomate es mai grande. 那个番茄很大，但这个番茄更大。
+2、疑问限定词que
+Que表示“什么”，也可以表示一定范围内的“哪个”。Que可以引导一切名词来形成疑问词组，如que tempo 几时、que loco 哪里。
+Ti ama que edido? 你喜欢什么食物？
+Que animale esta? 有什么动物在？
+Que libro es de ti? 哪本书是你的？
+3、全指限定词tote、oni
+Tote（全部）和oni（每个）有相近的含义，都覆盖到了特定范围内的所有个体，但tote只关注整体情况，而oni则关注每一个个体。
+注意，tote引导的可数名词须使用复数形式，而oni引导的名词须使用单数形式。
+Tote studentes lege libros. 所有学生都在读书。
+Oni studente lege un libro. 每个学生都在读一本书。
+如果说tote studentes lege un libro的话，意思就会变成“所有学生在读（同）一本书”，比如30个学生读同一本书；而上面例子中的oni studente lege un libro则隐含表达30个学生人手一本书，一共有30本书。
+Oni只允许引导可数名词，而tote还可以引导不可数名词以及单数可数名词，表示“整个”。
+Le tote mare es blue. 整片海都是蓝色的。
+Li ja memoriza le tote lexi-libro. 他背下了整本词典。
+由于两个限定词都是全指，但oni只能引导可数名词，因此一般来说表达“全部、所有”也同样更推荐使用oni而非tote 。
+4、另指限定词ali、ceter
+限定词ali指不确定的另一个（或多个），而ceter则是指特定范围内其余的全部。
+Mi ja fini lege le libro “Roméo e Júliet”, mi vole lege ali libro de Shakespear. 我已经读完了《罗密欧与朱丽叶》，我想读莎士比亚的另外的书。
+Un rube fólio ja cade in mi sala, le loco anque ali flave fólio cade. 一片红色的叶子掉落在了我的房间里，另一片黄色的叶子也要掉落到我的房间里。
+In le clase, Johan uti sinister mano, ceter studentes uti dexter mano. 在那个班级里，约翰用左手，而其余学生用右手。
+Ali只能引导可数名词，而ceter可以引导不可数名词。
+Ce parte de ce laco es clare, ma ceter parte es suce. 湖的这一部分很清澈，但是剩下的部分却很脏。
+5、不定指限定词alique
+限定词alique指的是不确定的“某个”或“某些”，与不定冠词un及可数名词的无冠词复数形式类似，但更加强调其不确定的意味。
+Alique hómines ancora crede que ce mundo es plan. 仍有某些人认为这个世界是平的。
+Alique dementore ja scribe tale bizare frase sur le muro. 某个疯子在墙上写下了这样奇怪的句子。
+Alique organos con male intende ja agresa le rete-stácion de nos. 某些居心叵测的组织攻击了我们的网站。
+6、零指限定词nule
+限定词nule相当于英语的no 或none of，指的是“没有任何...”。Nule引导的名词须使用单数形式。
+Nule homin esta. 没有人在。
+Nule casa habe croma in ce vila. 在这个村子里，没有一座房子是有颜色的。
+7、样貌限定词tale和quale
+限定词tale和quale强调观感，分别指“这样的”、“怎样的”。
+Mi no ama tale sala. 我不喜欢这样的房间。
+Tale lingua es tropo dificile por stude. 那样的语言太难学了。
+Mi va habe quale vita? 我会拥有怎样的人生？
+Ti ama quale sapato? 你喜欢怎样的鞋子？
+
+三、数量限定词
+与上述限定词更强调指定或者范围不同，数量限定词更关注名词的数量状态。
+1、独有限定词solo
+Solo表示“仅有的”，引导单数名词时可翻译成“唯一的”。
+Géo es nos solo domo. 地球是我们唯一的家。
+Li solo ideale es aida ali hómines. 他唯一的理想就是帮助他人。
+Ilo es un de le solo hómines qui pote solve ce problema. 他是仅有的能解决这个问题的人之一。
+2、表达多与少的限定词
+表达多的限定词是poli，而表示少的限定词是poco，这两个词都可以引导可数和不可数的名词。
+Poli linguas esta in ce mundo. 在这个世上有很多的语言。
+Le setente mas bibe poli aqua. 那个口渴的男人喝很多的水。
+Poco hómines ama ce filme. 喜欢这部电影的人不多。
+Mi habe poco mona. 我的钱不多。
+3、数量疑问词quante
+对数量表达疑问，可以使用quante放在名词之前。
+Quante members esta in ti família? 你的家庭有多少成员？
+Li ja scribe quante libros? 他写了多少书？
+Ti habe quante boves? 你有多少头牛？
+ 
+【代词】
+代词是一种名词性的有指代作用的单词。
+
+一、人称代词
+ 
+mi 我
+ti 你/您
+li 它、他或她（不分性别）
+ila 她（强调是女性时）
+ilo 他（强调是男性时）
+nos 我们
+vos 你们
+ili 它们、他们或她们（不分性别）
+ 
+第二人称单数代词ti本身已经是敬称“您”，因此无需使用别的形式来表达尊敬，且应始终区分单数的ti和复数的vos，绝不可以使用vos表达“您”。
+第三人称单数代词一般来说使用li即可，若是指代人并且感觉需要表达其性别时，可使用ila（她）和ilo（他），一般不推荐。而复数ili不再区分性别。代词li和ili都可以指人或事物。
+Que loco Joana esta? Ila esta in le horto. 让娜在哪儿？她在花园里。
+Mi ama ilo. 我爱他。
+注意简语没有形式主语，因此人称代词都是指代实在的人或事物。
+反身代词为sui（自己），通常用在宾语当中。
+Le stulte homin ja feri sui. 那个傻瓜弄伤了他自己。
+Oni homin ege ama sui. Ma mi ódia sui. 每个人都需要自爱。但我却讨厌自己。
+在简语当中，人称代词可以直接做物主形容词：
+mi 我的
+ti 你的/您的
+li 他的/她的/它的（不分性别）
+nos 我们的
+vos 你们的
+ili 他们的/她们的/它们的（不分性别）
+注意ila和ilo不可以做物主形容词，需要用li来表达。
+Ila vole vide li sposo. 她想见她的丈夫。
+Mi esta con nos mater. 我跟咱母亲在一块儿。
+
+二、限定代词
+与限定词相关的代词称为限定代词，大多数与限定词同形。限定代词包括以下这些：
+ 
+ci 这个（与ce不同）
+qui 谁，哪个（与que不同）
+ali 别的
+ceter 剩余的
+tote 整个
+oni 每个
+aliqui 某人，某些（与alique不同）
+poli 多
+poco 少
+majore 大多数，大部分
+minore 小部分
+quante 多少
+nilo 无一（与nule不同）
+ 
+值得注意，ci、qui、aliqui、nilo与它们对应的形容词性的限定词ce、que、alique、nule有着不一样的用途，需要仔细区分。Ci、qui这两个代词可以联系li来进行记忆（都使用元音-i）。
+一些例句：
+Ci sembla bon. 这似乎很好啊。
+Prende aliqui. 拿走某个吧。（随便拿吧。）
+Mi no vole juga, porque mi eque ama oni. 我不想做判断，因为每一个我都同样喜欢。
+Mi vole grácia oni de ce hómines. 我想要感谢这些人中的每一个。
+Poli de nos es programistos. 我们中的很多人是男性程序员。
+Mi no deja specta poli de ce filmes. 这些电影中的很多我还没看过。
+Mi reconota poco de audintes. 我认出了少数听众。
+Alique lexis es clare, ma majore es ancora no comprendeble. 有一些词是清楚的，但是大部分仍然让人无法理解。
+Ti ege qui? 你需要什么？
+Qui ja noce ti? 谁伤害了你？
+注意，与人称代词类似，代词qui本身亦可以作物主形容词表达所有者 ，后面接名词表示被领属的事物，如qui libro（谁的书）。
+
+三、数字代词
+1、数字代词
+数词可以直接成为代词，表示某个范围之中的几个或者回答当中的省略。
+Tres de mi amis va ariva ho-sera. 我的三个朋友将会在今晚抵达。
+Un de mi cates ja dispare. 我的其中一只猫不见了。
+Ti ja ede quante pizas? — Mi ja ede quat! 你吃了几个披萨？我吃了四个。
+2、uno和unos
+Uno和unos表示与前方名词同类型的事物，但与前方的事物不是同一件。注意与上方代词un的区别。
+Ce libro es tan bon do mi spera que oni homin habe uno. 这本书太好了，所以我希望每个人都有一本。
+Aliqui dice que frater es bon, ma mi habe odiable unos. 有人说兄弟很好，但我却有几个令人讨厌的兄弟。
+3、概数
+表达好几十、好几百，可以使用概数形式，即在数词后方加-s：decas（好几十）、dozes（好几打）、hectos（好几百）、quilos（好几千）等等。由于概数词已经是代词而非数词，若要修饰名词需要用de连接，形成数量词组。
+Quilos de hómines esta in le canta-presenta. 成千上万人在演唱会场里。
+Oni ánio, megas migra inter paises. 每年都数百万（人）在国家之间迁徙。
+
+四、uno ... uno
+Uno ... uno之间可以使用一些介词甚至是分词，形成副词性的词组。
+Mi posa le libros uno sur uno. 我把书一本搭一本地放在一起。
+Ini uno poi uno, benvole. 请一个接一个地进入。
+ 
+【形容词和副词】
+形容词是对名词进行修饰的一类单词。副词通常用于修饰动词、形容词或另一个副词。
+
+一、形容词的位置
+形容词做定语时一般处在名词的前方。
+un bon can 一条好狗
+le captive nino 一个淘气的小孩
+做补语的话，则通常放在宾语名词的后方。
+Ce stória face mi triste. 这个故事使我忧伤。
+Le age de ilo ja face le vetoro irate. 他的行为让那位老人愤怒。
+
+二、副词
+副词没有专门的形式，形容词可以直接充当副词使用，只需将其放在动词前方，或放在句首或句尾（在不会造成歧义的情况下），通常修饰自动词 的副词可以放在动词的后方。
+Ávion celer vola./ Ávion vola celer. 飞机飞得飞快。
+Ila loqui Simplingua ben. 她简语讲得很好。
+Ti ja perfecte age! 你表现得很完美！
+Ila ede poco. 她吃得不多。 
+副词放在动词前方是对动词所表达的行为的直接修饰，而放在句尾的时候则可以表达某种属性，如“Ávion vola celer.” 表达飞机是种飞得很快的交通工具。
+由于词源特殊，有极个别的副词与其同义形容词的拼写不同，下面列出全部三种情况：
+形容词	副词
+bon 好的	ben 好地
+quale 怎样的	come 如何地
+tale 这样的	tan 如此
+
+三、比较的表达
+比较句当中，被比较的对象用介词que引导。
+1、平级
+表达平级的话，通常将副词anque放在形容词或副词前方。
+Ila es anque alte que ilo. 她和他一样高。
+Paco cure anque celer que Stefano. 帕科和斯蒂法诺跑得一样快。
+2、比较级
+表达比较级，即“更...”，使用副词mai。
+Sófia stude mai diligente que mi. 索菲亚学习比我更勤奋。
+Le tempo, nilo es mai rice que Bill Gates. 当时，没有人比比尔·盖茨更富有。
+与mai相反的一个表达是“不如”，使用副词men。
+Mi stude men diligente que Sófia. 我学习不如索菲亚勤奋。
+Ila vive men felice que li sora. 她生活得不如她姐姐那么幸福。
+词组mai e mai可以修饰形容词、副词、动词，表示“越来越”。
+Le nina es mai e mai bele. 那个女孩子越来越漂亮了。
+Li loqui mai e mai celer. 他讲得越来越快。
+3、最高级
+表达一定范围内的“最...”，使用副词max。与英语等语言不同的是，max前方并不要求定冠词le（若使用了le，只是对名词的限定而不是对max）。
+Ce casánia es max alte in ce urbe. 这栋大厦是这个城市里最高的。
+Glória es max sage inter mi amis. 格洛里娅是我的朋友之中最聪明的。
+与max相反的表达，通常应将形容词改成其反义词。 
+Esque testudo move max lente? 乌龟移动得最慢吗？
+Ci es le max decrepe statueda. 这是最破旧的建筑。
+Simplingua es un max facile praticale lingua in ce mundo. 简语是这世上容易的实用语言。
+如上例句所示，max通常只对后面第一个形容词或副词有效，若要对两个或多个形容词或副词都做最高级的处理则应该用max ... e max ... 的方式来表达。
+Simplingua es un max bon e max bele lingua in ce mundo. 简语是这世上最好、最美的语言。
+
+四、一些重要的副词
+	poli 很，非常
+poli是最常用的程度副词。 
+Mi senti poli lete. 我感到非常开心。
+	plus 再，又，还
+plus表示同一个主体又一次做了同样的事情。
+Ti plus veni tarde! 你又迟到了！
+No plus timiza le bebe. 不要再吓宝宝了。
+	néo 重新
+néo与plus类似但略有区别，表达的是重新做某件事。
+Esque ti pote néo dice le frase? 你能把那个句子重新说一遍吗？
+	quasi 几乎
+quasi是一个程度副词。
+Mi es quasi demente! 我快要疯掉了！
+	tan 如此，这么
+tan是一个程度副词。
+Le mundo es tan grande. 世界这么大。
+tan常可以与do（所以）搭配，表示“这么...以至于...”
+Ingles lingua es tan dificile do poli studentes ódia li. 英语这么难，以至于很多学生讨厌它。
+	tropo 太，太过
+tropo是一个程度副词。
+Ce sala es tropo grande por mi. 这个房间对我来说太大了。
+使用tropo的句子，后方可加上por及动名词来表达“太...以至于不能...”，主语可以是该动名词的逻辑主语或逻辑宾语。
+Mi es tropo lase por labora. 我太累了以至于没法工作。
+Ce malo es tropo dure por ede. 这个苹果太硬了以至于没法吃。
+	anque 也；甚至
+anque通常放在需要修饰的词前方，因此常常在主语名词之前。
+Anque mi no vole stude Ingles Lingua. 我也不想学英语。
+Mi no vole stude anque Nihón Lingua. 我同样不想学的还有日语。
+Anque nine sci ce proverbo. 小孩子都知道这个谚语。
+	ce hora/hora 现在
+hora本身是一个名词，表示“时刻、小时”，但也常常用于作副词表示“现在”，想要更加精确地表达的话，可以用更常见的词组ce hora来表达“现在”，而le hora则可以表示“当时”。
+意思相近的ce tempo亦可使用。
+Hora nos chata in Simplingua. 我们现在在用简语聊天。
+Ce hora, nos tote es luctantes. 现在，我们都是战士。
+	ancora 仍然
+ancora表示持续至现在的状态或行为。
+Ili ancora chata. 她们仍然在聊天。
+Mi ancora ama ti. 我仍然爱你。
+	pois 然后
+pois用于表达先后顺序。
+Nos va dina, pois nos va specta un bon filme. 我们将要去吃饭，然后去看一部好电影。
+	deja 已经
+deja表示状态已达成，通常不与助词ja同用。
+Ili deja ama Simplingua. 他们已经爱上了简语。
+	semper 始终，总是
+semper可以表示频率，也可以表示持续的状态或行为。
+Pablo semper reveni a domo per bus. 帕布罗总是搭公交车回家。
+	frequente 经常
+frequente是个频率副词，是动词freque的主动分词。
+Li frequente face sporte in le parco. 他经常在那个公园里做运动。
+程度副词还有rare（罕有的/罕见地），以及词组alique tempos、alique veces可以表达“有时”。
+	nunca 从不，永不
+nunca是个频率副词，表达从来没做过没事，或者配合va表达永远都不会做某事
+Mi nunca ede camelo-carne. 我从来没吃过骆驼肉。
+Mária va nunca perdona ilo. 玛莉亚永远都不会原谅他。
+
+五、疑问状语
+在欧洲语言当中，有专门的疑问副词来表达“几时”、“哪里”甚至“为什么”，而在简语当中，这些词都通过词组来表达：
+(in) que loco 哪里
+a que loco 去哪
+(in) que tempo 几时
+(per) que modo / come 如何（以什么方式）
+porqui 为什么
+简语词汇的词性有一定的活用，不少名词词组（主要是表达时间或地点的名词词组）也可以充当状语而无需使用介词引导，因而que loco与in que loco有一样的意思、que modo与per que modo均可使用。
+Que tempo nos cepe ede? 我们什么时候开始吃？
+Que loco mi esta? 我在哪？
+Porqui ili ja rende stude Esperanto? 为什么他们放弃学习世界语（Esperanto）了呢？
+Que modo/Come nos pote solve ce problema? 我们可以如何解决这个问题？
+按照欧洲语言的习惯，疑问状语通常会放在句首进行提问。
+与英语等欧洲语言不同的是，这些疑问词组不能用在状语从句当中充当引导词，做引导的词组是(in) le tempo和(in) le loco。
+Le tempo mi canta, ti danza. 我在唱歌的时候你在跳舞。
+Mi veni ec le loco ti ja visita mi. 我来自你曾经拜访过我的地方。
+表达时间和地点其他名词也可以有类似的作用。
+In le pais mi ja nate, le metéo es poli termo. 在我出生的国家，天气非常炎热。
+
+六、形容词的词性转换
+1、转换为名词
+形容词使用后缀-eza表达其性质。（元音结尾的单词需先去掉原来的尾元音再添上后缀）
+Honesteza es grave qualeza. 诚实是重要的品质。
+Beleza o riceza, ti opta qui? 美丽与富有，你选哪个呢？
+表示拥有一种形容词特性的事物，使用后缀-ido；表示拥有一种形容词特性的人，使用后缀-or-再根据性别选择词尾-e（不确定性别）、-a（女性）、-o（男性）。
+luxe 珍贵的、奢侈的 → luxido 宝藏，宝物
+toxe 有毒的 → toxido 毒物
+grase 胖的 → grasoro 胖子（男性）
+surde 聋的 → surdore 聋人
+2、转换为动词
+形容词和状态动词添加后缀-sce表达“变成/变得...”：
+mature 成熟的 → maturesce 变得成熟
+termo 热的 → termosce 变热，升温
+sile 安静（状态动词）→ silesce 安静下来
+形容词和状态动词使用后缀-iza表达“使...变得...”：
+clope 瘸 → clopiza 打瘸
+sufice 充足（状态动词）→ suficiza 使...充分
+
+七、专有形容词
+表示属于一个国家或民族的人或事物，通常使用专有形容词。国家的名词和形容词常常同形，如France（法国）和france（法国的），但由于词源的原因，以下几对有所差异：
+Helas 希腊 -  helen 希腊的
+Barat 印度 -  indo 印度的
+Portugál 葡萄牙 - portugués 葡萄牙的
+Chunco 中国 -  chunca 中国的（中华）
+Britan 英国/Ingland 英格兰 -  britan 英国的/ ingles英格兰的
+通常语言名字都使用国家的形容词形式加上lingua形成词组，如
+Ingles Lingua 英语
+Nihón Lingua 日语
+Espánia Lingua 西班牙语
+France Lingua 法语
+Helen Lingua 希腊语
+但要注意，个别国家的语言和其国家名称并不直接对应：
+Chunco中国 -  Han Lingua 汉语, Putónghua 普通话
+Barat 印度 -  Hindi 印地语
+Roma （古）罗马 -  Latino/Latin Lingua 拉丁语
+ 
+【动词】
+动词是描述状态、关系、行为的一类单词。
+
+一、动词的类别
+不同类别的动词有不同的语法现象。
+1、自动词和他动词
+根据动词能否接有直接宾语，可以分为自动词和他动词。
+自动词没有宾语，其表达的状态或行为只对主语自身有效，类似于英语的不及物动词。
+Le rege side in rege-sege. 国王坐在王座上。
+Mi deja labora per un tote día. 我已经工作了一整天了。
+他动词通常带有宾语，表达主语对宾语的的情感关系、状态或行为，类似于英语的及物动词。
+Mi habe poli amis. 我有很多朋友。
+Li ja vende li casa. 他卖了他的房子。
+他动词也可以省略宾语，表达“...某物”的意义，因此有些句子当中看起来类似于自动词。自动词和他动词最重要的区别特征是他动词可以接有直接宾语（也可以没有）而自动词不能。
+Ila scribe in li sala. 她在房间里写着东西。
+Le bebe vole ede. 那个宝宝想吃东西。
+2、状态动词和行为动词
+状态动词是静态的、描述当前状况的一类动词，状态动词可以是自动词也可以是他动词。系动词均为状态动词。
+Li es solo un nino. 他只是个孩子。
+Li cuba in un mole lecto. 她躺在软软的床上。
+Esque ti ama ila? 你爱她吗？
+Mi recorda ce stória. 我记得这个故事。
+注意还有一类特殊的状态动词，在英语等语言当中通常是形容词，但在拉丁语中其词根词却常以动词形式表现，简语继承了拉丁语的做法，如sile（安静）、freque（常有/是常见的）、brila（发光/是明亮的）、dilige（发奋）等等，这类动词称为形容动词。
+Le luna brila. 月亮明亮。
+Le nina dilige por bon resulta. 那个女生为了好成绩而努力。
+状态动词通常通过现在分词来形成其形容词形式，如brilante（明亮的）、silente（安静的）、diligente（勤奋）等等。
+行为动词则是动态的、描述一种行为的动词，行为动词可以是自动词也可以是他动词。行为动词内部可以再分，根据一般是否会被认为是瞬时完成的还是可持续的，分为瞬时性动词和持续性动词，瞬时性动词通常表达身体动作或变化。
+Li ja mori. 他死了。
+Fernando ja soberesce. 费尔南多清醒过来了。
+Ti deja clude le jánua. 你已经关了门了。
+Nos maters lete chata. 我们的母亲们在愉快地聊着天。
+Ilo scribe un libro cir insecto. 他在写一本关于昆虫的书。
+
+二、“时态”
+简语动词本身没有形态变化，做谓语动词时，无论表达过去、现在还是将来，动词本身都保持原形不变，表达过去和将来需要在动词前方添加助动词ja和va。
+ja scribe 写了（完成时）
+scribe 在写着（现在时）
+va scribe 将要写（将来时）
+注意，简语表达的时态均为相对时态（又可称为体貌，既动词本身的状态），也就是说，简语的完成时类似于英语的现在完成时而非一般过去时，因而不叫“过去时”，ja scribe的更准确的翻译是have written而非wrote。
+1、原形：现在时
+没有使用助动词ja或va的动词通常表达现在时，通常动词使用状态动词或持续性动词。持续性动词的现在时有正在进行的意味。
+Ila ama chocolate. 她喜欢巧克力。
+Le rege sta in le ture e specta le scenário de li pais. 国王站在塔上，望着他的国家的风景。
+Ili cure preter le mare. 他们在海边跑步。
+Mi stude medelógia. 我学习医学。 
+一般来说瞬时性动词不适用于现在时，瞬时性动词常被认为是不可持续的。若是使用现在时来表达瞬时性动词，通常是讲述过去的故事，可详见后方“相对时态与‘故事体’”的部分。
+2、将来时
+表达将来时有多种方式，其中最常用的一种是va + 动词，va通常被翻译成“将要”、“将会”。
+Li va visita ti. 他要拜访你。
+Cras nos va eme flores por le docista. 明天我们将要买一些花给那位老师。
+Mi frater va labora in Tokyo in sequinte ánio. 我的弟弟明年将要去东京工作。
+可以看到，在罗曼语当中区分的近将来时和远将来时，在简语当中都可以使用va来表达。通常推荐加上时间状语让表达更加清晰。
+除了va以外，还有诸多助动词（或词组）可以使用来表达将来时，如intende（企图）、para por （准备）、vade（去）等等，其中vade可以表达更精确的近将来时，表示现在马上就要去做的事。
+Le rege-fílio intende moriza li frater. 王子企图杀了他的哥哥。
+Nos para por lucta. 我们准备要战斗了。
+Mi vade lava ce jupa. 我去洗了这条裙子。
+Ili vade dormi. 他们要去睡觉。
+3、完成时
+完成时使用助动词ja来引导动词，在汉语中通常把ja翻译为“了”。
+Li ja mite un tropa de miles a Jerusalem. 他派遣了一支军团去耶路撒冷。
+Le rice mas ja dona poli mona a le fema. 那个富有的男人给了那女人一大笔钱。
+Lisa ja fini li domo-mísion. 丽莎完成了她的家庭作业。
+如果要强调“已经”的话，通常使用副词deja来代替ja的位置（deja和ja不能同时出现在一个句子当中）。
+Le res deja ocure. 事情已经发生了。
+Li deja vende li auto. 他已经卖了他的车。
+Ti nono deja mori. 你爷爷已经死了。
+助词ja或deja引导状态动词的时候，表达的是状态已达成、已实现，如：
+Mi ja comprende. 我明白了。
+Nos deja side. 我们已经坐下了。
+4、相对时态与“故事体”
+与英语等语言使用时态的习惯不同，简语使用的时态为相对时态 ，在语言学上通常称为体貌范畴（英语中称为aspect）而不是真正的时范畴（英语中称为tense）。最典型的差异是过去进行时和状态动词的一般过去时，在简语当中都使用现在时：
+Nos canta e danza le sera. 那天晚上我们唱歌跳舞。
+Le tempo mi stude in alte-scola, mi habe poli amantas. 在我读高中的时候，我有很多的女朋友。
+这两句话若去掉时间状语le sera和le tempo mi stude in alte-scola的话，剩下的部分我们是无法区分发生在过去还是现在的，如Nos canta e danza.。相比之下，在英语当中必须使用一般过去时（如we sang and danced）或过去进行时，而在法语等罗曼语当中必须使用未完成时（imperfect tense）。因此，习惯于欧洲语言的学习者学习简语时需要适应这方面的差异，而中国的学习者会更容易理解简语的用法，汉语当中去掉时间状语之后的“我们唱歌跳舞”、“我有很多的女朋友”也同样无法区分发生在过去还是现在，但是通过上下文以及时间状语我们就足以了解事情发生的时间。
+	英语过去时
+（说话之前）	英语现在时
+（说话之时）	英语将来时
+（说话之后）
+完成体（已结束）	简语的完成时（ja + 动词）
+进行体（正在做）	简语的现在时（动词）
+将行体（将要做）	简语的将来时（va + 动词）
+我们借助上面这个表格来理解简语时态和英语时态的差异，其中横轴是时范畴（tense），纵轴是体貌范畴（aspect），体貌范畴关注的是事情本身的状态而不关注到底是说话之前还是之后发生，也就是说判断时间的基准是以事情本身的过程而不是以说话的时间。可以看到，简语的“时态”与体貌范畴完全对应，但为了让学习者方便理解，依然以“时”来命名。
+因为使用“相对时态”，所以英语中的过去完成时、现在完成时、将来完成时均对应简语的完成时，过去进行时、现在进行时、将来进行时都对应简语的现在时，过去将来时、一般将来时也都对应简语的将来时。
+Le tempo, mi ja fini mi domo-mísion, do mi vade dormi. 那时，我已经完成了我的家庭作业，所以我去睡觉了。
+A hora oc de cras mana, mi ja face un bon mana-dina, e ti voce-lege le libro de Ingles Lingua. 到明天早晨八点，我做了一顿好早餐，而你则在朗读着英语书。
+关于相对时态，在讲故事当中会特别显著，尤其是瞬时性动词在这种情况下也可以使用“现在时”来表达了，因为其时间基准随着讲述而不断推移，又被称为“故事体”。
+Le du ninos pele le docisto a tera, celer cure a le muro de scola e sute scande, in breve tempo ili dispare.
+那两个男孩把老师推到了地上，飞快地跑到了学校的墙边，爬了过去，很快就消失不见了。
+5、“经历体”：habe + 动词
+简语没有时范畴相关的形态变化，因此专门表达过去发生过的事情需要使用一个特殊的组合：habe + 动词表达“经历体”，即“...有做过（某事）”或“曾做过（某事）”，如：
+Nos habe visita le Nácion Muséo. 我们曾去过国家博物馆。
+Li habe stude France Lingua. 他曾经学过法语。
+
+三、祈使句
+简语的动词同样没有语气范畴的形态变化，通过两种简单的句形就可以表达命令或请求。
+其中一种是直接以动词打头，省略主语ti或vos：
+Veni! Stude Simplingua con nos! 来吧！跟我们一起学习简语！
+Dona le cocléa a mi. 把那个勺子给我。
+Stopa! Vos no pote ini. 停下！你们不能进入。
+第二种方式是使用que放在句首，视作mi spera que ...（我希望……）或mi manda que ...（我命令……）的省略形式。这个时候通常可以在句中加上主语：
+Que nos parti sute. 我们马上离开吧。
+Que nos cesa mútue blama! 让我们停止互相指责！
+Que vos explica le res a mi. 你们给我解释那个事情吧。
+Que Júlia veni a mi. 尤莉娅来我这里。
+
+四、否定
+要对动词进行否定，只需将副词no（不）放在动词前方，若有助动词va，把no放在va前方。
+Hodía mi no labora, e anque cras mi no va labora. 今天我不工作，明天我也不去工作。
+Ila no va dina con nos. 她不会跟我们一起吃饭。
+No face tale res! No rompe le fama de ti família! 不要做这样的事情！不要毁了你家族的名声！
+对于完成时的否定，需要注意：肯定句中使用ja的话，否定句中no可以直接取代ja，形式上与现在时一致。亦允许将no放在ja前方。
+Mi no (ja) insulta ti! 我没有骂你！
+Ilo no (ja) dona li core a mi. 他没有把他的心给我。
+如果肯定句中使用deja，则no和deja可以共存，no deja表示“尚未”。
+Matéo no deja fini li labora. 马特奥还没完成他的工作。
+Nos no deja gana ce contesta. Lucta! 我们尚未赢得比赛，加油！
+
+ 
+【非谓语动词】
+动词不仅可以充当谓语动词，还可以充当很多别的句法成分。
+
+一、名词性动词
+动词原形可以直接做句子当中的名词性成分，如主语、表语、动词宾语、介词宾语等。注意，动词直接做名词时，不代表动词的产物或工具，最准确的理解是“...这件事情”，比如stude最准确的翻译是“学习这件事情”，类似于英语、罗曼语等语言中的不定式。
+1、作动词宾语
+动词词组可以做另一个动词的宾语，形成动词链。处在前方的动词包括debe必须、ege需要、pote能够、vole想要、aude敢于等情态动词，也包括ama喜欢、ódia讨厌、óblia忘记、cepe开始、fini结束/完成、cesa停止、contínua继续等实义动词。
+Bebe ama bibe lacte. 宝宝喜欢喝奶。
+Que nos cepe lege. 让我们开始读书吧。
+Mi poli vole vide ti. 我非常想见你。
+Mi ja óblia dina. 我忘了要去吃饭。
+注意óblia（忘记）和recorda（记得）两个词，后方的动词是尚未做过的，与fini、cesa等词不同。若要表达忘记或记得做了某事，则应使用宾语从句：
+Mi ja óblia que mi ja dina. 我忘了我吃了饭了。
+2、作介词宾语
+除了动词宾语，动词词组还可以做介词宾语：
+Mi ama poli reses, excepe stude contalógia. 我喜欢很多事情，除了学习数学。
+Por esce chámpion, oni día li diligente pratica. 为了成为冠军，每一天他都努力练习。
+In facto, Esperanto no es tan facile por stude. 实际上，世界语并没有那么简单易学。
+最常见的介词 + 动词的组合是por + 动词，表示“为了做某事”或者“对于做某事来说”。
+3、作主语和表语
+动词直接做主语时，有两种情况，其中一种是直接使用动词词组，可以带有其直接宾语和修饰该动词的状语，但不会出现其逻辑主语。
+Stude lingua demanda dilige. 学习语言需要勤奋。
+Lege li poema es le max bon res in ce mundo! 读他的诗是世界上最棒的事情了！
+Joca pedebola es tropo dificile por li. 踢足球对他来说太难了。
+如果是特指的某次行为或某个状态，通常会在动词前方加在定冠词le。此时通常可以用介词de引导施事者，如le parti de Johan（约翰的离去）；受事者则使用a引导。
+Le sile de Fernando vexa nos. 费尔南多的沉默使我们苦恼。
+动词原形及其词组还可以做表语：
+Nos mísion es salve le pober hómines. 我们的使命是拯救那些贫苦的人。
+
+二、动词与具备动词意义的名词的转换
+对于一些动词来说，常常需要进行动词与名词之间的转换。一般而言，动词原形可以直接充当其行为本身相关的名词，为了避免歧义通常推荐加上限定词，如上方所述。若是产物名词或者被用来做某事的相关事物，通常使用后缀-ido构成名词，如bibido（饮料）、legido（读物）、vestido（衣服）。
+个别以-a结尾的动词，其相关的名词改-a为-o，如amo（爱）、conto（账）等（需参考词典，而不允许自行使用这种方式构词）。
+除了以上转换为名词的方式，极个别动词还可以转换为抽象名词，通过添加后缀-nza形成，如esenza（本质）、scinza（科学）（同样需要参考词典而不允许自行使用这种方式构词）。
+对于状态动词而言，-nza后缀相当于先使用-nte后缀（现在分词后缀）构成形容词再使用-eza后缀（表达“性质”）构词，如balanza（平衡）。
+
+三、现在分词
+分词是让动词转换成形容词的一种构词方式。在简语中有两个分词：现在分词（又称主动分词）和过去分词（又称被动分词）。
+现在分词通过在动词后方加上后缀-nte构成，表示“在做某事的”，常常带有进行体的意味，如fluinte（流动的）、volante（飞翔的）、cercante（在搜寻的），状态动词通过这种方式来构造形容词形式，如diligente（勤奋的）、silente（安静的）等等。及物动词构造的分词可以带有其宾语和状语，如spectante un filme in sala（在房间里看着一部电影的）。
+现在分词可以做定语，分词一般放在名词的后方，尤其是及物动词构造来的现在分词。若没有带有别的成分、只以单个词的形式存在的话，可以放在名词的前方。
+Mi pensa que laborante hómines es max bele. 我认为工作的人最美。
+Mi ja vide un de mi amis legente un revista in un sege de parco. 我看见了一个在公园的椅子上读着杂志的朋友。
+现在分词有副词性，可以充当状语。由于有进行体的意味，可以用esta + 现在分词的方式来构造进行体的表达，类似与英语的be doing。但是简语的现在时本来就可以表达进行时，没必要增加三个音节来强调进行体，因此包括状态动词在内，一般不推荐用这样的表达。
+Un de mi amis esta legente un revista in un sege de parco. → Un de mi amis lege un revista in un sege de parco.我的一个朋友在公园的椅子上读着杂志。
+Le aqua esta fervente. → Le aqua ferve. 水正在沸腾。
+Sole esta brilante. → Sole brila. 太阳光亮。
+Ce vila esta silente. → Ce vila sile. 这个村子静悄悄。
+做状语时，除了可以跟在esta后面，还可以作为一个独立结构来描述状态。
+Mi side in un mole sofa, legente un libro. 我坐在软沙发上，读着一本书。
+Le mile sta sur le urbe-muro, spectante le tele montário. 士兵站在城墙上，眺望着远方的山脉。
+
+四、过去分词与被动语态
+过去分词又称被动分词，通过添加后缀-te而成，如videte（被看见）、audite（被听见）、aprobate（被赞成）、donate（被给出）。
+过去分词最主要的作用就是表达被动语态。被动句通过es + 过去分词的结构来组成，其中施事者（即分词的逻辑主语）由介词per引导。
+Ce polícia es aprobate. 这项政策被赞成（通过）了。
+Le spianto es trovate. 间谍被发现了。
+Le grave urbe es agresate per un grande tropa. 那座重要的城池被一支大军攻击了。
+Tote média es conducete per le regnante in ce pais. 这个国家的所有媒体都被政府控制。
+被动句也可以使用ja/deja、va来表达不同的时态，这几个助动词通常放在es之前，也可以放在es和过去分词之间。通常来说ja可以被省略，就像上面的例句那样，因此一般用deja来进行强调。
+Le libro es deja donate. 那本书已经被送出去了。
+Mi casa va es vendete. 我的房屋将要被卖出。
+除了可以做表语，过去分词常常还可以做定语。注意，自动词也可以构成过去分词，但不表示被动的含义，而是表示已完成的状态，对比cidente fólio（正在掉落的树叶）和cidete fólio（已经落地的树叶）。
+Ce colona mordete per formicas es no firme. 这个被蚂蚁咬过的柱子并不稳固。
+Le nocete fema forte plora. 那个被伤害的女人嚎啕大哭。
+Li triste specta li morite sposa. 他悲伤地望着他死去的妻子。
+做状语的被动分词可以形成独立结构。
+Persequite per le regnante, li fugi a oni loco. 被政府所迫害的他四处逃难。
+ 
+【系动词与存现动词】
+    系动词与存现动词是最重要、最基本的动词。
+
+一、系动词
+系动词是一种状态动词，连接主语和表语，表语通常可以是名词也可以是形容词。常见的系动词包括es 是、esce 成为、sembla 好像、aspecta 看起来、mantene 保持等等。
+1、是es
+系动词es的形态变化以ese为基础（如构造出的派生词esenza本质），es是ese的简略形式。
+Es的表语是名词时，通常有两种含义，一种是直接判断，即主语就是表语，第二种是类别判断，即主语的类别是表语。
+Le mas es mi frater. 那个男人是我的弟弟。（直接判断）
+Homin es animale. 人是动物。（类别判断）
+Es的表语是形容词时，则是对主语的直接描述。
+Le casa es rube. 那座屋子是红色的。
+Le celo es blue. 天空是蓝色的。
+对es进行否定的话，no可以放在es的前方也可以放在es的后方，两者表达相同的含义。
+Li es no sate. 他不满意。
+Homin no es merce! 人不是商品！
+Ila no es mi mater. 她不是我母亲。
+系动词es的表语还可以是非方位性的修饰性介词词组（方位性的介词词组通常与esta搭配，详见下一小节），其中最典型的是表示领属的de：
+Ce sege es de mi. 这张椅子是我的。
+2、变成esce
+动词esce表达变化，与es一样，其表语可以是名词也可以是形容词。
+若表语是名词，表达“变成、成为”的含义。
+Mi vole esce un docisto. 我想成为一个教师。
+若表语是形容词，表达“变得”的含义。
+Le malos ja esce mature. 那些苹果熟了。
+Mi mater esce vete. 我妈妈在变老。
+表语是形容词的时候，通常不使用esce + 形容词的结构，而是使用-sce后缀来构成变化动词，如以上两句可以这么表达：
+Le malos ja maturesce. 那些苹果熟了。
+Mi mater vetesce. 我妈妈在变老。
+3、保持mantene
+与es和esce不同，mantene的表语不能是名词，但可以是形容词和分词。
+Ilo semper mantene lete. 他总是保持开朗。
+Simplingua va semper mantene facile. 简语将始终保持着易学的（样子）。
+Mantene ridente. 保持微笑。
+4、像sembla
+动词sembla表达“像、与...相似”，表语可以是名词和形容词。
+Le casánia sembla un pena. 那座大厦像一只笔。
+Ce libro sembla chocolate-teca. 这本书看起来像一个巧克力盒子。
+表语是形容词时，与aspecta等感官动词类似。
+Ti mano sembla grande. 你的手好像很大。
+Ce aráncio sembla suave. 这个橙子好像很甜美。
+动词Sembla还可以用在无主句中，与引导从句的que一起，表达“似乎/仿佛...”，后方可接完整的句子。
+Sembla que ti no fave ce drama. 似乎你不喜欢这部剧。
+Sembla que li habe poli mona. 似乎她有很多钱。
+5、感官动词：看起来aspecta、听起来sona、闻起来ole
+感官动词表示与视觉、听觉、嗅觉相关的动词，sona和ole的本意分别是“发声”和“散发气味”，其表语须为形容词。
+Ce copa de suco aspecta bon. 这杯果汁看起来不错。
+Le canto sona leve e mole. 这首歌听起来很轻柔。
+Ce perfumo ole placente. 这香水闻起来很怡人。
+注意sona与另外两个感官不同，可以用在无主句中并认为省略掉的主语是对方所说的话。
+— Que nos vade a costa. 我们去海边吧。
+— (Ci) Sona bon! （这）听起来不错！
+
+二、存现动词
+在一些语言当中“是”和“在”是同一个词（如英语的there be句型中也使用be动词），但是在简语当中这两个词要严格区分，表达“在”、“存在”不能使用es，而应该使用esta（注意：表达空间关系不能使用habe）。
+Du grande boscos esta exter mi domo. 在我家的外头有两棵高大的树。
+Plure libros esta sur le tabla. 有几本书在台上。
+如例句所示，方位介词词组与esta搭配而不与es搭配，不能出现es sur le tabla*这样的错误表达。
+还要注意，esta作为谓语动词，按照简语的语序必须置于主语的后方，不允许出现主谓倒装。
+Qui solo pote rompe no esta in ce mundo. 这个世界上不存在只会破坏的人。
+Esque homin con rube cute esta? 存在红色皮肤的人吗？
+ 
+【连词】
+连词使两个或多个的单词、句子成分或句子相连。其中连接单词或句子成分的是“联合连词”，连接句子的是“衔接连词”。
+
+一、联合连词
+联合连词将两个或多个相同的句子成分结合起来。其中包括e（和）、o（或）、no（而非）及词组no ... ma ...（不是...而是...）。
+1）连词e
+连词e（和）表示前后的成分均在其中，是一个包含性的连词。
+Le mas e le fema vade a un hótel. 那个男人和那个女人在前去一家酒店。
+Mi ama tarta e verde téa. 我喜欢蛋糕和绿茶。
+Le vete e grase fema expele mi ex le casa. 那个又老又胖的女人把我从屋里赶了出去。
+Oni día e oni nocte, li diligente stude. 每天昼夜，他都在勤奋学习。
+多于两个成分时，通常除最后一个e外都由逗号替代，口语中则表现为轻微的停顿。
+Ingles Lingua es le oficiale lingua in USA, Britan, Canada e Austrália. 英语是美国、英国、加拿大和澳大利亚的官方语言。
+2）连词o
+连词o（或）表示前后的成分只有其中之一，是一个选择性的连词。
+Ti vole cafe o téa? 你想要咖啡还是茶？
+Nos pote vade a le costa in mes sep o mes oc. 我们可以在七月或八月前往那片海岸。
+多于两个成分时，通常除最后一个o外都由逗号替代，口语中则表现为轻微的停顿。
+Ti pote lege ce page in Ingles Lingua, Han Lingua, Espánia Lingua o France Lingua. 你可以阅读英语、汉语、西班牙语、法语（环境下）的本页面。
+注意，在否定句中，对前后两个或多个成分进行否定通常使用e而不使用o。
+Li no ama can e cate. 他不喜欢狗和猫。
+3）连词no及词组no ... ma ...
+连词no原本是副词，但也可用作连词表示对后方成分的否定，A no B这样的词组表示的是“是A而不是B”，往往在no的前方会有轻微停顿，书面当中可以使用逗号表达。
+Mi, no ti, es le rege! 我是王，而你不是！
+Poplo electe Stefano, no Pedro. 人们选择的是斯蒂法诺而非佩德罗。
+与连词no作用类似的是词组no A ma B（不是A而是B），但方向相反，表示对前者的否定而对后者的肯定。
+No per belo ma per amo, le hómines esce solidare. 不是通过战争，而是借助爱，让那些人团结起来。
+Li ama no mi ma mi frater. 她喜欢的不是我而是我的哥哥。
+词组no ... ma ... 与副词结合还衍生出了词组no solo ... ma anque ...，表示不仅...而且...。
+Li ódia no solo pedebola ma anque tote ceter sportes. 他不仅讨厌足球，还讨厌所有其他的运动。
+Nos no solo loqui ce lingua, ma anque face li scite per mai poli hómines. 我们不仅讲这门语言，还使它被更多的人知道。
+
+二、衔接连词
+衔接连词通常是副词性的，起到句子之中的承接作用。如pois（然后）、do（所以）、ma（但是）、maique（此外）等等。
+Mi moriza li per un culter. Pois mi cela li in tera. 我用一把刀杀了他。然后我把他埋了。
+Nos ja státue un grande néo casa. Maique, nos ja státue un horto cir li. 我们新建了一个大房子，此外，我们还在它的周围造了花园。
+Le nino poli fame. Do li ede poli. 小男孩非常饿，所以他吃了很多。
+Natália es lase, ma li contínua labora. 娜塔莉累了，但是她还继续工作。
+1）关联词
+引导原因分句的porque（因为）和让步分句的benque（虽然）属于连词，并且可以将其引导的分句放在前方。
+Porque nos no habe tempo, nos no visita nos pater e mater.
+= Nos no visita nos pater e mater, porque nos no habe tempo.
+因为没有时间，我们没有去拜访父母。
+Benque Diego es no rice, li eme poli libros.
+= Diego eme poli libros, benque li es no rice.
+虽然迭戈并不富裕，他却买了很多书。
+与欧洲语言不同，简语允许porque和do、benque和ma同时在一个句子当中使用，类似于汉语中的关联词。此时必须按照porque、benque在前，do、ma在后的顺序排列分句。
+Porque nos no habe tempo, do nos no visita nos pater e mater. 因为没有时间，所以我们没有去拜访父母。
+Benque Diego es no rice, ma li eme poli libros. 虽然迭戈并不富裕，但他却买了很多书。
+2）讲述时使用的连词
+用在讲述当中衔接句子的连词或词组通常有以下这些：por cepe（首先）、pois（然后）、poi ci（接下来）、maique（此外）、por fini / finale（最后）等等，也可以使用nomber + 数词的序数词组（nomber un第一、nomber du第二等等）来分点论述。
+... Por cepe, Ingles Lingua es le mater-lingua de minore hómines in ce mundo, ci es no juste porque ili no ege eforta stude ce internácion lingua. 首先，英语是世界上一小部分人的母语，这是不公平的，因为他们不需要费力学习这门国际语言。
+Pois, Ingles Lingua es tropo dificile por stude, por examplo, tropo poli lexis es egete se nos vole ben loqui e ben comprende ce lingua. 其次，英语非常难以学习，比如，如果我们想流利地使用、顺畅地理解这门语言的话，有太多的单词需要学习。
+Maique, poli basique lexis in Ingles Lingua veni ec German Linguas como Antique Ingles e Nors, por le álien studentes, stude Ingles Lingua pote ofere men poli aida que Simplingua o LFN por stude le grave Roman Linguas como Espánia Lingua e France Lingua. 此外，英语中的许多基础词汇来自于日尔曼语言如古英语和诺尔斯语，对于外国学生来说，学习英语对于学习西班牙语、法语等重要的罗曼语能提供的帮助并不如简语或LFN多。
+
+ 
+【介词】
+介词是使名词能够在句中充当定语或状语等句子成分的一类虚词。其中表达方位作用的归为方位介词，其他的则归为格介词。
+
+	介词a
+介词a大体表达到往之义。
+①意为“到/向/往”，引导目的地、目标位置、目标对象等
+Fernando vade a Paris. 费尔南多正前往巴黎。
+Nos ja ariva a Moscva. 我们到达了莫斯科。
+②意为“直到”，引导空间或时间上的终点
+Ilo e mi chata a funde nocte. 他和我聊天到深夜（彻夜长谈）。
+Le pigre nino dormi a midi. 那个懒惰的男孩睡到了中午。
+③意为“给”，引导收受事物或内容的对象，即间接宾语
+Nos dona ce bon lingua a le mundo. 我们向世界献出这门好语言。
+Li ja dice un male notícia a mi. 他给我讲了一个坏消息。
+④引导利益相关方，尤其是受益者，与间接宾语接近
+Sara ja face un tarta a Vívia. 萨拉给薇薇亚做了一个蛋糕。
+⑤表示数量达到某个值
+Le précio ja scande a 30 euros. 价格爬升到了30欧。
+⑥在具备动词意义的名词词组中引导受事者
+Le amo de mama a nines es magne. 妈妈对孩子的爱是伟大的。
+
+	介词de
+①表示de前方的名词属于后方名词
+Le muro de le casa es rose. 那座房子的墙是粉色的。
+Pater de Júlia es un juristo. 尤莉娅的父亲是一名律师。
+②补充说明前方名词的内容，尤其是后方是动词的时候
+“Le joco de moriza” es poplare. 杀人游戏很流行。
+③在动词相关的名词词组中引导施事者
+Le comanda de Fernando es male. 费尔南多的指挥很糟糕。
+
+	介词ec
+意为“从”，引导起点或来源
+Nos cure a domo ec scola. 我们从学校跑回家。
+Ec mana a nocte, li contínue labora. 他从早晨一直工作到夜晚。
+与veni搭配的时候表示“来自（家乡）”
+Meimei veni ec Chunco. 梅梅来自中国。
+
+	介词per
+①意为“以/用”，引导工具或方式
+Le chuncanes dina per “quaizi”, qui es un geno de basto por ede. 中国人用一种名为“筷子”的棍状餐具来吃饭。
+Sora calmiza mi per canta. 姐姐通过唱歌让我冷静下来。
+②意为“经过/路过/穿过”（与trans横穿区别）
+Le mus cure per le strata. 那只老鼠沿着那条街跑。
+Un auto vade per le ponte. 一辆车驶过桥梁。
+③引导被动分词的施事者
+Le nino es edete per un crocodilo. 那个男孩子被一条鳄鱼吃了。
+④意为“持续（多长时间）”
+Ili deja canta per tres horas. 他们已经唱了三个钟了。
+
+	介词por
+①意为“由于/因为”，引导原因
+Por le incide, nos veni tarde. 因为事故，我们来晚了。
+Li es audente por amo. 他因爱而充满勇气。
+②意为“为了”，引导目的
+Tote hómines dilige por vince. 所有人都在为胜利而努力。
+Le fraters mútue moriza por le crona. 为了（得到）王冠，兄弟们互相厮杀。
+③用于引导动词词组，形成补语，其前方的名词可以是后方动词的逻辑主语也可以是逻辑宾语
+Esperanto es no facile por stude. 世界语并不易于学习。
+④意为“对...来说/在...看来”
+Por le britananes e usanes, Ingles Lingua es le max facile lingua in ce mundo porque Ingles Lingua es ili mater-lingua. 对于英国人和美国人来说，英语是世界上最容易的语言，因为英语是他们的母语。
+Por mi, ce camisa no apta ti. 在我看来，这件衬衫不适合你。
+
+	介词con
+①意为“和...一起”
+Mi fília joca con li amis. 我的女儿和她的朋友们在一起玩耍。
+Esque ti vole vade a le festa con mi? 你想跟我一起去参加派对吗？
+②表示伴有，通常引导前方名词的一部分或拥有物
+Mi habe un bon casa con un grande horto. 我拥有一座带着大花园的好住宅。
+Un mas con un pistola veni a nos domo! 一个带着枪的男人来我们家了！
+
+	介词sen
+意为“没有...”，表示没有某人或某事物伴随，与con相反
+Nos no pote face oni res sen ti. 没有你我们做不了任何事情。
+Draco sen ala es deble. 没有翅膀的龙很弱。
+介词sen经常与一些名词搭配作定语或状语，如sen hesita（毫不犹豫地）、sen lime（无边无际的）、sen cesa（不停地），作定语时要放在名词的后方，如le mare sen lime（那无边的大海）。
+
+	介词excepe
+意为“除了”，表示讨论的对象排除某事物
+Nule homin ama Pedro, excepe Ana. 除了安娜以外，没人喜欢佩德罗。
+
+	介词como
+①意为“如同/就像”，可以用于比喻或举例
+Ila es liber como un ave. 她像鸟儿一样自由。
+②意为“作为”，引导身份、名称或概念
+Como un mater, mi debe cura familianes. 身为一名母亲，我必须照顾好家人。
+Nos voca li como Mária. 我们把她叫作玛莉亚。
+Como也可以作为连词引导状语从句。
+
+	介词que
+意为“比”，引导被比较的对象，用于使用了anque（同样）、mai（更）或men（更不）的比较句当中
+Ce T-camisa es anque grande que le uno. 这件T恤跟那件一样大。
+Ilo es mai forte que li frater. 他比他的兄弟更加强大。
+
+	介词inter
+意为“在...之间/在...之中”
+Nule amo esta inter ila e mi. 在她和我之间不存在任何爱情。
+Simplingua es max bon inter le internácion aidante linguas. 在国际辅助语当中，简语是最好的一个。
+Inter还可以后接单数名词，表示在某个空间的内部。
+Hectos de companias esta inter ce casánia. 这个大厦里头有成百上千家公司。
+
+	介词in
+①意为“在”，引导时间和场所、方位等与位置有关的概念
+In nocte, tote sile. 夜里万物俱寂。
+Poli pisces nata in le rivo. 那条河里有很多鱼儿在游。
+In le este de France, Doichland esta. 在法国的东边是德国。
+②意为“在...里面”，表示在后方名词的内部空间内，若可能存在歧义时，通常使用介词inter代替。
+Le nines cure in ce grande casa. 孩子们在这座大宅子里跑。
+③意为“进入...”，与移动动词搭配表示进入到后者的位置或空间当中
+Vade in ce sala, benvole. 请进入这个房间。
+Hostes vade in nos tera. 敌人进入了我们的国土。
+④意为“在...方面”，引导话题范围
+Li es le ducento in quémia. 他是化学领域的领军人物
+Ti age ben in pedebola. 你在足球方面表现很好。
+⑤意为“在...语言当中”，表示文本、话语所使用的语言
+Le scribisto scribe li rómanes in Rósia Lingua. 那位作家用俄语来写他的小说。
+
+	介词prope
+意为“在...旁边”
+Nos habita prope le costa. 我们住在靠近海岸的地方。
+
+	介词ex
+与移动动词搭配表示从后者的位置或空间当中出来
+Le cosmo-saita apresa ex Géo. 火箭从地球冲出去。
+
+	介词exter
+意为“在...外面”，表示在后方名词的外部空间
+Exter ce monte poli néo cosas esta. 在这座山的外面，有很多新鲜事物。
+
+	介词cir
+①意为“在...周围/在...附近”
+Poli hómines vende edido cir le scola. 学校周边有很多人卖吃的。
+Servistes labora cir le rege. 仆人们围着国王工作。
+②意为“环绕”，可与移动动词搭配
+Géo vade cir Sole. 地球绕着太阳转。
+③意为“大约/大概”，引导数量
+Cir dudec quilo hómines esta in ce stádio. 在这座球场里有大约两万人。
+④意为“关于”，引导话题
+Le academistes disputa cir ce quéscion. 学者们就这个问题展开了争论。
+Nos discute cir vália de vita. 我们正在讨论生命的价值。
+Ci es un libro cir lingualógia. 这是一本关于语言学的书。
+
+	介词conter
+①意为“朝着/向着”
+Le aquilas vola conter Sole. 那些雄鹰迎着太阳飞翔。
+②意为“在...对面”
+Le pan-casa esta conter le libro-casa. 面包屋在书店的对面。
+③意为“反对...”
+Servintes age conter le manda de le rege. 仆人们的行动违背国王的指令。
+④意为“以...为对手”
+Poli hómines specta le contesta, Real Madrid conter Barcelona. 很多人在看皇家马德里对阵巴塞罗那的比赛。
+
+	介词preter
+①意为“沿着/经过”，引导从旁路过的场所或途径
+Un grande milário vade a le urbe preter le monte. 一支大军路过那座山，向那座城池进军。
+Nos gresa preter le rivo in ante-sera. 我们在傍晚时分沿着那条河流散步。
+②意为“除了...（还有）”，与excepe不同的是preter所指包含所引导的名词
+Preter chuncanes, poli hómines de ali paises ama Simplingua. 除了中国人以外，还有很多其他国家的人也喜爱简语。
+
+	介词sur
+意为“在...表面上”，无须在垂直方向的上方
+Sur le muro, un foto de ili nono esta. 在墙上挂在他们爷爷的照片。
+Le libros, como un grande monte, esta sur le buro. 那些书就像一座大山一样放在桌子上。
+
+	介词super
+意为“在...上方”，通常不像sur那样有接触
+Un celarca pare super le nubes. 云彩之上，彩虹显现。
+Laros vola super le mare. 海鸥翱翔在大海上方。
+
+	介词infer
+意为“在...下方”
+Paco lege infer un bosco. 帕科在一棵树下读书。
+Le mas conde infer le lecto. 那个男人躲在了床底下。
+
+	介词ante
+意为“在...前方”
+Nos ja fini le labora ante midi. 我们在中午之前就完成了工作。
+Un can forte latra ante le jánua. 一条狗在门前大声地叫着。
+
+	介词poi
+意为“在...后方”
+Poi hora dec nof, nule homin esta in ce casa. 晚上7点之后，就没人在这栋楼里了。
+Nos atende poi sep hómines. 我们在7个人的后等待着。
+Un sablário esta poi le grande monte. 那座大山的后面是一片沙漠。
+
+	介词trans
+意为“横穿...”“穿透...”
+Un mus cure trans le strata. 一只老鼠窜过街道。
+Lume veni trans le fenester. 光线穿过窗户而来。
+ 
+【数词】
+数词与数字有关，用于表达数量、位序、编号等等。
+
+一、基数词
+ 
+基数词是直接表达数量的词。
+ 
+0 zero
+1 un
+2 du
+3 tres
+4 quat (quatro)
+5 cin (cinco)
+6 six
+7 sep (septe)
+8 oc (octo)
+9 nof (nove)
+10 dec (deca)
+11 onze/dec un
+12 doze/dec du
+100 hecto
+1,000 quilo
+1,000,000 mega
+1,000,000,000 giga
+ 
+注意带括号的4、5、7、8、9、10这几个数字，根据词源，括号中是其数词的完整形式，但通常只使用其简短形式quat、cin、sep、oc、nof、dec即可。
+由于常用于钟点和月份当中，因此十一和十二这两个数有专门的数词onze和doze，与dec un、dec du有同样的效力。
+Doze meses esta in un ánio. = Dec du meses esta in un ánio. 一年之中有十二个月。
+表达大于十的数通常这么读：
+[位上数字] * <位> → [位上数字] * <位> → [位上数字] * <位>
+位指的是千、百、十（、个）。位上的数字及其位在拼写中通常加上连接符，如20写作du-dec，亦可不加，直接写作dudec或du dec。
+通常来说除个位外，位上数字若是1，可省略不读，如13只需读dec tres而无需读成un-dec tres。若有一个位上数字是0，则这个位无需读出来，如206读作du-hecto six而不读作du-hecto zero-dec six。
+例：
+19 dec nof
+56 cin-dec six
+82 oc-dec du
+144 hecto quat-dec quat
+365 tres hecto six-dec cin
+1024 quilo du-dec quat
+2017 du quilo dec sep
+5683 cin quilo six-hecto oc-dec tres
+9999 nof quilo nof-hecto nof-dec nof
+若一个数多于4个位，则通常三位三位地进行拼读，如
+1,234,567,890 giga du-hecto tres-dec quat mega cin-hecto six-dec sep quilo oc-hecto nof-dec
+giga	du-hecto	tres-dec	quat	mega	cin-hecto
+十亿	两百	三十	四	百万	五百
+six-dec	sep	quilo	oc-hecto	nof-dec	(zero)
+六十	七	千	八百	九十	
+其中giga、mega、quilo（以及个位）属于节点位，节点位之间的数按千以内的方式来拼读。如五十六点七万（567,000）读成cin-hecto six-dec sep quilo。
+除了以上读法之外，读超过4位的大数还有另外一种更加推荐的读法，即节点位之间的数直接读数字而无需读位，如五十六点七万（567,000）读成cin six sep quilo，所以1,234,567,890读作giga du tres quat mega cin six sep quilo oc nof zero。
+giga	du	tre	quat	mega	cin
+十亿	二	三	四	百万	五
+six	sep	quilo	oc	nof	zero
+六	七	千	八	九	零
+注意按照这种读法来读数时，位上的0需要读出来，除非像567,000这种千位和个位两个节点位之间全部是0，那么节点位之中完全就不需要读出来，否则像567,001也需要读成cin six sep quilo zero zero un。
+
+二、序数词
+表达序数词的方式很简单，数词本身无需变形，只需放在名词的后方而非前方即可，如le día cin（第五天）、le casa tres（第三座房子）、Viánia Oc（第八大道）等等。
+若是序数词没有修饰的对象，本身需要充当名词的话，通常使用nomber放在数词前方，如nomber du（第二）、nomber nof（第九）等。
+
+三、分母词与分数
+分母词也属于基数词，专设的分数词如下：
+ 
+semi 二分之一
+tresi 三分之一
+quatri 四分之一
+cinci 五分之一
+sixi 六分之一
+septi 七分之一
+octi 八分之一
+novi 九分之一
+deci 十分之一
+onzi 十一分之一
+dozi 十二分之一
+centi 百分之一
+mili 千分之一
+micro 百万分之一
+nano 十亿分之一
+ 
+除semi（二分之一）外，十二以内的分母词大多按照以下方式构成：以其基数词完整形式为基础，将尾元音修改成-i，如cinco → cinci。从百开始的分母词按照国际单位的形式：centi（百分之一）、mili（千分之一）、micro（百万分之一）、nano（十亿分之一），与基数词形式相异。
+分母词前方加上un即可表达“几分之一”，如un octi（八分之一）。分子大于1的时候，在分母词前方加上分子，并在分母词的词尾处加上复数标志-s。
+三分之二 du tresis
+九分之四 quat novis
+十分之七 sep decis
+十二分之五 cin dozis
+百分之六十七 six-dec sep centis
+假分数直接使用比分母大的分子即可，如cin quatris（四分之五），而带分数则在个位数和分数之间加上连词e，如du e tres septis（二又七分之三）。
+除了使用分子-分母词组表达分数以外，还有一种方式可以表达分数，即分母词使用普通的基数词形式，在分子和分母之间插入介词inter，表示多少之中的多少，如一百之中的二十du-dec inter hecto。分母大于12的时候必须采用这种方式来表达。
+二十分之十三 dec tres inter du-dec
+八十六之七十五 sep-dec cin inter oc-dec six
+二十五分之一百四十四 cent quat-dec quat inter du-dec cin
+分数词组可以整个作为数量词组，加上de之后修饰名词，如du tresis de cosas（三分之二的物品）。
+
+四、倍数词
+表达倍数，通常使用数词加vece(s)（次）加de形成词组，如
+Du veces de six es doze. 六的两倍是十二。
+这种句型可表达乘法。
+除词组的方式以外，还可以使用后缀的方式构成倍数词：以基数词的完整形式为基础（其中三以tri-为基础，来自前缀tri-），在后方加上-ple或-ople，或去掉尾元音加-ople。
+ 
+两倍 duple
+三倍 triple
+四倍 quatrople
+五倍 cincople
+六倍 sixople
+七倍 septople
+八倍 octople
+九倍 novople
+十倍 decople
+ 
+倍数词通常不会使用太大的数，一般只推荐使用duple、triple这两个比较简洁的词，更大的倍数推荐使用vece词组来表达。
+
+五、更多的数的形式
+1）小数
+表达小数只需要在个位数和十分位加上punto（点）或punt即可，punto后方直接读数字，如3.14159读作tres punto un quat un cin nof。
+2）负数
+表达负数只需在数的最前方加上nega即可，或使用介词词组infer zero（在零之下），如-35读作nega tres-dec cin或tres-dec cin infer zero。
+
+ 
+【句子的组成】
+
+一、谓语动词
+所有的完整句子都必须包含至少一个动词词组。一个动词词组可以包含一个动词、动词的宾语、补语或状语。
+Ja plúvia. 下了雨。
+Es aquadia. （今天）是星期三。
+以上两个例句作为无主语句是简语中比较特别的类型，表达天气（主要是下雨）和表达时间的时候可以用到。除此之外还有Sembla que ...和Sona ...等少数无主语句型，详见系动词章节。
+
+二、主语和宾语
+大多数句子都还会有两类名词词组：主语词组、宾语词组。主语通常是谓语动词的发出者、施行者，而宾语则通常是动词的接受者、对象、目标。
+Le nino prosequi un ave. 那个男孩在追着一只鸟。
+Le nina fave musica. 那个女孩喜欢音乐。
+部分动词不能带有直接宾语，因而句子中只要求主语，这类动词称为自动词。
+Ili side. 他们坐着。
+Un can dormi. 一只狗在睡觉。
+Li deja side per longue tempo. 他已经坐了很长的时间了。
+一些通常带有宾语的动词（即他动词）可以省略宾语，这种动词仍然被视作他动词。
+Mi ede. 我在吃（东西）。
+Júlia lege. 尤莉亚在阅读。
+
+三、表语
+在系动词（如es 是、esce成为、sembla 好像、aspecta 看起来、mantene 保持等）之后的“宾语”被称为表语，表语可能是名词、名词性词组、名词性从句或动词词组，也可能是形容词。
+Contela es maquina. 电脑是机器。
+Le aira sembla humide. 空气似乎（有点）潮湿。
+Ila va esce un docista. 她将成为一名教师。
+Le sopa mantene termo. 汤保持着温热。
+Le labora de nos es restátue le muro. 我们的工作是重建那堵墙。
+Mi idéa es que ti va canta. 我的想法就是您去唱歌。
+
+四、宾语补语
+形容词一般处于名词前方，若处在宾语名词的后方，则是充当补语，表示谓语动词的目的或结果。
+Nos ja pinta le casa blue. 我们把房子涂成了蓝色。
+Mantene le jánua aprite. 让门保持开着。
+除了形容词外，动词词组也可以充当补语，通常用于表达使役的句子当中。
+Comandanto ja manda nos fode un néo belo-fosa. 将军下令让我们挖一条新的壕沟。
+Mi vole ti expresa ti amo a ila. 我想要你去向她表达你的爱。
+
+五、介词词组：状语或定语
+介词词组通常在句中充当状语，对谓语动词的场所、时间、方式、状态等做出补充说明。
+Sole-lume veni trans le vetro. 阳光穿过玻璃而来。
+In nocte, poli stelas pare. 在夜晚会出现很多星星。
+Mi ja dona le libro a ti. 我将那本书给了您。
+介词词组还可以充当定语来修饰名词词组。
+un libro cir ave 关于鸟的一本书
+le fema ec Barat 从印度来的那个女人
+
+六、同位语
+同位语是对名词性成分的补充描述，但并非形容词式的定语，而是与前方名词表达同一指称对象的名词或名字词。同位语与前方的名词通常使用逗号隔开，口语中则表现为轻微的停顿。
+Le mas, Mário, es un medisto. 那个男人，马里奥，是一名医生。
+Li ja agresa mi sora, ti sposa! 他攻击了我姐姐，（也即是）你老婆！
+由于是同位语，所以这里mi sora, ti sposa实际上指的是同一个人，而不是两个人，否则应表达为mi sora e ti sposa。
+
+七、从句
+除了词组以外，一些句子还包含从句。从句可以充当主句当中的主语、宾语、表语、同位语、定语、状语等成分，从句内部通常则形成一个完整的句子。
+Le mas qui habita in ce loco in pasto deja vade a London. 过去住在这里的那个男人已经去了伦敦。
+Ilo va visita le urbe in Mes Six, le tempo le metéo es bon. 他将会在六月参观那个城市，那个时候天气很好。
+Mi es no licete age como mi vole. 我不被允许为所欲为。
+Mi pensa que ila es bele. 我认为她很漂亮。
+
+ 
+【语序】
+简语除了对词法进行了系统性的简化，还针对句法有诸多限制，以保证句型表达统一、易理解，其中对句子成分在句中的排序（即语序）亦做了规定。
+1）句子基本语序：主语-谓语-宾语
+Nos ama Simplingua. 我们喜爱简语。
+在疑问句和qui引导的从句中句子语序可以变为宾语-主语-谓语，具体详见疑问句和名词性从句章节。
+2）名词词组语序：限定词-形容词-名词-定语性介词词组
+le vete libro de Johan 属于约翰的那本老书
+3）介词词组语序：介词-名词词组
+in le casa 在那座房子里
+por poplo 为了人民
+4）分词语序
+分词若是只有单个词，通常可以如形容词一样放在名词的前方；若是带有宾语或状语形成分词词组，则通常放在名词在后方。
+un crescente bosco 一棵正在生长的树
+le fema suente camisas in sala 那个在房间里缝着衬衫的女人
+5）副词语序
+单个副词通常放在要修饰的词前方。
+①修饰名词性成分：
+Anque mi no comprende. 我也不明白。
+Le mas habe solo un oclo. 那个男人只有一只眼睛。
+②修饰动词：
+Marco celer cure. 马可飞快地奔跑着。
+Li calme dice. 她冷静地说。
+在不产生歧义的情况下（即不与定语或补语混淆），副词可以放在动词词组（通常是自动词）的后方。
+Ti ja age poli ben! 你干得非常好！
+③修饰形容词、分词或别的副词
+mai grande 更大的
+poli forte 非常强大的
+与②情况不同，修饰形容词或别的副词的副词不允许调整语序。
+6）状语词组语序
+时间状语、地点状语及各类状语性介词词组通常放在句首或句尾。
+Ce hora majore hómines dormi. 现在大多数人都在睡觉。
+Li nata como un pisce. 他像一条鱼儿一样游泳。
+7）补语语序
+补语词组放在宾语的后方。
+Nos ja lice le nina specta ce drama. 我们允许了那个小女孩观看这场戏。
+Mile-vive face li firme. 军人生涯使他坚毅。
+ 
+【间接宾语：施予动词和表达动词】
+有部分动词需要带有两个宾语，通常是有给予意味的动词，其直接宾语是被给予的事物，而其间接宾语是被给予的对象。通常间接宾语使用介词a引导。
+
+一、施予动词
+Johan dona bele flores a Lisa. 约翰送了些漂亮的花儿给莉莎。
+Presta un pena a mi, benvole. 请借枝笔给我吧。
+在不易产生歧义的情况下，直接宾语和间接宾语可交换位置，注意介词a仍然不能省略：
+Johan dona a Lisa bele flores. 约翰送给了莉莎一些漂亮的花儿。
+
+二、表达动词
+除了表达表面意义上的“给予”，表达类动词亦适用于双宾语句的要求，如dice说、nara讲述、nonza宣布、convía传达、quere问、expresa表达等等。
+Mi mater ja dice un male notícia a mi. 我妈给我说了一个坏新闻。
+Mi vade nara a vos un stória, nines. 我要给你们讲个故事，孩子们。
+使用表达动词的时候，其直接宾语常常是名词性从句。
+Le presidento ja nonza a tote hómines que le contesta ja cepe. 主席向所有人宣布，比赛开始了。
+与施予动词不同的是，表达动词常常可以省略间接宾语，只保留直接宾语：
+Mini Paulo ja expresa que li no plus vole stude joca shadreze. 小保罗表达了他不想学下棋了。
+
+ 
+【名词性从句】
+复合句的全称是“主从复合句”，即主句之中包含了从句。从句是以句子形态存在于主句当中的句法成分，比如“我不知道你喜欢苹果”这句话中，“你喜欢苹果”可以独立成句，但在这里整句话作为“我不知道”的宾语。从句有三类：状语从句、关系从句和名词性从句。
+名词性从句的从句结构一般是完整的句子，在主句中充当名词性成分，如主语、宾语、同位语或介词宾语。名词性从句常常做表达动词的直接宾语。
+
+一、que引导的名词性从句
+以整个句子充当主句中名词性成分的名词性从句，直接在陈述句的前方使用引导词que。引导词que本身没有任何词义，亦不在从句中充当句子成分。
+Que li habe tan poli mona ja shoca mi. 他有那么多钱，这令我震惊了。
+Mi vole dice que mi habe poli idéas ma mi manca oporto. 我想说，我有很多想法，但缺少机遇。
+
+二、esque引导的名词性从句
+以整个句子充当主句中名词性成分的名词性从句还有一种情况是同时表达该从句内容的肯定与否定，即表达了疑问语气（可参照疑问句章节），此时将引导词que改为esque。
+Mi no sci esque mi debe parti. 我不知道我是不是必须离开了。
+Esque li ama Joana es no grave. Que Joana no ama li es grave. 他是否爱让娜是不重要的。重要的是让娜不爱他。
+
+三、qui引导的名词性从句
+如果引导词本身有名词性的语法作用，则通常需要使用疑问词qui，疑问词在主句和从句中都分别有其功能。通常可以理解为汉语里的“……的人”或者“……的事物”
+Qui vexa mi es mi dente problema. 困扰我的是我的牙齿问题。
+Li no trova qui ja voca li. 她没有找出呼叫了她的人。
+Mi vole qui li habe. 我想要他所拥有的。
+这个例句里，qui既是vole的宾语，也是habe的宾语。在从句中，宾语qui提前成为引导词，单独考虑从句的话，语序会变成宾-主-谓。
+
+四、直接引语
+表达动词的宾语除了可以是que引导的名词性从句，还可以是完整的单个句子，表示对表达者的直接引用，称为直接引语。引语句子可以是任何简语允许的句子而不受从句语法的限制。
+使用直接引语时，通常要在表达动词和宾语引语句之间使用 : “ ” 的符号格式。
+Li dice: “Mi no vole mona, mi vole ti ama mi.”（他说道：“我不想要钱，我想要你爱我。”）
+Le nino quere: “Porqui li plora?”（那个男孩问道：“她为什么在哭呢？”）
+主句中的主语和谓语还可以放在句尾，使用“ ”,（可不要逗号或不要引号）的符号格式：
+“Vos tote es diablos!” le demente mas clama.（“你们全部都是恶魔！”那个疯了的男人大喊道。）
+Simplingua es vere bon, Sófia pensa. （简语真好，索菲亚这么想道。）
+ 
+【补语：使役句与使变句】
+补语全称为“宾语补语”，表达的是谓语动词对于宾语的目的或产生的结果。补语可以是形容词或动词词组，通常用于表达使役或使产生变化。
+
+一、使役句
+表达使役句型（使某人做某事），通常使用使役动词并将使役的内容作为补语放在宾语后方。使役动词包括face（使）、manda（吩咐/命令）、suade（劝）、convince（说服）、pete（请求）、spera（希望）、compele（强迫）等等。
+Solelume ja face mi ori. 阳光使我起床了。
+Docista manda oni de nos scribe un prosa. 老师吩咐我们每个人写一篇文章。
+Le petisto pete mi dona mona a li. 那个乞丐恳求我给钱他。
+注意，使役动词本身词义存在差异，因此通常来说使用pete、spera等词的使役句并不能说明事情有没有完成，比如“Le petisto pete mi dona mona a li.”一句并不能说明我是否会给钱，但是强语气的动词（如face、convince）则通常可以认为事情已完成，如通过“Solelume ja face mi ori.”一句可以认为“我”已经起床了。
+
+二、使宾语产生变化的表达
+通常而言，宾语补语若为形容词，则表达主语通过谓语动词使宾语产生了变化。谓语通常使用会对宾语产生变化的动词。
+Nos ja pinta le casa blue. 我们把房子刷成了蓝色。
+Amo face li audente. 爱使她勇敢。
+一般谓语动词使用face居多。
+除了使用宾语补语来表达使产生变化的句型，更推荐使用-iza后缀来表达：
+Glória fieriza li. 荣誉使他骄傲。
+Tropo poli labora lasiza oni persona. 过多的工作使每个人疲惫。
+ 
+【疑问句】
+疑问句是对听话者提出疑问的句子。
+
+一、一般疑问句
+一般疑问句又称是非疑问句或是非句，是对一个陈述句的内容的正确与否进行提问。一般疑问句在句尾处的语调需上扬。
+1）谓语动词为es的一般疑问句
+若一个句子的谓语动词是系动词es（是），那么只要将es移放到句首即可构成其疑问句。
+Le celo es blue. → Es le celo blue? 天空是蓝色的吗？
+Anguilo es pisce. → Es anguilo pisce? 鳝鱼是鱼吗？
+Le malo es edete. → Es le malo edete? 那个苹果被吃了吗？
+2）esque引导的一般疑问句
+构成一般疑问句的最简单的方式即是在一个陈述句的句首处添加疑问副词esque（是否）。
+Esque vos ama Simplingua? 你们喜欢简语吗？
+Esque ti ja fini ti mísion? 你做完你的作业了吗？
+Esque le bebe deja dormi? 宝宝已经睡了吗？
+Esque va plúvia cras? 明天将会下雨吗？
+谓语动词为es的陈述句亦可使用这种方式构成一般疑问句：
+Esque le celo es blue? 天空是蓝色的吗？
+一般来说将es提前的方式能够让表达更加简洁，采用哪种方式构成一般疑问句由说话者自行选择。
+3）反意疑问句
+说完一个陈述句之后再对这句话进行提问的句式称为反意疑问句，通常只需在句尾加上no即可，no前一般会有停顿。
+Le mundo es bele, no? 世界很美，不是吗？
+Le ture ja colabe no? 那座塔倒塌了对吗？
+构成反意疑问句还可以将句尾的no改成corecte或vere，尤其是原句当中使用了no表达否定的情况下。
+Ti no habe mona, corecte? 你没有钱，对吗？
+Ti no habe mona, vere? 你没有钱，真的吗？
+4）对一般疑问句的回答
+回答一般疑问句通常使用回答词si（是的）和no（不是）。
+Esque vos fave queso? 你们喜欢芝士吗？
+— Si, mi fave queso. 是的，我喜欢芝士。
+— No, mi no fave queso. 不，我不喜欢芝士。
+若疑问句使用了否定形式，比如：
+Esque vos no fave queso? 你们不喜欢芝士吗？
+这个时候的回答需要注意，使用si或no的情况跟肯定疑问句是一致的，即回答si或no的根据是问句的命题本身。
+Esque vos no fave queso? 
+— Si, mi fave queso.
+— No, mi no fave queso.
+这种回答方式对于东亚人来说可能不太习惯，那么可以使用corecte（正确）、vere（真的）和no corecte（不正确）、false（假的/不是真的）来对提问者的话语本身进行回答：
+Esque vos no fave queso? 
+— Corecte/Vere, mi no fave queso.
+— No corecte/False, mi fave queso.
+
+二、选择疑问句
+选择疑问句会在问句当中提供两个或多个选项供回答者选择，因此不能使用si和no来对选择疑问句进行回答。选择疑问句不需要使用esque来构成。
+Ti habe cafe o lacte? 你有咖啡还是牛奶？
+— Cafe. 咖啡。
+— Lacte. 牛奶。
+除了选择具体的选项以外，我们还可以回答tote（都）和nilo（都不）。
+Vos fave France o Doichland? 你们喜欢法国还是德国？
+— Tote. 都喜欢。
+— Nilo. 都不喜欢。
+
+三、特殊疑问句
+特殊疑问句是对特定的句法成分进行提问，因此回答者需要回答具体的内容，而不能使用si和no来回答。简语的特殊疑问句与欧洲语言存在差异，即只需要将疑问词放到原来的句法成分的位置上，而无需改变语序。
+Qui habe pena? 谁有笔？（对主语提问）
+Vos ede qui? 你们在吃什么？（对宾语提问）
+Ti ama que animale? 你喜欢什么动物？（对宾语提问）
+通常来说，对状语的提问可以放到句首。
+Come ti vade a le stácion? 你怎么去车站？（对状语提问）
+Que tempo le contesta cepe? 比赛什么时候开始？（对状语提问）
+一般来说，与欧洲语言的特殊疑问句语序存在差异的地方集中在对宾语的提问上。简语也允许将宾语提前到句首进行提问，但其他语法成分的位置不变。
+Qui ti specta? 你在看什么？
+Que animale ti ama? 你喜爱什么动物？
+对特殊疑问句进行回答，只需对问题的内容做具体回答即可。
+Ti fave que animale? 你喜欢什么动物？
+— Mi fave aquila. 我喜欢鹰。
+简语的特殊疑问词一般有以下这些：
+qui 什么，谁
+que 什么，哪个
+quale 怎样的，如何的
+que modo / come 怎样，如何
+quante 多少
+que loco 哪里，什么地方
+que tempo 几时，什么时候
+注意区分qui和que。两者都可以翻译为“什么”，但que是限定词，是形容词性的，后方必须接名词，如que libro（什么书）、que tabla（哪张餐桌）；而qui是名词性的代词，本身就是que cosa（什么东西）、que res（什么事）、que homin（谁）的意思，因此后方不能接名词。
+Ti vole qui? 你想要什么？
+Ti vole que libro? 你想要什么书？
+ 
+【时间的表达】
+
+一、时态
+1）体貌
+动词章节详细讲解了简语对时态的处理方式，对于时态简语采用“相对时态”即体貌的范畴来对动词进行处理：
+①动词前方使用助动词ja表达完成体
+Mi ja ede crocodilo-carne. 我吃了鳄鱼肉。
+②使用va表达将行体
+Mi va ede crocodilo-carne. 我将要吃鳄鱼肉。
+③另有助动词habe可以表达经历体
+Mi habe ede crocodilo-carne. 我曾吃过鳄鱼肉。
+④没有使用助动词的动词则表达现状体
+Mi ede crocodilo-carne. 我在吃鳄鱼肉。
+⑤需要强调进行体的话，使用esta加现在分词表达
+Mi esta edente crocodilo-carne. 我正在吃鳄鱼肉。
+对于将行体的表达，简语还可以使用多种助动词来表达，如vade、intende、para por等等，其中vade可以表达“现在就要去” ：
+Mi vade ede crocodilo-carne. 我要去吃鳄鱼肉了。
+2）时间状语
+由于“相对时态”的表达将时间基准放在了所讲述的内容所发生的时间，往往无法表达与说话的时间的先后关系，除了使用ce hora（现在）、le tempo（当时）等表达外，简语里可以使用两个时间副词来协助：antes（之前/以前）、pois（之后/以后/然后），一般而言antes比较常用。
+Antes mi deja sci. 在之前我就已经知道了。
+Antes mi vade a mi compánia per bus. 以前我是乘坐巴士去公司的。
+Antes和pois还可以以le tempo为时间基准，表达“愈过去时”或“过去将来时”等等时间。
+同时作为单个副词以及时间状语，antes和pois可以放在句首、句尾或谓语动词的前方，根据需求自行选择。
+Li antes mori. 他先前死了。
+Sandro pois vove. 桑德罗在之后宣誓。
+要表达不同行为动词之间的时间先后关系，通常还可以使用时间状语从句进行表达，详见状语从句章节。
+
+二、钟点的表达
+1）表达钟点的格式
+表达钟点通常接连使用多个序数词词组即可：
+secundo 40 (de) minuto 27 (de) hora 21
+表示21时27分40秒。顺序亦可以改变为时、分、秒：
+hora 21, minuto 27, secundo 40
+注意，简语默认使用24小时制。
+2）“几个字”
+除了用minuto以外，一些地区的人还可以使用dozi（十二分之一）来表达五分钟左右。简语里使用e与时数结合成带分数，亦可以使用介词poi来表达：
+hora 19 e 5 dozis（19时5个字，即19时25分）
+7 dozis poi hora 14（14时7个字，即14时35分）
+3）十二小时制
+使用24小时制的时候，可以直接说hora 7（7时）、hora 20（20时）。
+若是使用12小时制，通常在后方加上ante midi（午前）、poi midi（午后）进行修饰，如hora 9 ante midi（上午9点）、hora 2 poi midi（下午2点）。
+通常ante midi和poi midi在书面上可以缩写为a.m.和p.m.。
+
+三、日期的表达
+日期的表达格式与钟点类似，直接使用序数词词组即可，包括月份。完整的格式如下：
+dia 6 (de) mes 3 (de) (ánio) 2018, focodía
+亦可以更改顺序为东亚人习惯的年-月-日：
+(ánio) 2018, mes 3, dia 6, focodía
+（二〇一八年三月六日星期二）
+其中年份由于数值较大，通常不需要加上ánio亦能让人理解，常常将ánio省略。星期几则通常放在完整的日期表达的最后。
+星期几根据词源使用了易于记忆的曜日模式（同时避免“一个星期从哪天开始计算”的争议），用元素词加上-día构成：
+soledía 星期天（日曜日）
+lunadía 星期一（月曜日）
+focodía 星期二（火曜日）
+aquadía 星期三（水曜日）
+boscodía 星期四（木曜日）
+aurodía 星期五（金曜日）
+humodía 星期六（土曜日）
+ 
+【状语从句】
+
+一、le词组引导的状语从句
+1）le loco和le tempo引导的状语从句
+状语从句通常表达句子的时间、地点，使用引导词le loco（那个地方）、le tempo（那个时候）。
+从句内部的构造不需要任何变化，而从句在主句中作为状语可以放在句首或句尾。
+Nos vide un filme le loco nos incontra vece un. 我们在第一次相会的地方看了电影。
+这一句话的翻译可以改为，我们看了场电影的地方是我们第一次相会的地方。可以注意到，主句和从句发生的地点是同一个地点。从句的内容“nos incontra vece un”可以独立成句，不因从句地位而发生内部变化。
+Le tempo ti frapa le jánua, mi dormi. 你敲门的时候，我正在睡觉。
+Mi face mi domo-mísion le tempo mi amis joca pedebola. 朋友们在踢足球的时候，我在做作业。
+2）le loco和le tempo引导的名词性从句
+引导词le loco、le tempo前方若使用介词的话，则会成为名词性从句。
+Nos vade a le loco le docista habita in. 我们去老师住的地方。
+注意，这里le loco既是介词a的宾语，又是介词in的宾语，由于要充当引导词的缘故，从句中的介词宾语le loco提前到从句的句首，而使得介词in悬空。
+由于简语中le loco和le tempo本身就具备充当副词的能力，因此可以省略从句当中的介词：
+Nos vade a le loco le docista habita. 我们去老师住的地方。
+Le loco、le tempo引导的从句还可以在主句中作同位语，如：
+Mi ama mi scola, le loco mi joca con amis. 我喜欢我的学校，在那里我跟小伙伴们一起玩耍。
+Li fave mana, le tempo tote esta silente e seren.（她喜欢早晨，那时万物宁静安详。）
+
+二、ante que和poi que引导的时间状语从句
+除了使用le tempo引导时间状语从句以外，还可以使用ante和poi引导que引导的名词性从句来表达时间状语，亦可视为时间状语从句。
+Ante que ti ariva a ce loco, poli reses ja ocure. 在你到达这里之前，发生了很多事情。
+Poi que Júlio ja mori, Lúcia ja néo sposesce. 在尤里奥死了之后，露琪亚再婚了。
+
+三、como引导的方式状语从句
+连词como可以充当连词引导方式状语从句，表示“像…的方式那样”。
+Li dice como li canta. 他说话像唱歌一样。
+介词como可以引导名词性从句（尤其qui引导的）：
+Face como qui mi dice. 按照我说的去做。
+Reses no ocure como qui nos antes imagina. 事情并没有按照我们先前想象的那样发生。
+这种情况下，通常可以将qui省略，como发挥连词作用，同时承担起qui的功能：
+Face como mi dice. 按照我说的去做。
+Reses no ocure como nos antes imagina. 事情并没有按照我们先前想象的那样发生。
+
+ 
+【定语从句】
+定语从句是以整个从句对主句中的名词性成分做修饰，又称为关系从句。
+
+一、代词qui引导的定语从句
+定语从句的引导词如果在从句中做主语、宾语或介词宾语，使用引导词qui。
+Mi vide un mas qui clama in strata. 我看见一个在街上大声叫喊的男人。
+Mi habe le libros qui ti vole. 我拥有你想要的那些书。
+Sara fave le cocléa qui li frequente ede per. 萨拉喜欢她常用来吃饭的那个勺子。
+上述例句出现了介词悬空的现象，从句的本来语序是li frequente ede per qui，但由于qui要做引导词，因而提前到句首。关系从句中的悬空介词允许跟随qui一起提前。
+Sara ama le cocléa per qui li frequente ede. 萨拉喜欢她常用来吃饭的那个勺子。
+
+二、物主形容词qui引导的定语从句
+若是要表达类似英语中whose引导的定语从句，由于qui可直接做物主形容词，简语qui放在离所要修饰的名词前方即可。
+Mi conota un mas qui fílio es morizate per le rege. 我认识一个男人，他的儿子被国王杀害了。
+名词词组le fílio de qui允许整个在句中充当宾语。
+Mi conota un mas qui fílio le rege ja moriza. 我认识一个儿子被国王杀害了的男人。
+通常来说，若引导词qui + 名词的词组从句中作宾语时，更推荐从句改用被动句来表达（如上方两句中的前一句），使语序更为自然易理解。
+更多例句：
+Le prester consola un fema qui sposo ja mori por incide. 那位牧师在安慰一位女人，她的丈夫因意外逝世。
+Sancho vole eme le casa qui balcon es poli bele. 桑乔想买那座阳台非常漂亮的房子。
+ 
+【假设的表达】
+
+一、se引导的假设句
+假设的表达围绕着连词se（如果）。Se分句表达的是假设中的条件，而另一分句则表达假设中的结果。
+Se ti vole stude Simplingua, nos va ofere scripturas a ti. 如果你想要学习简语，我们将给你提供文档。
+Se cras metéo es bon, ili va vade a costa. 如果明天天气好的话，他们就将会去海边。
+通常而言，se引导的条件分句不需要使用将来时，而结果分句是否使用va，视是否是为未来的打算而定，不是的话，则通常不使用va。
+Se hidía ti veni a medetório, ti pote vide mi. 如果你昨天来医院的话，你就能见到我了。
+
+二、se相关词组引导的假设句
+除了se以外，还有多个与se相关的词组可以引导假设句：
+	anque se 即使（……，也……）
+Anque se li altesce, li no pote gana ce contesta. 即便他变高了，他也无法赢得这场比赛。
+	solo se 只有（……，才……）
+Solo se celo colabe, mi amo a ti cesa. 只有天崩塌了，我对你的爱才会停止。
+	poli se 只要（……，就……）
+Poli se le précio sufice, mi va vende. 只要价格足了，我就会卖掉。
+	no se 除非（……，才……）
+No se ti senti no conforte, nos exclude ti. 除非你感到不舒服，我们才不算上你。
+
+三、祈使句表达假设
+祈使句可以替代se引导的条件分句表达假设，在后方加上结果分句表达假设的结果，结果分句必须使用va。
+Dilige! Ti va sucede. 勤奋点！你会成功的！
+Que nos canta e danza. Nos va senti poli lete. 让我们唱唱跳跳吧，我们会感到非常开心的。
+结果分句还可以使用o（此时翻译为“否则”）开头表达反向的假设。
+Dilige! O ti va fali! 勤奋点！否则你会失败的！
+Sile! O nos va mori. 安静！否则我们会死！
+
+ 
+【构词法】
+简语的构词法保证了简语使用较少数量的词根即可表达非常多的概念。构词法包括派生法和复合法。派生法即使用词缀来构成新词，分为前缀派生和后缀派生两种方式。
+
+一、词尾
+简语不像世界语等人工语言采用固定的表达唯一词性的词尾，换句话说，简语单词的结尾可能是-a、-e、-o、-i、-u、-er等元音或者-n、-s、-l等辅音，但以什么发音结尾与单词本身的词性无本质的关系。（其结尾发音通常与词源有直接关联，具体可参考词典的附录。）
+由于词源缘故，简语词尾与词性之间有一定的规律。尤其是在自然前缀派生词当中更为显著。
+1）形容词
+拉丁语的前两组形容词（第一变格法、第二变格法）根据阴阳性产生词尾变化，简语消除了阴阳性的范畴，以通性的-e取代罗曼语中表达阴性的-a和表达阳性的-o；拉丁语第三组形容词（第三变格法）在罗曼语中通常表现为-e，简语得以将三组形容词的词尾均统一为-e。
+自然前缀派生词若词根词不以-e结尾但派生词是形容词，亦需要将词尾改为-e（出现-ne结尾的按照规则变为-n），比如modo（方式）→ comode（方便的），versa（反转）→ diverse（多样的），muno（责任）→ comun（共同的）。
+希腊词源的形容词可能以其他元音为词尾，如termo（热的）、ciano（青色的）、mela（黑色的）。
+2）动词
+拉丁语和罗曼语构成新动词或者引入外来动词的时候，通常将其规定为第一变格法动词，即不定式为-are词尾的动词，在简语当中则表现为-a，如英语词源的chat → chata（聊天）。
+自然前缀派生词若词根不是动词，但派生词是动词，通常将词尾改为-a尾，如pute（干净的）→ disputa（争论）、forte（强力的）→ eforta（尽力/费劲）。
+
+二、前缀派生词
+1）自然前缀/伪前缀
+前缀派生是拉丁语当中最具活力的构词方式，并且凭此为后代留下了丰富的词汇，但是拉丁语的前缀派生词多有引申，前缀意义模糊，因此通常不再有构造新词的能力，此处作出总结，仅用于帮助我们理解、记忆这些源自拉丁语的国际化词汇。这些前缀我们称为“自然前缀”或者“伪前缀”。
+简语的词汇共有20个左右的自然前缀，具体列表请参考词典附录。
+注意：自然前缀当中有两个in-，其中后一个表达反义的in-在简语当中被大幅限制，词汇当中仅存在imun（免疫的）等极少数词使用，因此不必担心两个前缀产生歧义。
+2）能产前缀
+除了自然前缀以外，还存在一种前缀允许使用者自行构词，称为“能产前缀”。能产前缀不改变本身的拼写形式，直接加在词根词的前方即可（亦可在前缀和词根之间加上连接符“-”）。一般而言有以下几个：
+前缀	意义	例词
+anti-	防/反对...用的工具	anticade 降落伞
+be-	姻亲，亲家	bemater 岳母/婆婆
+hi-	昨天	hinocte 昨夜
+ho-	今天	homidi 今天中午
+inter-	互相	intervide 见面，采访
+non-	反义	nonlogicale 不符合逻辑的
+re-	重新	reface 重做，重制
+其中inter-和re-来自自然前缀，要注意re-前缀已经构造了诸多自然前缀派生词并且有大多有引申，因此并不是非常方便使用。此时可以使用néo（新的）放在动词前方作为副词来代替re-前缀，如：
+Esque ti pote néo dice le frase? 你能把那个句子重新说一遍吗？
+
+三、后缀派生词
+后缀派生是简语当中最重要的构造新词的手段。与前缀类似，后缀也区分自然后缀和能产后缀，但简语当中自然后缀规模较小。
+1）自然后缀/伪后缀
+与自然前缀类似，简语使用者一般不能自行使用自然后缀来构造新词。使用自然后缀构造的词，通常要将原词的尾元音去除，再添上后缀。注意，与自然前缀类似的是自然后缀的意义也比较模糊，列出自然后缀仅用于帮助学生理解。具体的自然后缀列表请参照词典附录。
+2）能产后缀：词尾式后缀（元音开头的后缀）
+元音开头的后缀被称为“词尾式后缀”，其含义是该后缀可以取代原来的元音词尾，即在使用这类后缀进行派生时，需要先将原词的尾元音去除，再将后缀添上（若原词为辅音结尾则无需该步骤）。如：
+mede 治疗 → med- → med- + -iste (职业后缀) → mediste 医生
+mature 成熟的 → matur- → matur- + -iza (使变化后缀) → maturiza 使...变得成熟
+clave 键 → clav- → clav- + -ário (集合后缀) → clavário 键盘
+使用后缀派生时两个相同元音相遇时（如ii），合并为一个。
+具体的词尾式后缀列表请参照词典附录。
+注意，-an-、-ist-、-or-三个跟人有关的后缀（以及复合式后缀-nt-），其后方要根据性别选择词尾-e（不区分性别）、-a（女性）、-o（男性），如：
+vila 村庄 → vil- + -an- → vilane 村民、vilana 女村民、vilano 男村民
+3）能产后缀：复合式后缀（辅音开头的后缀）
+与词尾式后缀不同，复合式后缀的构造方式更为简单，只需直接在单词的后方添上即可，无需先去掉原词的尾元音。如：
+lingua 语言 → lingua + -lógia (学科后缀) → lingualógia 语言学
+简语中的复合式后缀列表请参照词典附录。
+注意，后缀-tório通常指拥有独栋建筑或一片场地的场所，具体可参照词典。其他情况可以用casa（屋）、sala（房）进行复合，如flore-casa花店、doce-sala教室。
+4）原词以-er结尾的词的后缀变化
+简语当中有不少词以-er结尾，如pater、center、paser、pober、tener等，这些词在进行后缀变化时，有以下两点需要注意：
+①词尾式后缀直接添在原词后方，如materoide（像母亲的），其中-er-部分的发音为/e.r/而不再是/ə/（即按新的拼写来发音），如celeritudo /tʃe.le.ri.'tu.do/
+②复合式后缀需在前方加上垫音-e-后再添在原词后方，如liberesce（变得自由），其中-ere-部分发音为/e.re/，又如poberesce /po.be.'re.ʃe/
+
+四、复合词
+简语大量低频词采用复合的方式进行构造。复合的方式通常是两个词直接相连，或者在两个词之间插入连接符“-”。
+foco 火 + bosco 木 → focobosco 柴
+gas 气体 + bola 球 → gas-bola 气球
+carbo 炭 + pena 笔 → carbopena 铅笔
+termo 热 + meter 测量仪 → termometer 温度计
+在发音便利的情况下，个别复合词的前词可以缩略其尾元音，此时不再使用连接符“-”。注意，为了避免缩略尾元音造成混乱，使用者不能自行采用这种方式进行复合，一般仍然按照上面的方式使用完整的词形进行复合，比如使用者不能擅自将carbopena改成carbpena*。只有出现在词典当中的是被许可缩略尾元音的复合词：
+oclo 眼睛 + aqua 水 → oclaqua 眼泪
+flama 火焰 + basto 棍棒 → flambasto 火柴
+通常后词以元音开头的，则有可能使前词的尾元音被去除再进行复合。
+复合词的意义通常是前词修饰或限定后词而得来，如oclaqua一词即是指“眼中的水”，termometer一词即是指“关于热的测量仪”。
+注意两种常用的复合构词法：
+①名词-动词-nte（根据性别可改为-nta、-nto），意义为做某事的人，词中的名词语素为动词语素的宾语，如simplingualoquinte（简语使用者）。
+②动词-名词，意义为用于做某事的事物，相当于名词por动词的结构，如coquesala（厨房）即是sala por coque（用于烹饪的房间）。
