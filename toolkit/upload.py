@@ -6,6 +6,8 @@ Uploads parsed JSON data to PostgreSQL database
 
 import json
 import sys
+import argparse
+import os
 from pathlib import Path
 from typing import Optional
 
@@ -179,31 +181,47 @@ class DataUploader:
 
 def main():
     """Main entry point"""
-    # Get database URL from environment or use default
-    import os
-    db_url = os.getenv(
-        "DATABASE_URL",
-        "postgresql://simplingua:dev_password@localhost:5432/simplingua_dev"
+    parser = argparse.ArgumentParser(
+        description="Upload parsed Simplingua data to PostgreSQL database"
+    )
+    parser.add_argument(
+        "--db-url",
+        type=str,
+        default=os.getenv(
+            "DATABASE_URL",
+            "postgresql://simplingua:dev_password@localhost:5432/simplingua_dev"
+        ),
+        help="PostgreSQL database connection URL (default: from DATABASE_URL env var or postgresql://simplingua:dev_password@localhost:5432/simplingua_dev)"
+    )
+    parser.add_argument(
+        "--words-json",
+        type=Path,
+        default=Path(__file__).parent.parent / "data" / "words.json",
+        help="Input words JSON file path (default: ../data/words.json)"
+    )
+    parser.add_argument(
+        "--grammar-json",
+        type=Path,
+        default=Path(__file__).parent.parent / "data" / "grammar.json",
+        help="Input grammar JSON file path (default: ../data/grammar.json)"
     )
 
-    data_dir = Path(__file__).parent.parent / "data"
-    words_json = data_dir / "words.json"
-    grammar_json = data_dir / "grammar.json"
+    args = parser.parse_args()
 
-    if not words_json.exists() or not grammar_json.exists():
-        print("Error: Parsed JSON files not found in data/ directory")
+    if not args.words_json.exists() or not args.grammar_json.exists():
+        print("Error: Parsed JSON files not found")
         print("Run the parsers first:")
         print("  python toolkit/parse_dictionary.py")
         print("  python toolkit/parse_grammar.py")
         return 1
 
-    uploader = DataUploader(db_url)
+    uploader = DataUploader(args.db_url)
     uploader.connect()
 
     try:
-        uploader.upload_grammar_sections(grammar_json)
-        uploader.upload_words(words_json)
-        uploader.upload_grammar(grammar_json)
+        uploader.upload_grammar_sections(args.grammar_json)
+        uploader.upload_words(args.words_json)
+        uploader.upload_grammar(args.grammar_json)
     except Exception as e:
         print(f"Error during upload: {e}")
         return 1

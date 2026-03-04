@@ -6,6 +6,7 @@ Parses grammar-in-cn.txt into structured JSON format
 
 import re
 import json
+import argparse
 from pathlib import Path
 from typing import Dict, List, Optional, Any
 
@@ -252,18 +253,33 @@ class GrammarParser:
 
 def main():
     """Main entry point"""
-    grammar_path = Path(__file__).parent.parent / "docs" / "grammar-in-cn.txt"
-    output_path = Path(__file__).parent.parent / "data" / "grammar.json"
+    parser = argparse.ArgumentParser(
+        description="Parse Simplingua grammar from text file to JSON"
+    )
+    parser.add_argument(
+        "--input",
+        type=Path,
+        default=Path(__file__).parent.parent / "docs" / "grammar-in-cn.txt",
+        help="Input grammar text file path (default: ../docs/grammar-in-cn.txt)"
+    )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=Path(__file__).parent.parent / "data" / "grammar.json",
+        help="Output JSON file path (default: ../data/grammar.json)"
+    )
 
-    if not grammar_path.exists():
-        print(f"Error: Grammar file not found at {grammar_path}")
+    args = parser.parse_args()
+
+    if not args.input.exists():
+        print(f"Error: Grammar file not found at {args.input}")
         return 1
 
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+    args.output.parent.mkdir(parents=True, exist_ok=True)
 
-    parser = GrammarParser(grammar_path)
+    parser = GrammarParser(args.input)
     parser.parse_file()
-    parser.save_json(output_path)
+    parser.save_json(args.output)
 
     return 0
 

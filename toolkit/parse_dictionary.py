@@ -6,6 +6,7 @@ Parses dictionary-in-cn.txt into structured JSON format
 
 import re
 import json
+import argparse
 from pathlib import Path
 from typing import Dict, List, Optional, Any
 
@@ -249,18 +250,33 @@ class DictionaryParser:
 
 def main():
     """Main entry point"""
-    dictionary_path = Path(__file__).parent.parent / "docs" / "dictionary-in-cn.txt"
-    output_path = Path(__file__).parent.parent / "data" / "words.json"
+    parser = argparse.ArgumentParser(
+        description="Parse Simplingua dictionary from text file to JSON"
+    )
+    parser.add_argument(
+        "--input",
+        type=Path,
+        default=Path(__file__).parent.parent / "docs" / "dictionary-in-cn.txt",
+        help="Input dictionary text file path (default: ../docs/dictionary-in-cn.txt)"
+    )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=Path(__file__).parent.parent / "data" / "words.json",
+        help="Output JSON file path (default: ../data/words.json)"
+    )
 
-    if not dictionary_path.exists():
-        print(f"Error: Dictionary file not found at {dictionary_path}")
+    args = parser.parse_args()
+
+    if not args.input.exists():
+        print(f"Error: Dictionary file not found at {args.input}")
         return 1
 
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+    args.output.parent.mkdir(parents=True, exist_ok=True)
 
-    parser = DictionaryParser(dictionary_path)
+    parser = DictionaryParser(args.input)
     parser.parse_file()
-    parser.save_json(output_path)
+    parser.save_json(args.output)
 
     return 0
 
