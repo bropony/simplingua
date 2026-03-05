@@ -6,9 +6,9 @@ Database models for Valva forum system
 from datetime import datetime
 from typing import List
 
-from sqlalchemy import Column, String, Text, DateTime, Integer, JSONB, ForeignKey, CheckConstraint, Index
+from sqlalchemy import Column, String, Text, DateTime, Integer, JSON, ForeignKey, CheckConstraint, Index
 from sqlalchemy.orm import relationship
-from sqlalchemy.dialects.postgresql import UUID, ARRAY
+from sqlalchemy.dialects.postgresql import UUID, ARRAY, JSONB
 import uuid
 
 from app.core.database import Base

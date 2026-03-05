@@ -6,9 +6,9 @@ Database model for tracking user interactions and system events
 from datetime import datetime
 from typing import Optional
 
-from sqlalchemy import Column, String, DateTime, ForeignKey, JSONB, Index
+from sqlalchemy import Column, String, DateTime, ForeignKey, JSON, Index
 from sqlalchemy.orm import relationship
-from sqlalchemy.dialects.postgresql import UUID
+from sqlalchemy.dialects.postgresql import UUID, JSONB
 import uuid
 
 from app.core.database import Base

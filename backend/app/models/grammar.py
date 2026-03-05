@@ -6,8 +6,8 @@ Database model for grammar rules and linguistic documentation
 from datetime import datetime
 from typing import List
 
-from sqlalchemy import Column, String, Text, DateTime, JSONB, ARRAY, Index, CheckConstraint
-from sqlalchemy.dialects.postgresql import UUID
+from sqlalchemy import Column, String, Text, DateTime, JSON, ARRAY, Index, CheckConstraint
+from sqlalchemy.dialects.postgresql import UUID, JSONB
 import uuid
 
 from app.core.database import Base

@@ -6,8 +6,8 @@ Database model for lexicon entries with linguistic features
 from datetime import datetime
 from typing import Optional
 
-from sqlalchemy import Column, String, Text, ARRAY, Boolean, JSONB, CheckConstraint, Index
-from sqlalchemy.dialects.postgresql import UUID
+from sqlalchemy import Column, String, Text, ARRAY, Boolean, JSON, CheckConstraint, Index
+from sqlalchemy.dialects.postgresql import UUID, JSONB
 import uuid
 
 from app.core.database import Base
