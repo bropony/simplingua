@@ -108,8 +108,8 @@ export const wikiApi = {
       token,
     }),
 
-  translate: (text: string, from: string, to: string, pos?: string, context?: string, token?: string) => {
-    const params: Record<string, string> = { text, from, to };
+  translate: (text: string, from_lang: string, to: string, pos?: string, context?: string, token?: string) => {
+    const params: Record<string, string> = { text, from_lang, to };
     if (pos) params.pos = pos;
     if (context) params.context = context;
     const queryString = new URLSearchParams(params).toString();

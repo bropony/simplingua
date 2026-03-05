@@ -21,11 +21,19 @@ async def generate_response(state: ResponseGenerationState) -> ResponseGeneratio
     ai_provider_name = state.get("ai_provider", settings.CHAT_AI_DEFAULT_PROVIDER)
 
     # Get provider instance
+    # Determine the correct API key based on provider
+    if ai_provider_name == "deepseek":
+        api_key = settings.AI_DEEPSEEK_API_KEY
+    elif ai_provider_name == "openai":
+        api_key = settings.AI_OPENAI_API_KEY
+    elif ai_provider_name == "anthropic":
+        api_key = settings.AI_ANTHROPIC_API_KEY
+    else:
+        api_key = None
+
     provider = get_provider(
         ai_provider_name,
-        api_key=settings.AI_DEEPSEEK_API_KEY if ai_provider_name == "deepseek" else None,
-        api_key=settings.AI_OPENAI_API_KEY if ai_provider_name == "openai" else None,
-        api_key=settings.AI_ANTHROPIC_API_KEY if ai_provider_name == "anthropic" else None
+        api_key=api_key
     )
 
     # Build messages for the AI

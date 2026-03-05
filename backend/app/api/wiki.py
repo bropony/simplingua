@@ -295,7 +295,7 @@ async def conjugate_verb(
 @router.get("/translate", response_model=TranslateResponse)
 async def translate_word(
     text: str,
-    from: str = "en",
+    from_lang: str = "en",
     to: str = "sim",
     pos: Optional[str] = None,
     context: Optional[str] = None,
@@ -325,7 +325,7 @@ async def translate_word(
 
     return {
         "text": text,
-        "from": from,
+        "from_lang": from_lang,
         "to": to,
         "translations": translations,
         "examples": examples[:5]

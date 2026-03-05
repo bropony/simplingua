@@ -37,7 +37,6 @@ class Word(Base):
         String(20),
         default="active",
         nullable=False,
-        CheckConstraint("status IN ('active', 'pending', 'rejected')")
     )
     approved_by = Column(UUID(as_uuid=True), nullable=True)
     date_added = Column(DateTime(timezone=True), default=datetime.utcnow)

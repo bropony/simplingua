@@ -48,4 +48,4 @@ class PhoneticsAnalysisResponse(BaseModel):
     text: str
     syllables: List[List[str]]
     stress_marks: List[int]  # Index of stressed syllables
-   ipa_transcription: str
+    ipa_transcription: str

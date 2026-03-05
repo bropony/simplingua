@@ -198,6 +198,32 @@ export interface Etymology {
   related_words: string[];
 }
 
+// Translation
+export interface TranslateRequest {
+  text: string;
+  from_lang: string;
+  to: string;
+  pos?: string;
+  context?: string;
+}
+
+export interface Translation {
+  word: string;
+  pos: string;
+  verb_type?: string;
+  meaning: string;
+  aspect?: string;
+  context?: string;
+}
+
+export interface TranslateResponse {
+  text: string;
+  from_lang: string;
+  to: string;
+  translations: Translation[];
+  examples: string[];
+}
+
 // Wiki Search
 export interface WikiSearchResult {
   type: "word" | "grammar";

@@ -31,7 +31,6 @@ class ForumPost(Base):
         String(20),
         default="active",
         nullable=False,
-        CheckConstraint("status IN ('active', 'locked', 'deleted', 'flagged')")
     )
     view_count = Column(Integer, default=0)
     reply_count = Column(Integer, default=0)
@@ -56,7 +55,7 @@ class ForumVote(Base):
     id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     post_id = Column(UUID(as_uuid=True), ForeignKey("forum_posts.id", ondelete="CASCADE"), nullable=False, index=True)
     user_id = Column(UUID(as_uuid=True), ForeignKey("users.id", ondelete="CASCADE"), nullable=False, index=True)
-    vote_type = Column(String(10), nullable=False, CheckConstraint("vote_type IN ('up', 'down')"))
+    vote_type = Column(String(10), nullable=False)
     created_at = Column(DateTime(timezone=True), default=datetime.utcnow)
 
     # Relationships

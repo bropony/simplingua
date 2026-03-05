@@ -77,7 +77,7 @@ class ConjugationResponse(BaseModel):
 class TranslateRequest(BaseModel):
     """Translation request"""
     text: str
-    from: str = "en"
+    from_lang: str = "en"
     to: str = "sim"
     pos: Optional[str] = None
     context: Optional[str] = None
@@ -96,7 +96,7 @@ class Translation(BaseModel):
 class TranslateResponse(BaseModel):
     """Translation response"""
     text: str
-    from: str
+    from_lang: str
     to: str
     translations: List[Translation]
     examples: List[str]

@@ -27,14 +27,12 @@ class User(Base):
         String(20),
         default="user",
         nullable=False,
-        CheckConstraint("role IN ('user', 'moderator', 'admin', 'super')"),
         index=True
     )
     status = Column(
         String(20),
         default="active",
         nullable=False,
-        CheckConstraint("status IN ('active', 'suspended', 'banned')")
     )
     preferred_language = Column(String(10), default="en")
     theme = Column(String(20), default="light")
