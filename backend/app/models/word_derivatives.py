@@ -5,6 +5,7 @@ Database model for morphological relationships between words
 
 from datetime import datetime
 from typing import List
+import uuid
 
 from sqlalchemy import Column, String, Text, ForeignKey, DateTime, Index, UUID
 from sqlalchemy.orm import relationship
