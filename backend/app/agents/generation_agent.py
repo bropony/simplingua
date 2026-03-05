@@ -18,7 +18,7 @@ async def generate_response(state: ResponseGenerationState) -> ResponseGeneratio
     to generate a helpful response.
     """
     settings = get_settings()
-    ai_provider_name = state.get("ai_provider", settings.AI_DEFAULT_PROVIDER)
+    ai_provider_name = state.get("ai_provider", settings.CHAT_AI_DEFAULT_PROVIDER)
 
     # Get provider instance
     provider = get_provider(

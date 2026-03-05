@@ -107,7 +107,8 @@ See `.env.example` for all available variables.
 Key variables:
 - `DATABASE_URL` - PostgreSQL connection string
 - `JWT_SECRET` - Secret key for token signing
-- `AI_DEFAULT_PROVIDER` - Default AI provider (deepseek|openai|anthropic|local)
+- `CHAT_AI_DEFAULT_PROVIDER` - Default chat AI provider (deepseek|openai|anthropic|local)
+- `EMBEDDING_AI_DEFAULT_PROVIDER` - Default embedding AI provider (deepseek|openai|sentencetransformer|local)
 - `AI_DEEPSEEK_API_KEY` - DeepSeek API key (required)
 
 ## AI Provider Support

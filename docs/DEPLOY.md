@@ -62,16 +62,29 @@ JWT_ACCESS_TOKEN_EXPIRE_MINUTES=30
 JWT_REFRESH_TOKEN_EXPIRE_DAYS=7
 
 # AI Provider
-AI_DEFAULT_PROVIDER=deepseek
+CHAT_AI_DEFAULT_PROVIDER=deepseek
+EMBEDDING_AI_DEFAULT_PROVIDER=openai
 
-# DeepSeek (Required)
+# DeepSeek Chat (Required)
 AI_DEEPSEEK_API_KEY=your_production_deepseek_api_key
 
-# OpenAI (Optional)
+# OpenAI Chat (Optional)
 AI_OPENAI_API_KEY=your_production_openai_api_key
 
-# Anthropic (Optional)
+# Anthropic Chat (Optional)
 AI_ANTHROPIC_API_KEY=your_production_anthropic_api_key
+
+# DeepSeek Embeddings
+EMBEDDING_DEEPSEEK_MODEL=deepseek-embeddings
+EMBEDDING_DEEPSEEK_DIMENSION=1024
+
+# OpenAI Embeddings
+EMBEDDING_OPENAI_MODEL=text-embedding-3-small
+EMBEDDING_OPENAI_DIMENSION=1536
+
+# SentenceTransformer Embeddings (Local models)
+EMBEDDING_SENTENCETRANSFORMER_MODEL=moka-ai/m3e-base
+EMBEDDING_SENTENCETRANSFORMER_DIMENSION=768
 
 # =============================================================================
 # Frontend Configuration
@@ -183,10 +196,15 @@ services:
       - ENV=production
       - DATABASE_URL=${DATABASE_URL}
       - JWT_SECRET=${JWT_SECRET}
-      - AI_DEFAULT_PROVIDER=deepseek
+      - CHAT_AI_DEFAULT_PROVIDER=deepseek
+      - EMBEDDING_AI_DEFAULT_PROVIDER=openai
       - AI_DEEPSEEK_API_KEY=${AI_DEEPSEEK_API_KEY}
       - AI_OPENAI_API_KEY=${AI_OPENAI_API_KEY}
       - AI_ANTHROPIC_API_KEY=${AI_ANTHROPIC_API_KEY}
+      - EMBEDDING_DEEPSEEK_MODEL=deepseek-embeddings
+      - EMBEDDING_DEEPSEEK_DIMENSION=1024
+      - EMBEDDING_OPENAI_MODEL=text-embedding-3-small
+      - EMBEDDING_OPENAI_DIMENSION=1536
     depends_on:
       postgres:
         condition: service_healthy

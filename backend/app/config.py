@@ -32,30 +32,51 @@ class Settings:
     JWT_REFRESH_TOKEN_EXPIRE_DAYS: int = int(os.getenv("JWT_REFRESH_TOKEN_EXPIRE_DAYS", "7"))
 
     # AI Provider Configuration
-    AI_DEFAULT_PROVIDER: str = os.getenv("AI_DEFAULT_PROVIDER", "deepseek")
+    CHAT_AI_DEFAULT_PROVIDER: str = os.getenv("CHAT_AI_DEFAULT_PROVIDER", "deepseek")
+    EMBEDDING_AI_DEFAULT_PROVIDER: str = os.getenv("EMBEDDING_AI_DEFAULT_PROVIDER", "openai")
 
-    # DeepSeek
+    # DeepSeek Chat
     AI_DEEPSEEK_API_KEY: Optional[str] = os.getenv("AI_DEEPSEEK_API_KEY")
     AI_DEEPSEEK_MODEL: str = os.getenv("AI_DEEPSEEK_MODEL", "deepseek-chat")
     AI_DEEPSEEK_BASE_URL: str = os.getenv("AI_DEEPSEEK_BASE_URL", "https://api.deepseek.com")
 
-    # OpenAI
+    # OpenAI Chat
     AI_OPENAI_API_KEY: Optional[str] = os.getenv("AI_OPENAI_API_KEY")
     AI_OPENAI_MODEL: str = os.getenv("AI_OPENAI_MODEL", "gpt-4o")
     AI_OPENAI_BASE_URL: str = os.getenv("AI_OPENAI_BASE_URL", "https://api.openai.com/v1")
 
-    # Anthropic
+    # Anthropic Chat
     AI_ANTHROPIC_API_KEY: Optional[str] = os.getenv("AI_ANTHROPIC_API_KEY")
     AI_ANTHROPIC_MODEL: str = os.getenv("AI_ANTHROPIC_MODEL", "claude-3-5-sonnet-20241022")
     AI_ANTHROPIC_BASE_URL: str = os.getenv("AI_ANTHROPIC_BASE_URL", "https://api.anthropic.com")
 
-    # Local (Ollama)
+    # Local AI Chat (Ollama)
     AI_LOCAL_BASE_URL: str = os.getenv("AI_LOCAL_BASE_URL", "http://localhost:11434")
     AI_LOCAL_MODEL: str = os.getenv("AI_LOCAL_MODEL", "llama3.2")
 
-    # Vector Embedding
+    # Embedding - DeepSeek
+    EMBEDDING_DEEPSEEK_MODEL: str = os.getenv("EMBEDDING_DEEPSEEK_MODEL", "deepseek-embeddings")
+    EMBEDDING_DEEPSEEK_DIMENSION: int = int(os.getenv("EMBEDDING_DEEPSEEK_DIMENSION", "1024"))
+
+    # Embedding - OpenAI
+    EMBEDDING_OPENAI_MODEL: str = os.getenv("EMBEDDING_OPENAI_MODEL", "text-embedding-3-small")
+    EMBEDDING_OPENAI_DIMENSION: int = int(os.getenv("EMBEDDING_OPENAI_DIMENSION", "1536"))
+
+    # Embedding - SentenceTransformer (Local models)
+    EMBEDDING_SENTENCETRANSFORMER_MODEL: str = os.getenv(
+        "EMBEDDING_SENTENCETRANSFORMER_MODEL", "moka-ai/m3e-base"
+    )
+    EMBEDDING_SENTENCETRANSFORMER_DIMENSION: int = int(
+        os.getenv("EMBEDDING_SENTENCETRANSFORMER_DIMENSION", "768")
+    )
+
+    # Embedding - Local (Ollama, LM Studio)
+    EMBEDDING_LOCAL_MODEL: str = os.getenv("EMBEDDING_LOCAL_MODEL", "nomic-embed-text")
+    EMBEDDING_LOCAL_DIMENSION: int = int(os.getenv("EMBEDDING_LOCAL_DIMENSION", "768"))
+
+    # Legacy (for backward compatibility)
     EMBEDDING_MODEL: str = os.getenv("EMBEDDING_MODEL", "text-embedding-ada-002")
-    EMBEDDING_DIMENSION: int = 1536
+    EMBEDDING_DIMENSION: int = int(os.getenv("EMBEDDING_DIMENSION", "1536"))
 
     # Rate Limiting
     RATE_LIMIT_ANONYMOUS: int = int(os.getenv("RATE_LIMIT_ANONYMOUS", "30"))

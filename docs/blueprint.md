@@ -34,8 +34,10 @@ Backend Server (FastAPI + LangGraph + PostgreSQL/pgvector)
 - **Port**: 8000 (configurable)
 
 **AI Provider Support**:
-- **Default**: DeepSeek (deepseek-chat, deepseek-coder models)
-- **Additional Support**: OpenAI (GPT-4, GPT-4o), Anthropic Claude, Qwen, local models (Ollama, LM Studio)
+- **Chat Default**: DeepSeek (deepseek-chat, deepseek-coder models)
+- **Embedding Default**: OpenAI (text-embedding-3-small) or SentenceTransformer (moka-ai/m3e-base for local)
+- **Additional Chat Support**: OpenAI (GPT-4, GPT-4o), Anthropic Claude, local models (Ollama, LM Studio)
+- **Additional Embedding Support**: DeepSeek (deepseek-embeddings), OpenAI, SentenceTransformer, local models
 - **Provider Selection**: Configurable via environment variables and per-request settings
 
 **API Endpoints** (Base URL: `/api/v1`):
@@ -743,8 +745,8 @@ interface Intent {
 ### AI Provider Configuration
 
 ```python
-# AI Provider Configuration (environment variables)
-AI_DEFAULT_PROVIDER="deepseek"  # Default provider
+# Chat AI Provider Configuration (environment variables)
+CHAT_AI_DEFAULT_PROVIDER="deepseek"  # Default chat provider
 AI_DEEPSEEK_API_KEY="your_deepseek_key"
 AI_DEEPSEEK_MODEL="deepseek-chat"
 AI_OPENAI_API_KEY="your_openai_key"  # Optional
@@ -753,6 +755,21 @@ AI_ANTHROPIC_API_KEY="your_anthropic_key"  # Optional
 AI_ANTHROPIC_MODEL="claude-3-5-sonnet-20241022"  # Optional
 AI_LOCAL_BASE_URL="http://localhost:11434"  # For Ollama, optional
 AI_LOCAL_MODEL="llama3.2"  # For local models, optional
+
+# Embedding AI Provider Configuration (environment variables)
+EMBEDDING_AI_DEFAULT_PROVIDER="openai"  # Default embedding provider
+# DeepSeek embeddings
+EMBEDDING_DEEPSEEK_MODEL="deepseek-embeddings"
+EMBEDDING_DEEPSEEK_DIMENSION=1024
+# OpenAI embeddings
+EMBEDDING_OPENAI_MODEL="text-embedding-3-small"
+EMBEDDING_OPENAI_DIMENSION=1536
+# SentenceTransformer (local models)
+EMBEDDING_SENTENCETRANSFORMER_MODEL="moka-ai/m3e-base"
+EMBEDDING_SENTENCETRANSFORMER_DIMENSION=768
+# Local embeddings (Ollama, LM Studio)
+EMBEDDING_LOCAL_MODEL="nomic-embed-text"
+EMBEDDING_LOCAL_DIMENSION=768
 ```
 
 ### Provider-Agentic Interface
@@ -768,15 +785,21 @@ class AIProvider(Protocol):
         """Generate embedding for vector search"""
         pass
 
-# Concrete implementations for each provider
+# Concrete implementations for each chat provider
 class DeepSeekProvider(AIProvider): ...
 class OpenAIProvider(AIProvider): ...
 class AnthropicProvider(AIProvider): ...
 class LocalProvider(AIProvider): ...
 
-# Provider factory
+# Concrete implementations for each embedding provider
+class DeepSeekEmbeddingProvider: ...
+class OpenAIEmbeddingProvider: ...
+class SentenceTransformerEmbeddingProvider: ...
+class LocalEmbeddingProvider: ...
+
+# Chat provider factory
 def get_provider(provider_name: str) -> AIProvider:
-    """Get AI provider instance by name"""
+    """Get AI chat provider instance by name"""
     providers = {
         'deepseek': DeepSeekProvider,
         'openai': OpenAIProvider,
@@ -784,6 +807,24 @@ def get_provider(provider_name: str) -> AIProvider:
         'local': LocalProvider,
     }
     return providers[provider_name]()
+
+# Embedding provider factory
+def get_embedding_provider(provider_name: str = None) -> EmbeddingProvider:
+    """Get embedding provider instance by name"""
+    if provider_name is None:
+        provider_name = settings.EMBEDDING_AI_DEFAULT_PROVIDER
+    providers = {
+        'deepseek': DeepSeekEmbeddingProvider,
+        'openai': OpenAIEmbeddingProvider,
+        'sentencetransformer': SentenceTransformerEmbeddingProvider,
+        'local': LocalEmbeddingProvider,
+    }
+    return providers[provider_name]()
+
+# Get embedding dimension for a provider
+def get_embedding_dimension(provider_name: str = None) -> int:
+    """Get the dimension of embedding vectors for a provider"""
+    ...
 ```
 
 ## Security Implementation

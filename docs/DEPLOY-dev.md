@@ -122,17 +122,32 @@ JWT_SECRET=dev_secret_change_in_production
 JWT_ACCESS_TOKEN_EXPIRE_MINUTES=30
 JWT_REFRESH_TOKEN_EXPIRE_DAYS=7
 
-# AI Provider
-AI_DEFAULT_PROVIDER=deepseek
+# Chat AI Provider
+CHAT_AI_DEFAULT_PROVIDER=deepseek
 
-# DeepSeek (Required - Add your key here!)
+# DeepSeek Chat (Required - Add your key here!)
 AI_DEEPSEEK_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-# OpenAI (Optional)
+# OpenAI Chat (Optional)
 # AI_OPENAI_API_KEY=sk-...
 
-# Anthropic (Optional)
+# Anthropic Chat (Optional)
 # AI_ANTHROPIC_API_KEY=sk-ant-...
+
+# Embedding AI Provider
+EMBEDDING_AI_DEFAULT_PROVIDER=openai
+
+# DeepSeek Embeddings
+EMBEDDING_DEEPSEEK_MODEL=deepseek-embeddings
+EMBEDDING_DEEPSEEK_DIMENSION=1024
+
+# OpenAI Embeddings
+EMBEDDING_OPENAI_MODEL=text-embedding-3-small
+EMBEDDING_OPENAI_DIMENSION=1536
+
+# SentenceTransformer Embeddings (Local models)
+EMBEDDING_SENTENCETRANSFORMER_MODEL=moka-ai/m3e-base
+EMBEDDING_SENTENCETRANSFORMER_DIMENSION=768
 
 # =============================================================================
 # Frontend Configuration

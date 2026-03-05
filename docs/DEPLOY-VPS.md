@@ -119,7 +119,10 @@ nano .env
 
 4. **AI_DEEPSEEK_API_KEY** - Add your DeepSeek API key
 
-5. **DOMAIN** - Your actual domain name (e.g., `simplingua.mahanzhou.com`)
+5. **CHAT_AI_DEFAULT_PROVIDER** - Default chat AI provider (deepseek|openai|anthropic|local)
+6. **EMBEDDING_AI_DEFAULT_PROVIDER** - Default embedding AI provider (deepseek|openai|sentencetransformer|local)
+
+7. **DOMAIN** - Your actual domain name (e.g., `simplingua.mahanzhou.com`)
 
 6. **SSL_EMAIL** - Your email for Let's Encrypt
 
