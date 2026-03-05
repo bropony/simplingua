@@ -4,7 +4,7 @@ Generate embeddings for semantic search using various AI providers
 """
 
 import asyncio
-from typing import List, Optional, Union
+from typing import List, Optional, Union, Dict
 from abc import ABC, abstractmethod
 
 from openai import AsyncOpenAI
@@ -15,12 +15,15 @@ try:
     SENTENCE_TRANSFORMERS_AVAILABLE = True
 except ImportError:
     SENTENCE_TRANSFORMERS_AVAILABLE = False
-
-import numpy as np
+    STModel = None
 
 from app.config import get_settings
 
 settings = get_settings()
+
+# Module-level model cache for SentenceTransformer (to avoid loading same model multiple times)
+# Key: model_name, Value: SentenceTransformer model instance
+_sentence_transformer_model_cache: Dict[str, object] = {}
 
 
 class EmbeddingProvider(ABC):
@@ -110,14 +113,19 @@ class SentenceTransformerEmbeddingProvider(EmbeddingProvider):
             )
         self.model_name = model or settings.EMBEDDING_SENTENCETRANSFORMER_MODEL
         self.dimension = dimension or settings.EMBEDDING_SENTENCETRANSFORMER_DIMENSION
-        # Lazy load the model on first use
-        self._model = None
 
     def _load_model(self):
-        """Load the model lazily"""
-        if self._model is None:
-            self._model = STModel(self.model_name)
-        return self._model
+        """Load model with module-level caching"""
+        model_name = self.model_name
+
+        # Check module-level cache first
+        if model_name in _sentence_transformer_model_cache:
+            return _sentence_transformer_model_cache[model_name]
+
+        # Load and cache the model
+        model = STModel(model_name)
+        _sentence_transformer_model_cache[model_name] = model
+        return model
 
     async def embed(self, text: str) -> List[float]:
         """Generate embedding for a single text (runs in thread pool)"""
