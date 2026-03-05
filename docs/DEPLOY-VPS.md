@@ -124,17 +124,19 @@ nano .env
 
 7. **DOMAIN** - Your actual domain name (e.g., `simplingua.mahanzhou.com`)
 
-6. **SSL_EMAIL** - Your email for Let's Encrypt
+8. **SSL_EMAIL** - Your email for Let's Encrypt
 
-7. **NEXT_PUBLIC_API_URL** - Must match your domain:
+9. **NEXT_PUBLIC_API_URL** - Must match your domain:
    ```bash
    NEXT_PUBLIC_API_URL=https://simplingua.mahanzhou.com
    ```
 
-8. **CORS_ORIGINS** - Your domain:
-   ```bash
-   CORS_ORIGINS=https://simplingua.mahanzhou.com,https://www.simplingua.mahanzhou.com
-   ```
+10. **CORS_ORIGINS** - Your domain:
+    ```bash
+    CORS_ORIGINS=https://simplingua.mahanzhou.com
+    ```
+
+**Note:** The `.env` file at project root is loaded by the systemd backend service via `EnvironmentFile` directive. Ensure the file permissions are secure: `chmod 600 .env`
 
 ### Step 4: Deploy Backend (FastAPI with Python venv)
 
@@ -152,11 +154,7 @@ source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
-# Run database migrations
-alembic upgrade head
-
-# Create initial admin user (optional)
-python scripts/create_admin_user.py
+# Note: Database tables are created automatically on first startup via init_db()
 
 # Deactivate virtual environment
 deactivate
@@ -184,7 +182,8 @@ Type=notify
 User=root
 WorkingDirectory=/root/simplingua/backend
 Environment="PATH=/root/simplingua/backend/venv/bin"
-ExecStart=/root/simplingua/backend/venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000 --workers 2
+EnvironmentFile=/root/simplingua/.env
+ExecStart=/root/simplingua/backend/venv/bin/uvicorn app:app --host 127.0.0.1 --port 8000 --workers 2
 ExecReload=/bin/kill -s HUP $MAINPID
 Restart=always
 RestartSec=10
@@ -305,14 +304,13 @@ sudo chmod 755 /var/www/certbot
 
 ```bash
 # Method 1: Using certbot with nginx plugin (recommended)
-sudo certbot --nginx -d simplingua.mahanzhou.com -d www.simplingua.mahanzhou.com
+sudo certbot --nginx -d simplingua.mahanzhou.com
 
 # Method 2: Standalone method (if nginx not yet running)
 sudo certbot certonly --standalone \
   --agree-tos \
   --email your@email.com \
-  -d simplingua.mahanzhou.com \
-  -d www.simplingua.mahanzhou.com
+  -d simplingua.mahanzhou.com
 
 # Copy certificates to nginx ssl directory
 sudo cp /etc/letsencrypt/live/simplingua.mahanzhou.com/fullchain.pem /etc/nginx/ssl/
@@ -423,7 +421,7 @@ cd /root/simplingua/backend
 source venv/bin/activate
 
 # Run commands
-uvicorn app.main:app --reload
+uvicorn app:app --reload
 
 # Deactivate
 deactivate
@@ -629,11 +627,8 @@ sudo systemctl restart simplingua-frontend
 # Verify after restart
 curl https://simplingua.mahanzhou.com/health
 
-# Run database migrations (if any updates)
-cd /root/simplingua/backend
-source venv/bin/activate
-alembic upgrade head
-deactivate
+# Note: Database tables are created automatically on startup via init_db()
+# No manual migrations needed
 sudo systemctl restart simplingua-backend
 ```
 
@@ -742,8 +737,7 @@ tar -czf /backup/source_$(date +%Y-%m-%d).tar.gz /root/simplingua
    sudo certbot certonly --nginx \
      --agree-tos \
      --email your@email.com \
-     -d simplingua.mahanzhou.com \
-     -d www.simplingua.mahanzhou.com
+     -d simplingua.mahanzhou.com
 
    # Copy new certificates
    sudo cp /etc/letsencrypt/live/simplingua.mahanzhou.com/fullchain.pem /etc/nginx/ssl/
@@ -815,7 +809,7 @@ tar -czf /backup/source_$(date +%Y-%m-%d).tar.gz /root/simplingua
    Edit `/etc/systemd/system/simplingua-backend.service`:
    ```ini
    # Reduce workers if low RAM
-   ExecStart=/root/simplingua/backend/venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000 --workers 1
+   ExecStart=/root/simplingua/backend/venv/bin/uvicorn app:app --host 127.0.0.1 --port 8000 --workers 1
    ```
 
    Then:
@@ -907,7 +901,7 @@ tar -czf /backup/source_$(date +%Y-%m-%d).tar.gz /root/simplingua
    ```bash
    cd /root/simplingua/backend
    source venv/bin/activate
-   uvicorn app.main:app --host 127.0.0.1 --port 8000
+   uvicorn app:app --host 127.0.0.1 --port 8000
    ```
 
 4. **Check port availability**
@@ -1104,9 +1098,8 @@ cd /root/simplingua/backend
 source venv/bin/activate
 
 # Run commands
-python -m app.main  # Start server
-alembic upgrade head  # Run migrations
-alembic revision --autogenerate -m "message"  # Create migration
+uvicorn app:app --reload  # Start development server
+# Note: Database tables are created automatically on startup via init_db()
 
 # Deactivate
 deactivate
