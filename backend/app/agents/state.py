@@ -4,7 +4,7 @@ State management for AI chat workflow
 """
 
 from typing import TypedDict, List, Optional, Annotated
-from langgraph.graph import add_edge, StateGraph, END
+from langgraph.graph import StateGraph, END
 from operator import itemgetter
 
 
