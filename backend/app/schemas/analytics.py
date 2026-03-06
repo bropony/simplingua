@@ -13,7 +13,7 @@ class AnalyticsEventResponse(BaseModel):
     user_id: Optional[str] = None
     event_type: str
     page: str
-    metadata: Optional[dict] = None
+    event_metadata: Optional[dict] = None
     timestamp: str
 
 
@@ -21,7 +21,7 @@ class AnalyticsEventCreate(BaseModel):
     """Create analytics event request"""
     event_type: str
     page: str
-    metadata: Optional[dict] = None
+    event_metadata: Optional[dict] = None
 
 
 class AnalyticsSummary(BaseModel):

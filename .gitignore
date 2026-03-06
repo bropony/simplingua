@@ -1,3 +1,4 @@
 ﻿toolkit/__pycache__
 .claude
 data
+backend/**/__pycache__
