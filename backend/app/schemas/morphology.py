@@ -18,7 +18,7 @@ class Affix(BaseModel):
     """Morphological affix"""
     id: Optional[str] = None
     affix: str
-    type: str = Field(..., regex="^(prefix|suffix|infix)$")
+    type: str = Field(..., pattern="^(prefix|suffix|infix)$")
     category: Optional[str] = None
     meaning: Optional[str] = None
     produces_pos: Optional[str] = None

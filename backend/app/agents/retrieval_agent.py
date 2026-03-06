@@ -6,6 +6,8 @@ Queries knowledge base for relevant context
 from typing import List, Dict, Any
 from sqlalchemy.orm import Session
 
+from fastapi import Depends
+
 from app.core.database import get_db
 from app.models.word import Word
 from app.models.grammar import Grammar

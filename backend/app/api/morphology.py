@@ -20,7 +20,7 @@ router = APIRouter(prefix="/api/v1/morphology", tags=["morphology"])
 
 @router.get("/affixes", response_model=AffixesResponse)
 async def get_affixes(
-    type: str = Query(..., regex="^(prefix|suffix|infix)$"),
+    type: str = Query(..., pattern="^(prefix|suffix|infix)$"),
     category: str = None,
     db: Session = Depends(get_db)
 ):

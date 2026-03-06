@@ -43,7 +43,7 @@ router = APIRouter(prefix="/api/v1/wiki", tags=["wiki"])
 @router.get("/search", response_model=WikiSearchResponse)
 async def search_wiki(
     query: str = Query(..., min_length=1),
-    type: Optional[str] = Query(None, regex="^(word|grammar|textbook)?$"),
+    type: Optional[str] = Query(None, pattern="^(word|grammar|textbook)?$"),
     lang: str = "en",
     limit: int = Query(20, ge=1, le=100),
     offset: int = Query(0, ge=0),
