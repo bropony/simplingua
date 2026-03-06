@@ -4,7 +4,7 @@ Pydantic models for Valva forum requests and responses
 """
 
 from datetime import datetime
-from typing import List, Optional
+from typing import List, Optional, Dict
 
 from pydantic import BaseModel, EmailStr, Field
 

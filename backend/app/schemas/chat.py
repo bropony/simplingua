@@ -3,7 +3,7 @@ Chat Schemas
 Pydantic models for AI chat requests and responses
 """
 
-from typing import Optional, Dict, Any
+from typing import Optional, Dict, Any, List
 
 from pydantic import BaseModel, Field
 
