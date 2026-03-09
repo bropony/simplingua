@@ -4,10 +4,11 @@ AI chat interface with Server-Sent Events streaming
 """
 
 import json
+import json
 from datetime import datetime
 from typing import AsyncGenerator, Optional
 
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Query
 from fastapi.responses import StreamingResponse
 from sqlalchemy.orm import Session
 
@@ -89,6 +90,38 @@ async def generate_chat_response(
             timestamp=datetime.utcnow().isoformat()
         )
         yield f"data: {error_event.model_dump_json()}\n\n"
+
+
+@router.get("/message")
+async def chat_message_get(
+    message: str = Query(..., min_length=1),
+    context: str = Query(default="{}"),
+    db: Session = Depends(get_db)
+):
+    """SSE streaming endpoint for EventSource compatibility - GET with message as query param"""
+    try:
+        context_dict = json.loads(context) if context else {}
+    except:
+        context_dict = {}
+
+    async def event_generator():
+        async for chunk in generate_chat_response(
+            message,
+            ChatContext(**context_dict),
+            db
+        ):
+            yield chunk
+
+    return StreamingResponse(
+        event_generator(),
+        media_type="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no",
+            "Allow": "POST, GET",
+        }
+    )
 
 
 @router.post("/message")

@@ -27,7 +27,7 @@ export default function ChatPage() {
     }
   };
 
-  const connectChat = async () => {
+  const connectChat = async (message: string) => {
     if (isConnected || eventSourceRef.current) return;
 
     cleanupEventSource();
@@ -109,8 +109,8 @@ export default function ChatPage() {
     setMessages((prev) => [...prev, userMessage]);
     const currentMessages = [...messages, userMessage];
 
-    // Connect SSE and send message
-    connectChat();
+    // Connect SSE with message via GET (EventSource compatibility)
+    connectChat(input);
 
     // Reset input
     setInput("");
