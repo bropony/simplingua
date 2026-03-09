@@ -72,10 +72,18 @@ async def register(user_create: UserCreate, db: Session = Depends(get_db)):
         )
 
     # Create new user
+    try:
+        password_hash = get_password_hash(user_create.password)
+    except ValueError as e:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=str(e)
+        )
+
     user = User(
         username=user_create.username,
         email=user_create.email,
-        password_hash=get_password_hash(user_create.password),
+        password_hash=password_hash,
         preferred_language=user_create.preferred_language,
         role="user",
         status="active"
@@ -117,7 +125,15 @@ async def login(user_login: UserLogin, db: Session = Depends(get_db)):
             detail="Incorrect username or password"
         )
 
-    if not verify_password(user_login.password, user.password_hash):
+    try:
+        password_valid = verify_password(user_login.password, user.password_hash)
+    except ValueError as e:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=str(e)
+        )
+
+    if not password_valid:
         raise HTTPException(
             status_code=status.HTTP_401_UNAUTHORIZED,
             detail="Incorrect username or password"

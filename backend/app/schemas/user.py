@@ -9,6 +9,13 @@ from typing import Optional
 from pydantic import BaseModel, EmailStr, Field
 
 
+def validate_password_length(value: str) -> str:
+    """Validate password length for bcrypt compatibility"""
+    if len(value.encode('utf-8')) > 72:
+        raise ValueError("Password cannot exceed 72 bytes (≈72 ASCII characters)")
+    return value
+
+
 class UserBase(BaseModel):
     """Base user model"""
     username: str = Field(..., min_length=3, max_length=50)
@@ -17,14 +24,14 @@ class UserBase(BaseModel):
 
 class UserCreate(UserBase):
     """User registration model"""
-    password: str = Field(..., min_length=8)
+    password: str = Field(..., min_length=8, max_length=72)
     preferred_language: str = "en"
 
 
 class UserLogin(BaseModel):
     """User login model"""
     username: str
-    password: str
+    password: str = Field(..., max_length=72)
 
 
 class UserUpdate(BaseModel):
