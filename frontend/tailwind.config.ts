@@ -23,6 +23,7 @@ const config: Config = {
       sans: ["Inter", "system-ui", "sans-serif"],
       mono: ["Fira Code", "monospace"],
     },
+    },
   },
   plugins: [require("tailwindcss-animate")],
 };

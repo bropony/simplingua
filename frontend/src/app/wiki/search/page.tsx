@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import wikiApi from "@/lib/api";
+import { wikiApi } from "@/lib/api";
 import Card from "@/components/ui/Card";
 import Button from "@/components/ui/Button";
 

@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import authApi from "@/lib/api";
+import { authApi } from "@/lib/api";
 import { setTokens } from "@/lib/auth";
 import type { RegisterData } from "@/types";
 import Input from "@/components/ui/Input";

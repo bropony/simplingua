@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import wikiApi from "@/lib/api";
+import { wikiApi } from "@/lib/api";
 import Card from "@/components/ui/Card";
 import Button from "@/components/ui/Button";
 
@@ -79,7 +79,7 @@ export default function GrammarPage() {
       if (selectedSection) params.section_id = selectedSection;
       if (selectedLevel) params.level = selectedLevel;
 
-      const data = await wikiApi.getGrammarRules(params);
+      const data = await wikiApi.searchGrammar(params);
       setRules(data.results || []);
     } catch (error) {
       console.error("Failed to load grammar rules:", error);

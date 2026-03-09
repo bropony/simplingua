@@ -1,9 +1,10 @@
+"use client";
+
 import Link from "next/link";
-import { useRouter } from "next/navigation";
+import { usePathname } from "next/navigation";
 
 export default function Header() {
-  const router = useRouter();
-  const pathname = router.pathname;
+  const pathname = usePathname();
 
   return (
     <header className="bg-white shadow-md sticky top-0 z-50">

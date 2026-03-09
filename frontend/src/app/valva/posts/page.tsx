@@ -1,7 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import forumApi from "@/lib/api";
+import { forumApi } from "@/lib/api";
+import { getAccessToken } from "@/lib/auth";
 import Card from "@/components/ui/Card";
 import Button from "@/components/ui/Button";
 
@@ -33,7 +34,12 @@ export default function ForumPostsPage() {
 
   const handleVote = async (postId: string, voteType: string) => {
     try {
-      await forumApi.voteOnPost(postId, voteType);
+      const token = getAccessToken();
+      if (!token) {
+        alert("Please log in to vote");
+        return;
+      }
+      await forumApi.voteOnPost(postId, voteType, token);
       loadPosts(); // Reload to update scores
     } catch (error) {
       console.error("Failed to vote:", error);
@@ -42,7 +48,12 @@ export default function ForumPostsPage() {
 
   const handleFlag = async (postId: string) => {
     try {
-      await forumApi.flagPost(postId);
+      const token = getAccessToken();
+      if (!token) {
+        alert("Please log in to flag posts");
+        return;
+      }
+      await forumApi.flagPost(postId, token);
       alert("Post flagged for moderation");
     } catch (error) {
       console.error("Failed to flag post:", error);

@@ -1,8 +1,8 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import chatApi from "@/lib/api";
-import { getAuthHeader } from "@/lib/auth";
+import { chatApi } from "@/lib/api";
+import { getAccessToken } from "@/lib/auth";
 import Card from "@/components/ui/Card";
 import type { ChatEvent, ChatEventType, ChatMessage } from "@/types";
 
@@ -33,12 +33,12 @@ export default function ChatPage() {
     cleanupEventSource();
 
     try {
-      const eventSource = new EventSource(
-        `${process.env.NEXT_PUBLIC_API_URL}/api/v1/chat/message`,
-        {
-          ...getAuthHeader() || {},
-        }
-      );
+      const token = getAccessToken();
+      const url = token
+        ? `${process.env.NEXT_PUBLIC_API_URL}/api/v1/chat/message?token=${encodeURIComponent(token)}`
+        : `${process.env.NEXT_PUBLIC_API_URL}/api/v1/chat/message`;
+
+      const eventSource = new EventSource(url);
 
       eventSource.onopen = () => {
         setIsConnected(true);

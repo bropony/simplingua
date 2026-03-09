@@ -178,7 +178,7 @@ Description=Simplingua Backend API
 After=network.target postgresql.service
 
 [Service]
-Type=notify
+Type=simple
 User=root
 WorkingDirectory=/root/simplingua/backend
 Environment="PATH=/root/simplingua/backend/venv/bin"
