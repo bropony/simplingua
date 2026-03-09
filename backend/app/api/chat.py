@@ -100,8 +100,19 @@ async def chat_message_get(
 ):
     """SSE streaming endpoint for EventSource compatibility - GET with message as query param"""
     try:
-        context_dict = json.loads(context) if context else {}
-    except:
+        # Try to parse context as JSON object
+        context_dict = {}
+        if context:
+            try:
+                context_dict = json.loads(context)
+            except (json.JSONDecodeError, TypeError):
+                # If JSON parsing fails, use raw string
+                context_dict = {"raw": context}
+    except Exception as e:
+        # Log and handle unexpected errors
+        import logging
+        logger = logging.getLogger(__name__)
+        logger.error(f"Error parsing context: {e}")
         context_dict = {}
 
     async def event_generator():
