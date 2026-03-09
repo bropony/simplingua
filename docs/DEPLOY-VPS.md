@@ -222,6 +222,13 @@ cd frontend
 # Install dependencies
 npm install
 
+# Configure environment variables (IMPORTANT for production)
+cp .env.example .env
+nano .env
+
+# Update NEXT_PUBLIC_API_URL to your production domain:
+# NEXT_PUBLIC_API_URL=https://simplingua.mahanzhou.com
+
 # Build production bundle
 npm run build
 
@@ -229,6 +236,10 @@ npm run build
 npm start
 
 # Note: Press Ctrl+C to stop, we'll set up systemd service next
+```
+
+**IMPORTANT:** The frontend default API URL is `http://localhost:8000`. In production, you MUST set `NEXT_PUBLIC_API_URL=https://your-domain.com` in the frontend `.env` file. This ensures API calls from the browser use the correct public domain instead of localhost.
+
 ```
 
 ### Step 7: Create Frontend Systemd Service
@@ -278,26 +289,255 @@ sudo tail -f /var/log/simplingua/frontend.log
 ### Step 8: Configure Nginx
 
 ```bash
-# Copy nginx configuration (already created for VPS without Docker)
-sudo cp nginx/nginx-vps.conf /etc/nginx/nginx.conf
-
-# Update domain if needed (already set to simplingua.mahanzhou.com)
-sudo nano /etc/nginx/nginx.conf
-
-# Test nginx configuration
-sudo nginx -t
-
-# Create required directories
+# Create required directories first
 sudo mkdir -p /var/cache/nginx
 sudo mkdir -p /var/www/certbot
 sudo mkdir -p /var/www/admin-static
-
-# Create SSL directory
 sudo mkdir -p /etc/nginx/ssl
 
 # Set permissions
 sudo chmod 755 /var/cache/nginx
 sudo chmod 755 /var/www/certbot
+
+# Create upstream configuration (for backend/frontend services)
+sudo tee /etc/nginx/conf.d/upstream.conf > /dev/null <<EOF
+# Upstream servers (systemd services on localhost)
+upstream frontend {
+    server 127.0.0.1:3000;
+    keepalive 64;
+}
+
+upstream backend {
+    server 127.0.0.1:8000;
+    keepalive 64;
+}
+EOF
+
+# Create cache and rate limiting configuration
+sudo tee /etc/nginx/conf.d/cache.conf > /dev/null <<EOF
+# Rate limiting zones
+limit_req_zone $binary_remote_addr zone=one:10m rate=10r/s;
+
+# Cache paths
+proxy_cache_path /var/cache/nginx levels=1:2 keys_zone=simplingua_cache:10m inactive=60m use_temp_path=off;
+EOF
+
+# Create site configuration (HTTP and HTTPS server blocks)
+sudo tee /etc/nginx/sites-available/simplingua > /dev/null <<'EOFSERVER'
+# HTTP server - Redirect all to HTTPS
+server {
+    listen 80;
+    server_name simplingua.mahanzhou.com;
+
+    # ACME challenge for Let's Encrypt
+    location /.well-known/acme-challenge/ {
+        root /var/www/certbot;
+        try_files $uri =404;
+    }
+
+    # Redirect all other traffic to HTTPS
+    location / {
+        return 301 https://$server_name$request_uri;
+    }
+}
+
+# HTTPS server
+server {
+    listen 443 ssl http2;
+    server_name simplingua.mahanzhou.com;
+
+    # SSL certificates (Let's Encrypt or custom)
+    ssl_certificate /etc/nginx/ssl/fullchain.pem;
+    ssl_certificate_key /etc/nginx/ssl/privkey.pem;
+
+    # SSL configuration
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_ciphers 'ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-RSA-AES256-GCM-SHA384:DHE-RSA-AES256-GCM-SHA256:DHE-RSA-AES128-GCM-SHA256:kEDH+AESGCM+AES256:RSA+AESGCM+AES256:RSA+3DES';
+    ssl_prefer_server_ciphers on;
+    ssl_session_cache shared:SSL:10m;
+    ssl_session_timeout 10m;
+
+    # Security headers
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains" always;
+    add_header X-Frame-Options "SAMEORIGIN" always;
+    add_header X-Content-Type-Options "nosniff" always;
+    add_header X-XSS-Protection "1; mode=block" always;
+    add_header Referrer-Policy "strict-origin-when-cross-origin" always;
+
+    # Root endpoint - Proxy to Next.js frontend
+    location / {
+        # Rate limiting: 100 requests per minute per IP
+        limit_req zone=one burst=20 nodelay;
+        limit_req_status 429;
+
+        # Security: Deny access to sensitive files
+        location ~* /(?:\.git|\.env|\.htaccess|\.htpasswd|\.pyc)$ {
+            deny all;
+            return 403;
+        }
+
+        # Proxy to frontend (localhost:3000)
+        proxy_pass http://frontend;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_cache_bypass $http_upgrade;
+        proxy_read_timeout 60s;
+        proxy_send_timeout 60s;
+        proxy_connect_timeout 60s;
+
+        # Next.js static files (cache these)
+        location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|eot)$ {
+            proxy_pass http://frontend;
+            proxy_cache_valid 200 1d;
+            proxy_cache_revalidate on;
+            proxy_cache_bypass $http_pragma;
+        }
+    }
+
+    # Backend API endpoints
+    location /api/ {
+        # Rate limiting: 100 requests per minute per IP
+        limit_req zone=one burst=20 nodelay;
+        limit_req_status 429;
+
+        # Security: Deny common attack patterns
+        if ($args ~* "\.\./") {
+            return 403;
+        }
+
+        # Proxy to backend (localhost:8000)
+        proxy_pass http://backend;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_cache_bypass $http_upgrade;
+        proxy_read_timeout 60s;
+        proxy_send_timeout 60s;
+        proxy_connect_timeout 60s;
+
+        # Don't cache API responses
+        proxy_no_cache 1;
+        add_header Cache-Control "no-cache, no-store, must-revalidate" always;
+    }
+
+    # WebSocket/SSE streaming endpoint for chat
+    location /api/chat/stream {
+        # Rate limiting: 30 requests per minute per IP
+        limit_req zone=one burst=10 nodelay;
+        limit_req_status 429;
+
+        # WebSocket upgrade headers
+        proxy_pass http://backend;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_read_timeout 86400s;  # 24 hours for long chat sessions
+        proxy_send_timeout 86400s;
+        proxy_connect_timeout 86400s;
+
+        # No caching for streaming
+        proxy_no_cache 1;
+        add_header Cache-Control "no-cache, no-store, must-revalidate" always;
+    }
+
+    # Health check endpoint (no caching, no rate limit)
+    location /health {
+        proxy_pass http://backend;
+        proxy_no_cache 1;
+        access_log off;
+    }
+
+    # API documentation (no auth required, cache for 1 hour)
+    location /docs {
+        limit_req zone=one burst=50 nodelay;
+
+        proxy_pass http://backend;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+
+        # Cache API docs
+        proxy_cache simplingua_cache;
+        proxy_cache_valid 200 1h;
+        proxy_cache_revalidate on;
+    }
+
+    # Redoc endpoint (no auth required, cache for 1 hour)
+    location /redoc {
+        limit_req zone=one burst=50 nodelay;
+
+        proxy_pass http://backend;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+
+        # Cache API redoc
+        proxy_cache simplingua_cache;
+        proxy_cache_valid 200 1h;
+        proxy_cache_revalidate on;
+    }
+
+    # Static assets for admin (if needed in future)
+    location /admin-static/ {
+        alias /var/www/admin-static/;
+        expires 1y;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Favicon
+    location = /favicon.ico {
+        access_log off;
+        log_not_found off;
+        return 204;
+    }
+
+    # Robots.txt
+    location = /robots.txt {
+        access_log off;
+        log_not_found off;
+        return 200 "User-agent: *\nDisallow: /admin/\nDisallow: /api/\nAllow: /";
+    }
+}
+
+# Backend status monitoring page (optional, localhost only)
+server {
+    listen 127.0.0.1:8080;
+    server_name localhost;
+
+    location /nginx_status {
+        stub_status;
+        access_log off;
+        allow 127.0.0.1;
+        deny all;
+    }
+}
+EOFSERVER
+
+# Enable the site
+sudo ln -s /etc/nginx/sites-available/simplingua /etc/nginx/sites-enabled/simplingua
+
+# Remove the default site
+sudo rm -f /etc/nginx/sites-enabled/default
+
+# Update domain if needed
+sudo nano /etc/nginx/sites-available/simplingua
+
+# Test nginx configuration
+sudo nginx -t
+
+# If test passes, reload nginx
+sudo systemctl reload nginx
 ```
 
 ### Step 9: Obtain SSL Certificate (Let's Encrypt)
@@ -1174,6 +1414,7 @@ du -sh /var/cache/nginx
 - [ ] PostgreSQL database and user created
 - [ ] pgvector extension enabled
 - [ ] `.env` file configured with production values
+- [ ] Frontend `.env` configured with NEXT_PUBLIC_API_URL (IMPORTANT)
 - [ ] Backend Python venv created and dependencies installed
 - [ ] Database migrations run
 - [ ] Frontend built (npm run build)
@@ -1195,13 +1436,14 @@ du -sh /var/cache/nginx
 - [ ] Create PostgreSQL database and user
 - [ ] Enable pgvector extension
 - [ ] Configure environment variables (.env file)
+- [ ] Configure frontend .env with NEXT_PUBLIC_API_URL
 - [ ] Create and configure Python venv for backend
 - [ ] Install backend dependencies
 - [ ] Run database migrations
 - [ ] Build frontend (npm run build)
 - [ ] Create backend systemd service
 - [ ] Create frontend systemd service
-- [ ] Configure Nginx (copy nginx-vps.conf)
+- [ ] Configure Nginx (create upstream.conf, cache.conf, and simplingua site config)
 - [ ] Obtain SSL certificates (Let's Encrypt)
 - [ ] Start all services (backend, frontend, nginx, postgresql)
 - [ ] Verify all services are running
