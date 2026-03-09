@@ -77,7 +77,7 @@ async def register(user_create: UserCreate, db: Session = Depends(get_db)):
     except ValueError as e:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
-            detail=str(e)
+            detail=f"Password validation error: {str(e)}"
         )
 
     user = User(
@@ -130,7 +130,7 @@ async def login(user_login: UserLogin, db: Session = Depends(get_db)):
     except ValueError as e:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
-            detail=str(e)
+            detail=f"Password validation error: {str(e)}"
         )
 
     if not password_valid:
