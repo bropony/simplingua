@@ -1,0 +1,43 @@
+version: "3.8"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: simplingua-app
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - MONGODB_URI=mongodb://mongo:27017/simplingua
+      - JWT_SECRET=${JWT_SECRET}
+      - ADMIN_ACCOUNTS=${ADMIN_ACCOUNTS:-admin:admin123}
+    depends_on:
+      mongo:
+        condition: service_healthy
+    networks:
+      - simplingua
+
+  mongo:
+    image: mongo:7
+    container_name: simplingua-mongo
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh --quiet
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - simplingua
+
+volumes:
+  mongo_data:
+
+networks:
+  simplingua:
+    driver: bridge
