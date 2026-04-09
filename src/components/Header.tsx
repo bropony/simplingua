@@ -70,13 +70,13 @@ export default function Header() {
                 href="/vocabulary"
                 className="text-white/70 hover:text-white transition-colors"
               >
-                词汇表
+                词汇
               </Link>
               <Link
                 href="/grammar"
                 className="text-white/70 hover:text-white transition-colors"
               >
-                语法书
+                语法
               </Link>
               <Link
                 href="/discussions"
@@ -162,14 +162,14 @@ export default function Header() {
               onClick={() => setMobileNavOpen(false)}
               className="block px-3 py-2 text-sm text-white/70 hover:text-white hover:bg-white/10 rounded-md transition-colors"
             >
-              词汇表
+              词汇
             </Link>
             <Link
               href="/grammar"
               onClick={() => setMobileNavOpen(false)}
               className="block px-3 py-2 text-sm text-white/70 hover:text-white hover:bg-white/10 rounded-md transition-colors"
             >
-              语法书
+              语法
             </Link>
             <Link
               href="/discussions"
