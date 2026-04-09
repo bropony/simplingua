@@ -156,7 +156,7 @@ export default function Header() {
             className="fixed inset-0 bg-black/20 sm:hidden"
             onClick={() => setMobileNavOpen(false)}
           />
-          <nav className="sm:hidden bg-[#001a4d] border-t border-[#002d7a] px-4 py-3 space-y-1">
+          <nav className="sm:hidden relative z-10 bg-[#001a4d] border-t border-[#002d7a] px-4 py-3 space-y-1">
             <Link
               href="/vocabulary"
               onClick={() => setMobileNavOpen(false)}
