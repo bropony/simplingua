@@ -58,3 +58,6 @@ out/
 
 # Generated data
 data/*.json
+
+# Admin credentials
+docs/admin.list

@@ -56,8 +56,8 @@ export const registerSchema = z.object({
 });
 
 export const loginSchema = z.object({
-  email: z.string().min(1, "邮箱和密码为必填项"),
-  password: z.string().min(1, "邮箱和密码为必填项"),
+  account: z.string().min(1, "账号和密码为必填项"),
+  password: z.string().min(1, "账号和密码为必填项"),
 });
 
 export const updateProfileSchema = z.object({

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0B1E4F"/>
+
+  <!-- 六角光芒 -->
+  <g transform="translate(256,256)">
+    <!-- 三个重叠的等边三角形，旋转 0° / 60° / 120° -->
+    <polygon points="0,-120 104,60 -104,60" fill="#4FA3FF" opacity="0.25"/>
+    <polygon points="0,-120 104,60 -104,60" fill="#4FA3FF" opacity="0.25" transform="rotate(60)"/>
+    <polygon points="0,-120 104,60 -104,60" fill="#4FA3FF" opacity="0.25" transform="rotate(120)"/>
+
+    <!-- 中心亮光 -->
+    <circle r="40" fill="white" opacity="0.9"/>
+  </g>
+</svg>
+

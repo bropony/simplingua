@@ -228,11 +228,11 @@ export default function VocabularyPage() {
                     )}
                   </div>
                   <div className="text-sm text-gray-600 dark:text-gray-400 break-words">
-                    {entry.definitions.map((d) => (
-                      <span key={d.number}>
+                    {entry.definitions.map((d, i) => (
+                      <span key={i}>
                         {entry.definitions.length > 1 && `${d.number}. `}
                         {d.meaning}
-                        {d.number < entry.definitions.length ? "；" : ""}
+                        {i < entry.definitions.length - 1 ? "；" : ""}
                       </span>
                     ))}
                   </div>

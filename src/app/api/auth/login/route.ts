@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { ZodError } from "zod";
 import connectDB from "@/lib/db";
 import User from "@/models/User";
-import { verifyPassword, signToken } from "@/lib/auth";
+import { verifyPassword, signToken, parseAdminAccounts } from "@/lib/auth";
 import { loginSchema, formatZodError } from "@/lib/validators";
 
 export async function POST(request: NextRequest) {
@@ -19,13 +19,19 @@ export async function POST(request: NextRequest) {
       if (err instanceof ZodError) return formatZodError(err);
       throw err;
     }
-    const { email, password } = parsed;
+    const { account, password } = parsed;
 
-    const user = await User.findOne({ email: email.toLowerCase() });
+    // Find user by email or username
+    const user = await User.findOne({
+      $or: [
+        { email: account.toLowerCase() },
+        { username: account },
+      ],
+    });
 
     if (!user) {
       return NextResponse.json(
-        { success: false, error: { code: "INVALID_CREDENTIALS", message: "邮箱或密码不正确" } },
+        { success: false, error: { code: "INVALID_CREDENTIALS", message: "账号或密码不正确" } },
         { status: 401 }
       );
     }
@@ -34,9 +40,18 @@ export async function POST(request: NextRequest) {
 
     if (!isValid) {
       return NextResponse.json(
-        { success: false, error: { code: "INVALID_CREDENTIALS", message: "邮箱或密码不正确" } },
+        { success: false, error: { code: "INVALID_CREDENTIALS", message: "账号或密码不正确" } },
         { status: 401 }
       );
+    }
+
+    // Check if this user should have admin role based on ADMIN_ACCOUNTS
+    if (user.role !== "admin") {
+      const adminAccounts = parseAdminAccounts();
+      if (adminAccounts.has(user.username)) {
+        user.role = "admin";
+        await user.save();
+      }
     }
 
     const token = await signToken({ userId: user._id.toString(), role: user.role });

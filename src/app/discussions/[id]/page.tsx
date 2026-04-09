@@ -3,8 +3,18 @@
 import { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import { useParams, useRouter } from "next/navigation";
-import ReactMarkdown from "react-markdown";
-import rehypeSanitize from "rehype-sanitize";
+import { marked } from "marked";
+
+function MarkdownContent({ content }: { content: string }) {
+  const html = marked.parse(content, { async: false }) as string;
+  return (
+    <div
+      className="prose prose-sm max-w-none"
+      dangerouslySetInnerHTML={{ __html: html }}
+    />
+  );
+}
+
 import LoadingSpinner from "@/components/LoadingSpinner";
 import ErrorMessage from "@/components/ErrorMessage";
 
@@ -44,7 +54,7 @@ interface UserInfo {
   username: string;
   displayName?: string;
   role: string;
-  userId: string;
+  id: string;
 }
 
 function CommentTree({
@@ -102,7 +112,7 @@ function CommentTree({
               )}
             </div>
             <div className="text-sm text-gray-700 prose prose-sm max-w-none">
-              <ReactMarkdown rehypePlugins={[rehypeSanitize]}>{comment.content}</ReactMarkdown>
+              <MarkdownContent content={comment.content} />
             </div>
             <div className="flex items-center gap-3 mt-2 text-xs text-gray-400">
               <LikeButton
@@ -266,7 +276,7 @@ export default function DiscussionThreadPage() {
     })
       .then((res) => (res.ok ? res.json() : null))
       .then((data) => {
-        if (data?.success) setUser(data.data);
+        if (data?.success) setUser(data.data.user);
       })
       .catch(() => {});
   }, []);
@@ -404,7 +414,7 @@ export default function DiscussionThreadPage() {
     );
   }
 
-  const isOwner = user && discussion.authorId._id === user.userId;
+  const isOwner = user && discussion.authorId._id === user.id;
   const isAdmin = user?.role === "admin";
 
   return (
@@ -456,7 +466,7 @@ export default function DiscussionThreadPage() {
         </div>
 
         <div className="prose prose-sm max-w-none text-gray-700 dark:text-gray-300 mb-4">
-          <ReactMarkdown rehypePlugins={[rehypeSanitize]}>{discussion.content}</ReactMarkdown>
+          <MarkdownContent content={discussion.content} />
         </div>
 
         <div className="flex items-center justify-between border-t border-gray-100 dark:border-gray-700 pt-3">

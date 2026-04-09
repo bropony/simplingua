@@ -27,3 +27,46 @@
     color: theme("colors.gray.100");
   }
 }
+
+/* ── Simplingua brand theme (#001a4d accent) ── */
+
+.simplingua .bg-blue-600 {
+  background-color: #001a4d;
+}
+.simplingua .hover\:bg-blue-700:hover {
+  background-color: #002d7a;
+}
+.simplingua .text-blue-600 {
+  color: #001a4d;
+}
+.simplingua .hover\:text-blue-800:hover {
+  color: #003d99;
+}
+.simplingua .bg-blue-50 {
+  background-color: rgba(0, 26, 77, 0.08);
+}
+.simplingua .border-blue-300 {
+  border-color: rgba(0, 26, 77, 0.35);
+}
+.simplingua .text-blue-700 {
+  color: #001a4d;
+}
+.simplingua .text-blue-400 {
+  color: #3366aa;
+}
+.simplingua .focus\:ring-blue-500:focus {
+  --tw-ring-color: #001a4d;
+  border-color: #001a4d;
+}
+.simplingua .focus\:ring-2:focus {
+  --tw-ring-color: #001a4d;
+}
+.simplingua .focus\:border-transparent:focus {
+  border-color: transparent;
+}
+.simplingua .bg-blue-100 {
+  background-color: rgba(0, 26, 77, 0.12);
+}
+.simplingua .hover\:bg-blue-200:hover {
+  background-color: rgba(0, 26, 77, 0.18);
+}

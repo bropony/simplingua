@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { ZodError } from "zod";
 import connectDB from "@/lib/db";
 import Discussion from "@/models/Discussion";
+import Comment from "@/models/Comment";
 import { getAuthUser } from "@/lib/api";
 import { escapeRegex } from "@/lib/utils";
 import { createDiscussionSchema, formatZodError } from "@/lib/validators";
@@ -16,12 +17,30 @@ export async function GET(request: NextRequest) {
     const limit = Math.min(50, Math.max(1, parseInt(searchParams.get("limit") || "20")));
     const tag = searchParams.get("tag");
     const sort = searchParams.get("sort") || "recent";
-    const author = searchParams.get("author");
+    let author = searchParams.get("author");
+    const commentedBy = searchParams.get("commented_by");
     const search = searchParams.get("search");
+
+    // Resolve "me" to the current user's ID
+    if (author === "me" || commentedBy === "me") {
+      const authUser = await getAuthUser(request);
+      if (!authUser) {
+        return NextResponse.json(
+          { success: false, error: { code: "UNAUTHORIZED", message: "请先登录" } },
+          { status: 401 }
+        );
+      }
+      if (author === "me") author = authUser.userId;
+    }
 
     const filter: Record<string, unknown> = {};
     if (tag) filter.tags = tag;
     if (author) filter.authorId = author;
+    if (commentedBy) {
+      const userId = commentedBy === "me" ? (await getAuthUser(request))!.userId : commentedBy;
+      const commentedDiscussionIds = await Comment.distinct("discussionId", { authorId: userId });
+      filter._id = { $in: commentedDiscussionIds };
+    }
     if (search) {
       const escaped = escapeRegex(search);
       filter.$or = [

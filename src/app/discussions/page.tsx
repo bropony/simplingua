@@ -41,9 +41,10 @@ export default function DiscussionsPage() {
   const [search, setSearch] = useState("");
   const [searchInput, setSearchInput] = useState("");
   const [tag, setTag] = useState("");
+  const [filter, setFilter] = useState<"" | "my-discussions" | "my-comments">("");
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
-  const [user, setUser] = useState<{ username: string; role: string } | null>(null);
+  const [user, setUser] = useState<{ id: string; username: string; role: string } | null>(null);
 
   useEffect(() => {
     const token = localStorage.getItem("token");
@@ -53,13 +54,13 @@ export default function DiscussionsPage() {
     })
       .then((res) => (res.ok ? res.json() : null))
       .then((data) => {
-        if (data?.success) setUser(data.data);
+        if (data?.success) setUser(data.data.user);
       })
       .catch(() => {});
   }, []);
 
   const fetchDiscussions = useCallback(
-    async (p: number, s: string, q: string, t: string) => {
+    async (p: number, s: string, q: string, t: string, f: string) => {
       setLoading(true);
       setError("");
       try {
@@ -69,8 +70,14 @@ export default function DiscussionsPage() {
         params.set("sort", s);
         if (q) params.set("search", q);
         if (t) params.set("tag", t);
+        if (f === "my-discussions") params.set("author", "me");
+        if (f === "my-comments") params.set("commented_by", "me");
 
-        const res = await fetch(`/api/discussions?${params}`);
+        const headers: Record<string, string> = {};
+        const token = localStorage.getItem("token");
+        if (token && f) headers["Authorization"] = `Bearer ${token}`;
+
+        const res = await fetch(`/api/discussions?${params}`, { headers });
         if (!res.ok) throw new Error("请求失败");
         const data = await res.json();
         if (data.success) {
@@ -91,12 +98,12 @@ export default function DiscussionsPage() {
   );
 
   useEffect(() => {
-    fetchDiscussions(page, sort, search, tag);
-  }, [page, sort, search, tag, fetchDiscussions]);
+    fetchDiscussions(page, sort, search, tag, filter);
+  }, [page, sort, search, tag, filter, fetchDiscussions]);
 
   const retryFetch = useCallback(() => {
-    fetchDiscussions(page, sort, search, tag);
-  }, [fetchDiscussions, page, sort, search, tag]);
+    fetchDiscussions(page, sort, search, tag, filter);
+  }, [fetchDiscussions, page, sort, search, tag, filter]);
 
   const handleSearch = () => {
     setSearch(searchInput);
@@ -204,6 +211,32 @@ export default function DiscussionsPage() {
           )}
         </div>
       </div>
+
+      {/* My Activity Filter */}
+      {user && (
+        <div className="flex gap-2 mb-4">
+          <button
+            onClick={() => { setFilter(filter === "my-discussions" ? "" : "my-discussions"); setPage(1); }}
+            className={`px-3 py-1.5 text-sm rounded-md border transition-colors ${
+              filter === "my-discussions"
+                ? "bg-blue-50 dark:bg-blue-900/30 border-blue-300 dark:border-blue-700 text-blue-700 dark:text-blue-400 font-medium"
+                : "bg-white dark:bg-gray-800 border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700"
+            }`}
+          >
+            我发起的
+          </button>
+          <button
+            onClick={() => { setFilter(filter === "my-comments" ? "" : "my-comments"); setPage(1); }}
+            className={`px-3 py-1.5 text-sm rounded-md border transition-colors ${
+              filter === "my-comments"
+                ? "bg-blue-50 dark:bg-blue-900/30 border-blue-300 dark:border-blue-700 text-blue-700 dark:text-blue-400 font-medium"
+                : "bg-white dark:bg-gray-800 border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-700"
+            }`}
+          >
+            我评论的
+          </button>
+        </div>
+      )}
 
       {/* Discussion List */}
       {loading ? (

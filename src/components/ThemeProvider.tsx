@@ -13,8 +13,12 @@ export default function ThemeProvider({ children }: { children: React.ReactNode 
 
       if (theme === "dark") {
         document.documentElement.classList.add("dark");
-      } else {
+        document.documentElement.classList.remove("simplingua");
+      } else if (theme === "simplingua") {
         document.documentElement.classList.remove("dark");
+        document.documentElement.classList.add("simplingua");
+      } else {
+        document.documentElement.classList.remove("dark", "simplingua");
       }
     };
 

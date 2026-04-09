@@ -21,7 +21,7 @@ interface Discussion {
 interface UserInfo {
   username: string;
   role: string;
-  userId: string;
+  id: string;
 }
 
 export default function EditDiscussionPage() {
@@ -50,7 +50,7 @@ export default function EditDiscussionPage() {
       .then((res) => (res.ok ? res.json() : null))
       .then((data) => {
         if (data?.success) {
-          setUser(data.data);
+          setUser(data.data.user);
         } else {
           router.push("/login");
         }
@@ -81,7 +81,7 @@ export default function EditDiscussionPage() {
 
   useEffect(() => {
     if (discussion && user) {
-      const isOwner = discussion.authorId._id === user.userId;
+      const isOwner = discussion.authorId._id === user.id;
       const isAdmin = user.role === "admin";
       if (!isOwner && !isAdmin) {
         router.push(`/discussions/${discussionId}`);

@@ -52,6 +52,7 @@ export default function RegisterPage() {
 
       if (data.success) {
         localStorage.setItem("token", data.data.token);
+        window.dispatchEvent(new Event("auth-change"));
         router.push("/");
       } else {
         setError(data.error?.message || "注册失败");

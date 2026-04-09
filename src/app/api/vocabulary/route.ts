@@ -14,13 +14,16 @@ export async function GET(request: NextRequest) {
     const { searchParams } = new URL(request.url);
     const letter = searchParams.get("letter");
     const search = searchParams.get("search");
+    const word = searchParams.get("word");
     const pos = searchParams.get("pos");
     const page = Math.max(1, parseInt(searchParams.get("page") || "1"));
     const limit = Math.min(100, Math.max(1, parseInt(searchParams.get("limit") || "50")));
 
     const filter: Record<string, unknown> = {};
 
-    if (letter) {
+    if (word) {
+      filter.word = { $regex: `^${escapeRegex(word)}$`, $options: "i" };
+    } else if (letter) {
       filter.letter = letter.toUpperCase();
     }
 

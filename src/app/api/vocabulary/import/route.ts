@@ -31,13 +31,15 @@ export async function POST(request: NextRequest) {
     const data = parsed.data;
 
     let imported = 0;
+    let skipped = 0;
     const errors: { index: number; word: string; error: string }[] = [];
 
     for (let i = 0; i < data.length; i++) {
       const item = data[i] as Record<string, any>;
       try {
         if (!item.word || !item.partOfSpeech) {
-          errors.push({ index: i, word: item.word || "", error: "缺少必填字段" });
+          // Skip structural entries (letter headers, numbering, etc.)
+          skipped++;
           continue;
         }
 
@@ -61,7 +63,7 @@ export async function POST(request: NextRequest) {
 
     return NextResponse.json({
       success: true,
-      data: { imported, errors, total: data.length },
+      data: { imported, skipped, errors, total: data.length },
     });
   } catch (error) {
     console.error("Vocabulary import error:", error);

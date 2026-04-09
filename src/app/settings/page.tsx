@@ -140,8 +140,12 @@ export default function SettingsPage() {
     localStorage.setItem("theme", newTheme);
     if (newTheme === "dark") {
       document.documentElement.classList.add("dark");
-    } else {
+      document.documentElement.classList.remove("simplingua");
+    } else if (newTheme === "simplingua") {
       document.documentElement.classList.remove("dark");
+      document.documentElement.classList.add("simplingua");
+    } else {
+      document.documentElement.classList.remove("dark", "simplingua");
     }
     setThemeSaving(true);
     const token = getToken();
@@ -302,8 +306,8 @@ export default function SettingsPage() {
               disabled={themeSaving}
               className={`px-4 py-2 text-sm rounded-md border transition-colors ${
                 theme === "light"
-                  ? "bg-blue-50 dark:bg-blue-900/30 border-blue-300 dark:border-blue-700 text-blue-700 dark:text-blue-400 font-medium"
-                  : "bg-white dark:bg-gray-700 border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-600"
+                  ? "bg-blue-50 border-blue-300 text-blue-700 font-medium"
+                  : "bg-white border-gray-300 text-gray-600 hover:bg-gray-50"
               }`}
             >
               浅色
@@ -313,11 +317,22 @@ export default function SettingsPage() {
               disabled={themeSaving}
               className={`px-4 py-2 text-sm rounded-md border transition-colors ${
                 theme === "dark"
-                  ? "bg-blue-50 dark:bg-blue-900/30 border-blue-300 dark:border-blue-700 text-blue-700 dark:text-blue-400 font-medium"
-                  : "bg-white dark:bg-gray-700 border-gray-300 dark:border-gray-600 text-gray-600 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-600"
+                  ? "bg-gray-800 border-gray-600 text-gray-200 font-medium"
+                  : "bg-white border-gray-300 text-gray-600 hover:bg-gray-50"
               }`}
             >
               深色
+            </button>
+            <button
+              onClick={() => handleThemeChange("simplingua")}
+              disabled={themeSaving}
+              className={`px-4 py-2 text-sm rounded-md border transition-colors ${
+                theme === "simplingua"
+                  ? "bg-[#001a4d] border-[#002d7a] text-white font-medium"
+                  : "bg-white border-gray-300 text-gray-600 hover:bg-gray-50"
+              }`}
+            >
+              简语
             </button>
           </div>
           {themeSaving && (

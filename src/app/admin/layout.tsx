@@ -37,8 +37,8 @@ export default function AdminLayout({
     })
       .then((res) => (res.ok ? res.json() : null))
       .then((data) => {
-        if (data?.success && data.data?.role === "admin") {
-          setUser(data.data);
+        if (data?.success && data.data?.user?.role === "admin") {
+          setUser(data.data.user);
         } else {
           router.push("/");
         }

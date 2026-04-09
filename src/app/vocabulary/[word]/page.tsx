@@ -27,8 +27,8 @@ interface VocabEntry {
   definitions: Definition[];
   relatedWords: RelatedWord[];
   letter: string;
-  pronunciation?: string;
-  genderForms?: { masculine?: string; feminine?: string; neuter?: string };
+  pronunciation?: { ipa?: string; stressNote?: string };
+  genderForms?: { masculine?: string; feminine?: string; neuter?: string; epicene?: string };
 }
 
 export default function WordDetailPage() {
@@ -46,19 +46,12 @@ export default function WordDetailPage() {
     setNotFound(false);
     try {
       const res = await fetch(
-        `/api/vocabulary?search=${encodeURIComponent(wordName)}&limit=1`
+        `/api/vocabulary?word=${encodeURIComponent(wordName)}&limit=1`
       );
       if (!res.ok) throw new Error("请求失败");
       const data = await res.json();
       if (data.success && data.data.items.length > 0) {
-        const found = data.data.items.find(
-          (item: VocabEntry) => item.word.toLowerCase() === wordName.toLowerCase()
-        );
-        if (found) {
-          setEntry(found);
-        } else {
-          setNotFound(true);
-        }
+        setEntry(data.data.items[0]);
       } else {
         setNotFound(true);
       }
@@ -121,9 +114,9 @@ export default function WordDetailPage() {
         {entry.verbType && (
           <p className="text-sm text-gray-500 mt-1">{entry.verbType}</p>
         )}
-        {entry.pronunciation && (
+        {entry.pronunciation?.ipa && (
           <p className="text-sm text-gray-500 mt-1">
-            发音：{entry.pronunciation}
+            发音：{entry.pronunciation.ipa}
           </p>
         )}
       </div>
@@ -160,7 +153,7 @@ export default function WordDetailPage() {
 
       {/* Gender Forms */}
       {entry.genderForms &&
-        Object.values(entry.genderForms).some(Boolean) && (
+        (entry.genderForms.masculine || entry.genderForms.feminine || entry.genderForms.neuter || entry.genderForms.epicene) && (
           <div className="bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 p-6 mb-6">
             <h2 className="text-lg font-semibold text-gray-900 dark:text-gray-100 mb-4">性态形式</h2>
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
