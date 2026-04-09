@@ -165,7 +165,18 @@ function parseGrammar(inputText) {
   function flushChapter() {
     if (!currentChapter) return;
     flushSection();
-    flushContent();
+    // If no sections were created, capture accumulated content as a default section
+    const remaining = contentBuffer.join("\n").trim();
+    contentBuffer = [];
+    if (currentChapter.sections.length === 0 && remaining) {
+      currentChapter.sections.push({
+        title: currentChapter.chapterTitle,
+        content: remaining,
+        examples: [],
+        subsections: [],
+      });
+      stats.sections++;
+    }
     if (currentChapter.sections.length > 0 || currentChapter.chapterTitle) {
       chapters.push(currentChapter);
       stats.chapters++;
@@ -202,13 +213,11 @@ function parseGrammar(inputText) {
       const chapterTitle = chapterMatch[1];
 
       // Check if this chapter title is in the TOC
-      const tocIndex = toc.indexOf(chapterTitle);
-
       flushChapter();
       currentChapter = {
         chapterTitle: chapterTitle,
         chapterTitleSimp: chapterTitle,
-        order: tocIndex >= 0 ? tocIndex + 1 : chapters.length + 1,
+        order: 0, // will be reassigned after all chapters are parsed
         sections: [],
       };
       continue;
@@ -248,6 +257,11 @@ function parseGrammar(inputText) {
 
   // Flush remaining
   flushChapter();
+
+  // Phase 2b: Assign sequential order based on appearance in document
+  for (let i = 0; i < chapters.length; i++) {
+    chapters[i].order = i + 1;
+  }
 
   // Phase 3: Extract examples from content
   for (const chapter of chapters) {
